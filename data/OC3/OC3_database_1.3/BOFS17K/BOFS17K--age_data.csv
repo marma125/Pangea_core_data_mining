@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,dated_age (y),dated_age_error_plus (y),dated_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+BOFS17K,,0.4,,,,8460,,,,,,9462,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,0.62,,,,14654,,,,,,17497,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,0.68,,,,16110,,,,,,18985,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,0.9,,,,21578,,,,,,25159,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,1.12,,,,27622,,,,,,31204,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,1.5,,,,39129,,,,,,43088,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,1.88,,,,54700,,,,,,54700,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+BOFS17K,,2.3,,,,69700,,,,,,69700,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,

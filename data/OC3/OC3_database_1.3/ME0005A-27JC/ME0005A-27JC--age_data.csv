@@ -1,0 +1,14 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+ME0005A-27JC,,0.005,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,2300,35,35,467,,,1837,93,111,,,,,,"Mekik, 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,0.41,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,7430,40,40,467,,,7830,95,105,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,0.805,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,12200,55,55,467,,,13581,167,156,,,,,,"Mekik, 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,0.91,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,13650,65,65,467,,,15836,232,230,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,1.2,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,17200,70,70,467,,,20181,235,215,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,1.255,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,17400,70,70,467,,,20417,207,242,,,,,,"Mekik, 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,1.6,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,22200,95,95,467,,,25969,177,175,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,1.73,benthic d18O tied to LR04,,,,,,,,,29000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,2.71,benthic d18O tied to LR04,,,,,,,,,49000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,3.01,benthic d18O tied to LR04,,,,,,,,,54000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,3.31,benthic d18O tied to LR04,,,,,,,,,61000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,4.31,ash layer,,,,,,,,,84000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005A-27JC,,5.22,benthic d18O tied to LR04,,,,,,,,,110000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309

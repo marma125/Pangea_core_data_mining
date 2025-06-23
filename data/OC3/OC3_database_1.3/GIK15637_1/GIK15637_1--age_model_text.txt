@@ -1,0 +1,95 @@
+BACON output from Jonkers et al. 2020:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK15637_1
+    Parameter: Age
+    Longitude: -18.9867
+    Latitude: 27.005
+    Water Depth: 3849.0
+    Proxy Category: Age
+    Device: NA
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Basin: Atlantic Ocean
+    Filename: GIK15637_1.age
+    Optional: 
+    bacon_K: 42
+    bacon_d_min: 0.75
+    bacon_d_max: 214.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 597.802
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 3.0
+    bacon_t_b: 4.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 5098.29
+    bacon_th0p: 5125.77
+    bacon_burnin: 0
+    bacon_ssize: 2000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 148.2
+    dimensions(sizes): Length(28), Label_Characters(4), Type_Characters(3), Comment_Characters(82), bacon_out_nrow(4362), bacon_out_ncol(45), Bacon Length(213)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters,Length), |S1 Type(Type_Characters,Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters,Length), float32 bacon_data(bacon_out_nrow,bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 95% Quantile(Bacon Length)
+    groups: 
+    
+    
+    BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK15637-1
+    Parameter: Age
+    Longitude: -18.987
+    Latitude: 27.005
+    Water Depth: 3849.0
+    Proxy Category: Age
+    Device: Piston corer (Kiel type)
+    Laboratory: na
+    E-Paper: na
+    Comment: Added 0.4 ka to radiocarbon ages to reverse reservoir correction
+    Data Source: Table in thesis
+    Reference: Kiefer, T.: Produktivit�t und Temperaturen im subtropischen Nordatlantik: Zyklische und abrupte Ver�nderungen im sp�ten Quart�r, Berichte / Geologisch-Pal�ontologisches Institut und Museum, Christian-Albrechts-Universit�t Kiel, 90, Geologisch-Pal�ontolog. Inst. und Museum Christian-Albrechts-Univ, Kiel, 127 pp., 1998.
+    Use Flag: 0
+    Importer: na
+    Filename: GIK15637-1.age
+    Optional: na
+    bacon_K: 21
+    bacon_d_min: 0.75
+    bacon_d_max: 108.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 355.748
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 5523.63
+    bacon_th0p: 5511.27
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(24), Label_Characters(3), Type_Characters(3), Comment_Characters(77), bacon_out_nrow(1000), bacon_out_ncol(24), Bacon Length(107)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

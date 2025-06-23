@@ -1,0 +1,10 @@
+Site,Sample Label,archival_depth (m),d13C (VPDB),d18O (VPDB),d13C_corrected (PDB),d18O_corrected (PDB),Number of shells,Minimum mesh size (um),Maximum mesh size (um),Taxon,Taxon_flag,Taxon_note1,Taxon_note2,Taxon_note3,Additional_note,Publication source,Original Reference,File Name,Data source,quality control
+V28-14,,5.01,0.3,3.5,0.3,3.5,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.05,0.22,3.07,0.22,3.07,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.11,0.21,2.58,0.21,2.58,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.15,-0.03,2.56,-0.03,2.56,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.19,-0.58,2.58,-0.58,2.58,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.25,-0.56,2.61,-0.56,2.61,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.35,-1.03,3.03,-1.03,3.03,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.39,-0.09,3.98,-0.09,3.98,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1
+V28-14,,5.45,0.03,4.46,0.03,4.46,,,,Cibicidoides wuellerstorfi,1,,,,,Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.358951,1

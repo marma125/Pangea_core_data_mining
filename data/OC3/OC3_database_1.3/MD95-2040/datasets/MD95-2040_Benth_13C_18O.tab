@@ -1,0 +1,160 @@
+/* DATA DESCRIPTION:
+Citation:	Schönfeld, Joachim; Zahn, Rainer; de Abreu, Lucia (2003): Stable isotope ratios on benthic foraminifera of sediment core MD95-2040. PANGAEA, https://doi.org/10.1594/PANGAEA.59933, 
+	In supplement to: Schönfeld, J et al. (2003): Surface to deep water response to rapid climate changes at the western Iberian Margin. Global and Planetary Change, 36(4), 237-264, https://doi.org/10.1016/S0921-8181(02)00197-2
+Keyword(s):	Western Iberian Margin
+Related to:	Vogelsang, Elke; Sarnthein, Michael; Pflaumann, Uwe (2001): d18O Stratigraphy, chronology, and sea surface temperatures of Atlantic sediment records (GLAMAP-2000 Kiel). Berichte-Reports, Institut für Geowissenschaften, Universität Kiel, 13, 13+244 pp., https://doi.org/10.2312/reports-ifg.2001.13
+Project(s):	International Marine Global Change Study (IMAGES)
+Coverage:	LATITUDE: 40.581833 * LONGITUDE: -9.861167
+	DATE/TIME START: 1995-07-07T00:00:00 * DATE/TIME END: 1995-07-07T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.03 m * MAXIMUM DEPTH, sediment/rock: 11.90 m
+Event(s):	MD95-2040 (MD952040) * LATITUDE: 40.581833 * LONGITUDE: -9.861167 * DATE/TIME: 1995-07-07T00:00:00 * ELEVATION: -2465.0 m * Recovery: 35 m * LOCATION: Porto Seamount * CAMPAIGN: MD101 (IMAGES I) (URI: hdl:10013/epic.37487.d001) * BASIS: Marion Dufresne (1995) (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * METHOD/DEVICE: Calypso Corer (CALYPSO) * COMMENT: XXIV Sections, core bent; section IIb jamed in the bent part of the core, recuperated in 1/2 liner
+Comment:	part of the data published in Vogelsang et al. (2001)
+	This dataset was archived in 2003 and extended in 2006.
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Sample code/label (Sample label) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de)
+	Depth, top/min [m] (Depth top) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de)
+	Depth, bottom/max [m] (Depth bot) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de)
+	Species (Species) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de)
+	Number of species [#] (Spec No) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de) * METHOD/DEVICE: Counting >250 µm fraction
+	Foraminifera, benthic δ13C [‰ PDB] (Foram bent δ13C) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de) * METHOD/DEVICE: Isotope ratio mass spectrometry (URI: https://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	Foraminifera, benthic δ18O [‰ PDB] (Foram bent δ18O) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de) * METHOD/DEVICE: Isotope ratio mass spectrometry (URI: https://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+	δ18O, adjusted/corrected [‰] (δ18O) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de) * METHOD/DEVICE: adjusted for vital effect * COMMENT: d18OUvigerina - 0,64 = d18O C. wuellerstorfi
+	Comment (Comment) * PI: Schönfeld, Joachim (jschoenfeld@geomar.de)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	925 data points
+*/
+Depth [m]	Sample label	Depth top [m]	Depth bot [m]	Species	Spec No [#]	Foram bent δ13C [‰ PDB]	Foram bent δ18O [‰ PDB]	δ18O [‰]	Comment
+0.02		0.02	0.03	Cibicidoides wuellerstorfi	3	0.96	2.59	2.59	
+0.14		0.14	0.15	Cibicidoides wuellerstorfi	2	1.18	2.65	2.65	
+0.26		0.26	0.27	Cibicidoides wuellerstorfi	3	1.02	2.47	2.47	
+0.38		0.38	0.39	Cibicidoides wuellerstorfi	2	1.13	2.56	2.56	
+0.50		0.50	0.51	Cibicidoides wuellerstorfi	3	0.86	2.52	2.52	
+0.62		0.62	0.63	Cibicidoides wuellerstorfi	3	0.99	2.43	2.43	
+0.74		0.74	0.75	Cibicidoides wuellerstorfi	2	0.82	2.61	2.61	
+0.86		0.86	0.87	Cibicidoides wuellerstorfi	1	0.88	2.73	2.73	
+0.98		0.98	0.99	Cibicidoides wuellerstorfi	3	1.01	2.48	2.48	
+1.10		1.10	1.11	Cibicidoides wuellerstorfi	3	0.80	2.76	2.76	
+1.22		1.22	1.23	Cibicidoides wuellerstorfi	1	0.74	2.45	2.45	
+1.34		1.34	1.35	Cibicidoides wuellerstorfi	3	0.72	2.81	2.81	
+1.46		1.46	1.47	Cibicidoides wuellerstorfi	3	0.57	2.91	2.91	
+1.58		1.58	1.59	Cibicidoides wuellerstorfi	3	0.82	3.00	3.00	
+1.70		1.70	1.71	Cibicidoides wuellerstorfi	3	0.79	3.07	3.07	
+1.82		1.82	1.83	Cibicidoides wuellerstorfi	3	0.56	2.77	2.77	
+1.88		1.88	1.89	Cibicidoides wuellerstorfi	2	0.46	3.03	3.03	
+1.92		1.91	1.92	Cibicidoides wuellerstorfi	2	0.56	3.11	3.11	
+1.95		1.94	1.96	Cibicidoides wuellerstorfi	2	0.67	3.12	3.12	
+1.98		1.97	1.98	Cibicidoides wuellerstorfi	2	0.15	3.37	3.37	
+2.00		2.00	2.01	Cibicidoides wuellerstorfi	3	0.73	3.31	3.31	
+2.04		2.03	2.04	Cibicidoides wuellerstorfi	2	0.20	3.42	3.42	
+2.06		2.06	2.07	Cibicidoides wuellerstorfi	3	0.63	3.38	3.38	
+2.10		2.09	2.10	Cibicidoides wuellerstorfi	1	0.65	3.42	3.42	
+2.12		2.12	2.13	Cibicidoides kullenbergi	1	0.00	3.78	3.78	
+2.16		2.15	2.16	Cibicidoides wuellerstorfi	3	0.45	3.57	3.57	
+2.18		2.18	2.19	Cibicidoides wuellerstorfi	1	0.63	3.19	3.19	
+2.22		2.21	2.22	Cibicidoides wuellerstorfi	2	0.03	3.54	3.54	
+2.24		2.24	2.25	Cibicidoides wuellerstorfi	2	-0.07	4.00	4.00	
+2.28		2.27	2.28	Cibicidoides wuellerstorfi	1	0.01	3.71	3.71	
+2.34		2.33	2.34	Cibicidoides wuellerstorfi	3	-0.04	3.68	3.68	
+2.36		2.36	2.37	Cibicidoides wuellerstorfi	2	0.06	3.54	3.54	
+2.40		2.39	2.40	Cibicidoides wuellerstorfi	1	0.02	3.64	3.64	
+2.46		2.45	2.46	Cibicidoides wuellerstorfi	1	0.15	3.57	3.57	
+2.48		2.48	2.49	Cibicidoides wuellerstorfi	1	0.16	3.52	3.52	
+2.56		2.56	2.57	Cibicidoides wuellerstorfi	1	-0.18	3.57	3.57	
+2.58		2.57	2.58	Cibicidoides wuellerstorfi	1	-0.10	3.91	3.91	
+2.58		2.58	2.59	Cibicidoides wuellerstorfi	2	-0.01	3.71	3.71	
+2.60		2.60	2.61	Cibicidoides kullenbergi	1	0.86	2.66	2.66	
+2.62		2.62	2.63	Cibicidoides wuellerstorfi	2	-0.05	4.02	4.02	
+2.66		2.65	2.66	Cibicidoides wuellerstorfi	3	-0.02	3.88	3.88	
+2.68		2.67	2.68	Cibicidoides wuellerstorfi	1	-0.16	3.58	3.58	
+2.74		2.73	2.74	Cibicidoides wuellerstorfi	1	-2.05	4.49	4.49	
+2.78		2.77	2.78	Cibicidoides wuellerstorfi	3	0.07	4.45	4.45	
+2.89		2.88	2.89	Cibicidoides wuellerstorfi	2	-0.05	4.14	4.14	
+2.94		2.93	2.94	Uvigerina peregrina	2	-0.80	5.23	4.59	
+2.96		2.96	2.97	Cibicidoides wuellerstorfi	2	0.44	4.53	4.53	
+3.00		2.99	3.00	Uvigerina peregrina	3	-0.84	5.34	4.70	
+3.06		3.05	3.06	Uvigerina peregrina	4	-0.95	5.35	4.71	
+3.06		3.05	3.06	Cibicidoides wuellerstorfi	2	0.59	4.58	4.58	
+3.08		3.08	3.09	Cibicidoides wuellerstorfi	2	0.59	4.55	4.55	
+3.12		3.11	3.12	Cibicidoides wuellerstorfi	2	0.66	4.52	4.52	
+3.18		3.17	3.18	Cibicidoides wuellerstorfi	2	0.53	4.50	4.50	
+3.20		3.20	3.21	Cibicidoides wuellerstorfi	3	0.63	4.70	4.70	
+3.24		3.23	3.24	Cibicidoides wuellerstorfi	3	0.60	4.65	4.65	
+3.30		3.29	3.30	Cibicidoides wuellerstorfi	3	0.47	4.53	4.53	
+3.32		3.32	3.33	Uvigerina peregrina	3	-0.86	5.31	4.67	
+3.36		3.35	3.36	Cibicidoides wuellerstorfi	3	0.52	4.55	4.55	
+3.86		3.86	3.87	Cibicidoides wuellerstorfi	4	0.42	4.51	4.51	
+3.98		3.98	3.99	Cibicidoides wuellerstorfi	1	0.64	4.37	4.37	
+4.10		4.10	4.11	Uvigerina peregrina	4	-0.91	5.05	4.41	
+4.46		4.46	4.47	Cibicidoides wuellerstorfi	1	-2.15	0.53	0.53	
+5.19		5.18	5.19	Cibicidoides wuellerstorfi	2	0.30	4.08	4.08	
+5.30		5.30	5.31	Cibicidoides wuellerstorfi	3	0.20	4.24	4.24	
+5.54		5.54	5.55	Cibicidoides wuellerstorfi	1	0.31	4.10	4.10	
+5.78		5.78	5.79	Uvigerina pygmea	2	-1.14	5.02	4.38	
+5.90		5.90	5.91	Cibicidoides wuellerstorfi	1	0.37	4.27	4.27	
+6.02		6.02	6.03	Uvigerina pygmea	2	-0.80	4.33	3.69	
+6.15		6.14	6.15	Uvigerina pygmea	2	-0.79	5.01	4.37	
+6.27		6.26	6.27	Cibicidoides kullenbergi	1	0.23	2.70	2.70	
+6.38		6.38	6.39	Cibicidoides wuellerstorfi	1	0.46	4.13	4.13	
+6.50		6.50	6.51	Cibicidoides wuellerstorfi	1	0.47	4.12	4.12	
+6.74		6.74	6.75	Cibicidoides wuellerstorfi	2	0.28	3.83	3.83	
+7.34		7.34	7.35	Cibicidoides wuellerstorfi	1	0.54	4.14	4.14	
+7.58		7.58	7.59	Cibicidoides wuellerstorfi	3	0.55	3.87	3.87	
+7.70		7.70	7.71	Cibicidoides wuellerstorfi	4	0.40	4.16	4.16	
+7.82		7.82	7.83	Cibicidoides wuellerstorfi	1	0.83	3.74	3.74	
+7.94		7.94	7.95	Cibicidoides wuellerstorfi	1	0.44	3.93	3.93	
+8.06		8.06	8.07	Cibicidoides wuellerstorfi	2	0.63	3.79	3.79	
+8.18		8.18	8.19	Cibicidoides wuellerstorfi	2	0.04	2.68	2.68	
+8.30		8.30	8.31	Cibicidoides wuellerstorfi	2	0.61	3.91	3.91	
+8.34		8.34	8.35	Cibicidoides wuellerstorfi	3	0.63	3.98	3.98	
+8.36		8.35	8.36	Cibicidoides wuellerstorfi	3	0.76	4.12	4.12	
+8.38		8.38	8.39	Cibicidoides wuellerstorfi	2	0.67	3.97	3.97	
+8.42		8.42	8.43	Cibicidoides wuellerstorfi	2	0.52	3.75	3.75	
+8.44		8.44	8.45	Cibicidoides wuellerstorfi	3	0.49	3.87	3.87	
+8.48		8.47	8.48	Cibicidoides wuellerstorfi	3	0.52	3.75	3.75	
+8.48		8.48	8.49	Cibicidoides wuellerstorfi		0.68	3.59	3.59	Measurement by Nickolas Shackleton
+8.50		8.50	8.51	Cibicidoides wuellerstorfi	3	0.74	3.73	3.73	
+8.52	M99/0617			Cibicidoides spp.		0.35	3.53	3.53	Measurement by Nickolas Shackleton
+8.54		8.54	8.55	Cibicidoides kullenbergi	2	-0.39	4.06	4.06	
+8.58	M98/2671			Cibicidoides spp.		0.33	3.63	3.63	Measurement by Nickolas Shackleton
+8.60		8.59	8.60	Cibicidoides wuellerstorfi	3	0.18	3.51	3.51	
+8.60	M98/2672			Cibicidoides spp.		0.38	3.49	3.49	Measurement by Nickolas Shackleton
+8.62		8.62	8.63	Cibicidoides wuellerstorfi	3	0.49	3.70	3.70	
+8.64	M99/0611			Cibicidoides wuellerstorfi		0.88	2.85	2.85	Measurement by Nickolas Shackleton
+8.67	M98/2330			Cibicidoides spp.		0.33	3.72	3.72	Measurement by Nickolas Shackleton
+8.68		8.67	8.68	Cibicidoides wuellerstorfi	3	0.55	3.71	3.71	
+8.70	M98/2673			Cibicidoides spp.		0.16	3.51	3.51	Measurement by Nickolas Shackleton
+8.76		8.76	8.77	Cibicidoides wuellerstorfi	2	0.06	3.59	3.59	
+8.80		8.80	8.81	Cibicidoides wuellerstorfi	2	0.19	3.86	3.86	
+8.82	M99/0518			Cibicidoides wuellerstorfi		0.02	3.45	3.45	Measurement by Nickolas Shackleton
+8.84	M98/2361			Cibicidoides spp.		0.59	3.95	3.95	Measurement by Nickolas Shackleton
+8.86		8.86	8.87	Cibicidoides wuellerstorfi	2	0.51	4.03	4.03	
+8.90	M98/2675			Cibicidoides spp.		0.69	3.74	3.74	Measurement by Nickolas Shackleton
+8.94	M98/2676			Cibicidoides spp.		0.61	3.93	3.93	Measurement by Nickolas Shackleton
+8.96	M99/0526			Cibicidoides wuellerstorfi		0.39	4.11	4.11	Measurement by Nickolas Shackleton
+8.98		8.97	8.98	Cibicidoides wuellerstorfi	3	0.57	4.11	4.11	
+9.00		9.00	9.01	Cibicidoides wuellerstorfi	3	0.65	4.00	4.00	
+9.02	M99/0529			Cibicidoides wuellerstorfi		0.54	3.93	3.93	Measurement by Nickolas Shackleton
+9.02		9.02	9.03	Cibicidoides wuellerstorfi	2	0.30	3.61	3.61	
+9.06	M98/2678			Cibicidoides spp.		0.52	4.08	4.08	Measurement by Nickolas Shackleton
+9.06		9.06	9.07	Cibicidoides wuellerstorfi	3	0.57	4.22	4.22	
+9.10		9.10	9.11	Cibicidoides wuellerstorfi	3	0.41	3.98	3.98	
+9.12		9.12	9.13	Cibicidoides wuellerstorfi	2	0.49	4.01	4.01	
+9.17		9.16	9.17	Cibicidoides wuellerstorfi	3	0.66	3.79	3.79	
+9.20		9.19	9.20	Cibicidoides wuellerstorfi	1	0.48	3.97	3.97	
+9.24		9.23	9.24	Uvigerina pygmea	2	-0.81	4.79	4.15	
+9.26		9.26	9.27	Uvigerina pygmea	2	-0.65	4.58	3.94	
+9.28		9.27	9.28	Cibicidoides wuellerstorfi	2	0.58	4.02	4.02	
+9.28		9.27	9.28	Uvigerina pygmeay	2	-0.88	4.93	4.29	
+9.32		9.31	9.32	Cibicidoides wuellerstorfi	2	0.54	3.79	3.79	
+9.38		9.38	9.39	Uvigerina pygmea	3	-0.90	4.89	4.25	
+9.50		9.50	9.51	Uvigerina pygmea	2	-0.73	4.84	4.20	
+9.62		9.62	9.63	Cibicidoides wuellerstorfi	3	0.55	4.15	4.15	
+9.75		9.74	9.75	Cibicidoides wuellerstorfi	2	0.63	3.88	3.88	
+9.86		9.86	9.87	Cibicidoides wuellerstorfi	2	0.54	4.04	4.04	
+9.98		9.98	9.99	Cibicidoides wuellerstorfi	2	0.36	3.49	3.49	
+10.70		10.70	10.71	Cibicidoides wuellerstorfi	3	0.70	3.89	3.89	
+10.83		10.82	10.83	Cibicidoides wuellerstorfi	3	0.24	3.69	3.69	
+10.94		10.94	10.95	Cibicidoides wuellerstorfi	3	0.28	3.99	3.99	
+11.06		11.06	11.07	Cibicidoides wuellerstorfi	2	0.60	3.84	3.84	
+11.18		11.18	11.19	Cibicidoides wuellerstorfi	1	0.44	3.47	3.47	
+11.90		11.90	11.91	Cibicidoides wuellerstorfi	1	0.31	3.95	3.95	

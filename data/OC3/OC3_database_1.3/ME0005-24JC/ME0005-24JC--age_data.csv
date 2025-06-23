@@ -1,0 +1,11 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+ME0005-24JC,,0.175,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,3255,30,30,467,,,2985,112,114,,,,,,"Kusch et al., 2010",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,0.485,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,7100,40,40,467,,,7520,70,86,,,,,,"Kusch et al., 2010",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,0.81,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,9040,40,40,467,,,9623,146,105,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,2.3,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,13900,35,35,467,,,16157,156,166,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,2.91,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,15700,85,85,467,,,18496,210,209,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,3.51,"radiocarbon MARINE13, Calib 7.1",,N. dutertrei,18050,65,65,467,,,21244,254,260,,,,,,"Kienast et al., 2007",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,5.22,benthic d18O tied to LR04,,,,,,,,,39000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,6.12,benthic d18O tied to LR04,,,,,,,,,48000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,6.92,benthic d18O tied to LR04,,,,,,,,,53000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309
+ME0005-24JC,,9.8,ash layer,,,,,,,,,84000,,,,,,,,"Dubois et al., 2014",https://doi.pangaea.de/10.1594/PANGAEA.925309

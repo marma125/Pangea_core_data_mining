@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB1720_2,,0.01,,SUERC-13132,G. inflata,1429,35,35,500,130,130,809,113,90,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,0.37,,SUERC-17230,G. inflata,8791,39,39,500,130,130,9166,239,190,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,0.52,,SUERC-13133,G. inflata,11782,36,36,500,200,200,13047,184,161,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,0.61,,SUERC-17231,G. inflata,12952,45,45,500,200,200,14409,419,270,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,0.76,,SUERC-13134,G. inflata,15722,47,47,500,200,200,18245,383,215,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,1.025,,SUERC-17234,G. inflata,22079,89,89,500,200,200,25589,231,79,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,1.205,,SUERC-17235,G. inflata,28036,172,172,500,200,200,31324,182,208,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,1.325,,SUERC-13137,G. inflata,30861,233,233,500,200,200,34568,248,318,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB1720_2,,1.985,,SUERC-13138,G. inflata,44337,1211,1211,500,200,200,46303,980,1361,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

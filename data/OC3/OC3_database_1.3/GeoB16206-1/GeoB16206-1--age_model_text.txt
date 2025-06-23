@@ -1,0 +1,93 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB16206-1
+    Parameter: Age
+    Longitude: -43.024
+    Latitude: -1.579
+    Water Depth: 1367.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: GeoB16206-1.age
+    Optional: 
+    bacon_K: 158
+    bacon_d_min: 6.0
+    bacon_d_max: 800.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 26.9372
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 9.0
+    bacon_t_b: 10.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1168.0
+    bacon_th0p: 1142.12
+    bacon_burnin: 0
+    bacon_ssize: 10000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(12), Label_Characters(9), Type_Characters(3), Comment_Characters(374), bacon_out_nrow(10000), bacon_out_ncol(161), Bacon Length(794)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB16206-1
+    Parameter: Age
+    Longitude: -43.024
+    Latitude: -1.579
+    Water Depth: 1367.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.853988
+    Reference: Zhang, Y., Chiessi, C. M., Mulitza, S., Zabel, M., Trindade, R. I.F., Hollanda, M. H. B.M., Dantas, E. L., Govin, A., Tiedemann, R., and Wefer, G.: Origin of increased terrigenous supply to the NE South American continental margin during Heinrich Stadial 1 and the Younger Dryas, Earth and Planetary Science Letters, 432, 493-500, doi:10.1016/j.epsl.2015.09.054, 2015.
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB16206-1.age
+    Optional: na
+    bacon_K: 53
+    bacon_d_min: 6.0
+    bacon_d_max: 800.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 26.9372
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1173.34
+    bacon_th0p: 1149.08
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(12), Label_Characters(9), Type_Characters(3), Comment_Characters(58), bacon_out_nrow(1000), bacon_out_ncol(56), Bacon Length(794)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

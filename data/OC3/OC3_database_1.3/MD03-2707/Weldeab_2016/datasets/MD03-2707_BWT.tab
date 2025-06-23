@@ -1,0 +1,43 @@
+/* DATA DESCRIPTION:
+Citation:	Weldeab, Syee; Friedrich, Tobias; Timmermann, Axel; Schneider, Ralph R (2016): Mg/Ca analyzed in Golobulimina spp., and Mg/Ca-based estimates of bottom water temperature for sediment core MD03-2707. PANGAEA, https://doi.org/10.1594/PANGAEA.877250, 
+	In supplement to: Weldeab, S et al. (2016): Strong middepth warming and weak radiocarbon imprints in the equatorial Atlantic during Heinrich 1 and Younger Dryas. Paleoceanography, 31(8), 1070-1082, https://doi.org/10.1002/2016PA002957
+Coverage:	LATITUDE: 2.502000 * LONGITUDE: 9.395000
+	MINIMUM ELEVATION: -1295.0 m * MAXIMUM ELEVATION: -1295.0 m
+Event(s):	MD03-2707 * LATITUDE: 2.502000 * LONGITUDE: 9.395000 * ELEVATION: -1295.0 m * METHOD/DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * GEOCODE * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, minimum/young [ka] (Age min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, maximum/old [ka] (Age max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Globobulimina spp., Magnesium/Calcium ratio [mmol/mol] (Globobulimina spp. Mg/Ca) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Bottom water temperature [°C] (BWT) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: averaged
+	Bottom water temperature, maximum [°C] (BWT max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: upper range
+	Bottom water temperature, minimum [°C] (BWT min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: lower range
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	156 data points
+*/
+Age [ka BP]	Age min [ka]	Age max [ka]	Globobulimina spp. Mg/Ca [mmol/mol]	BWT [°C]	BWT max [°C]	BWT min [°C]
+10.07	9.77	10.31	3.07	2.35	3.05	1.83
+10.77	10.60	10.97	4.23	5.60	6.48	4.91
+10.89	10.72	11.10	3.74	4.23	5.04	3.61
+11.81	11.42	12.23	5.28	8.50	9.56	7.66
+12.26	11.95	12.53	5.56	9.28	10.39	8.40
+12.41	12.08	12.74	4.88	7.39	8.38	6.60
+12.89	12.56	13.16	4.22	5.57	6.45	4.88
+13.15	12.95	13.31	4.35	5.90	6.81	5.20
+13.24	13.06	13.41	3.56	3.72	4.50	3.13
+13.46	13.28	13.66	4.03	5.03	5.89	4.37
+13.71	13.45	14.02	4.08	5.16	6.03	4.50
+14.16	13.91	14.49	4.78	7.11	8.08	6.34
+14.22	14.00	14.55	4.84	7.29	8.27	6.51
+14.67	14.33	15.03	4.76	7.04	8.02	6.28
+15.11	14.76	15.52	4.86	7.34	8.34	6.56
+15.72	15.21	16.27	4.74	6.99	7.96	6.23
+16.56	16.02	17.02	5.16	8.16	9.20	7.34
+17.47	17.05	17.83	3.95	4.81	5.66	4.17
+18.11	17.79	18.42	3.45	3.43	4.19	2.86
+18.74	18.54	18.91	3.33	3.08	3.82	2.53
+18.98	18.74	19.23	3.43	3.35	4.10	2.78
+19.30	19.07	19.54	3.16	2.62	3.33	2.09
+19.97	19.64	20.29	3.71	4.15	4.95	3.54
+20.28	19.99	20.53	3.41	3.30	4.06	2.74
+20.50	20.23	20.71	3.44	3.38	4.14	2.81
+20.61	20.33	20.85	3.33	3.10	3.84	2.54

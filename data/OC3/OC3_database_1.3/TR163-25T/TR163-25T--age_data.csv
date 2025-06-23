@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+TR163-25T,,0.004999999888241291,,,,,,,,,,500.0,179.9999999999999,180.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,0.15000000596046448,,,,,,,,,,2500.0,1139.9999999999995,1140.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,0.4,,,,7335.0,20.0,20.0,754.0,52.2,52.2,7488.0,87.0,126.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,0.44999998807907104,,,,,,,,,,9000.0,620.0,620.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,0.8,,,,12895.0,45.0,45.0,595.0,44.0,44.0,14335.0,485.0,269.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,1.0,,,,14250.0,60.0,60.0,842.0,52.6,52.6,16139.0,240.99999999999818,265.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,1.125,,,,,,,,,,19500.0,620.0,620.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,1.45,,,,20850.0,130.0,130.0,1006.0,67.0,67.0,23895.0,342.0,489.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+TR163-25T,,1.7549999952316284,,,,,,,,,,29500.0,1580.0,1580.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

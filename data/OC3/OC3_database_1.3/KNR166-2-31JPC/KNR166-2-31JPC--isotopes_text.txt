@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR166-2_JPC31
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -83.296
+    Latitude: 24.22
+    WaterDepth: 751.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: LDEO Isoprime/Multiprep, 2WHOI MAT252/253 Kiel, 3 Georgia Tech Isoprime/Multiprep
+    E-Paper: Lynch-Stieglitz, J., M.W. Schmidt, and W.B. Curry. 2011. Evidence from the Florida Straits for Younger Dryas ocean circulation changes. Paleoceanography, 26, PA1205, doi:10.1029/2010PA002032; Came et al (2007) Geophys. Monogr. Ser., vol. 173; Came et al (2008) Paleoceanography, 23, PA1217, doi:10.1029/2007PA001450
+    Comment: NaN
+    DataSource: https://www.ncdc.noaa.gov/paleo-search/study/11208
+    Reference: Lynch-Stieglitz, J., M.W. Schmidt, and W.B. Curry. 2011. Evidence from the Florida Straits for Younger Dryas ocean circulation changes. Paleoceanography, 26, PA1205, doi:10.1029/2010PA002032; Came et al (2007) Geophys. Monogr. Ser., vol. 173; Came et al (2008) Paleoceanography, 23, PA1217, doi:10.1029/2007PA001450
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=1;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3;age type=14C AMS, bacon pdv
+    dimensions(sizes): Length(83), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

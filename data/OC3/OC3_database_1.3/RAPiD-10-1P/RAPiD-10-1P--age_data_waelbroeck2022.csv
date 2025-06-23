@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+RAPiD-10-1P,,0.09,,SUERC 14094,G. bulloides,1364,35,35,420,100,100,847,80,112,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+RAPiD-10-1P,,0.385,Saksunarvatn ash ,,,,,,,,,10297,45,45,,,,From Waelbroeck et al. 2019 compilation (2022 update),error estimate: Blockley-QSR14,,
+RAPiD-10-1P,,0.515,Tied to NGRIP delta18O ,,,,,,,,,11653,50,50,,,,From Waelbroeck et al. 2019 compilation (2022 update),"error estimate: Wolff et al., 2010 (Table2)",,
+RAPiD-10-1P,,0.705,Vedde ash top ,,,,,,,,,12120,57,57,,,,From Waelbroeck et al. 2019 compilation (2022 update),error estimate: Blockley-QSR14,,
+RAPiD-10-1P,,0.985,Vedde ash base ,,,,,,,,,12121,57,57,,,,From Waelbroeck et al. 2019 compilation (2022 update),error estimate: Blockley-QSR14,,
+RAPiD-10-1P,,1.355,Tied to NGRIP delta18O ,,,,,,,,,12710,250,250,,,,From Waelbroeck et al. 2019 compilation (2022 update),error estimate: Thornalley-Pa2010,,
+RAPiD-10-1P,,1.585,Tied to NGRIP delta18O ,,,,,,,,,14550,250,250,,,,From Waelbroeck et al. 2019 compilation (2022 update),"error estimate: Rassmussen et al., 2014 (Table2)",,
+RAPiD-10-1P,,1.625,alignment of %Nps to NGRIP,,,,,,,,,14642,93,93,,,,From Waelbroeck et al. 2019 compilation (2022 update),"error estimate: Wolff et al., 2010 (Table2)",,

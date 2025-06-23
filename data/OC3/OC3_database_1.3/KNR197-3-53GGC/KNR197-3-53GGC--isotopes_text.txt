@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR197-3-53GGC
+    Species: Cibicides spp.
+    Longitude: -53.23
+    Latitude: 8.23
+    WaterDepth: 1272.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: NOAA, ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/oppo2018/
+    Reference: Oppo, D. W., Gebbie, G., Huang, K.-F., Curry, W. B., Marchitto, T. M., and Pietro, K. R.: Data Constraints on Glacial Atlantic Water Mass Geometry and Properties, Paleoceanography and Paleoclimatology, 33, 1013-1034, doi:10.1029/2018PA003408, 2018.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(512), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

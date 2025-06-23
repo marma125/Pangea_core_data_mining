@@ -1,0 +1,71 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: BOFS14K
+    Parameter: Age
+    Longitude: -19.43
+    Latitude: 58.63
+    Water Depth: 1756.0
+    Proxy Category: Age
+    Device: Kasten corer (KAL)
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: BOFS14K.age
+    Optional: 
+    dimensions(sizes): Length(43), Label_Characters(30), Type_Characters(9), Comment_Characters(179)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length)
+    groups: 
+    
+    
+    
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: BOFS14K
+    Parameter: Age
+    Longitude: -19.435
+    Latitude: 58.629
+    Water Depth: 1756.0
+    Proxy Category: Age
+    Device: Kasten corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: PDV
+    Filename: BOFS14K.age
+    Optional: 
+    bacon_K: 12
+    bacon_d_min: 0.0
+    bacon_d_max: 58.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 429.247
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 64.7583
+    bacon_th0p: 225.595
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1243.42
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(9), Label_Characters(4), Type_Characters(2), Comment_Characters(35), bacon_out_nrow(1000), bacon_out_ncol(15), Bacon Length(58)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

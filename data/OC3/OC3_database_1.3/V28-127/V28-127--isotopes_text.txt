@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: V28-127
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -80.13
+    Latitude: 11.65
+    WaterDepth: 1800.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: LDEO
+    E-Paper: Oppo, DW; Fairbanks, RG (1990): Atlantic Ocean thermohaline circulation of the last 150,000 years: relationship to climate and atmospheric CO2. Paleoceanography, 5(3), 277-288, https://doi.org/10.1029/PA005i003p00277
+    Comment: NaN
+    DataSource: Oppo, Delia W; Fairbanks, Richard G (1990): (Table 3) Stable isotope ratios of Cibicidoides wuellerstorfi from sediment core V28-127. PANGAEA, https://doi.org/10.1594/PANGAEA.52404; age model (CLIMAP Project Members (2004): Radiocarbon age determinations on sediment core V28-127, PANGAEA, https://doi,org/10,1594/PANGAEA,186288)
+    Reference: Oppo, DW; Fairbanks, RG (1990): Atlantic Ocean thermohaline circulation of the last 150,000 years: relationship to climate and atmospheric CO2. Paleoceanography, 5(3), 277-288, https://doi.org/10.1029/PA005i003p00277
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3,4;age type=14C AMS, manual alignment, bacon, pdv
+    dimensions(sizes): Length(130), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

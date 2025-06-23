@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: POS457-905-2
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -14.352
+    Latitude: 62.686
+    WaterDepth: 1598.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.902232
+    Reference: Mirzaloo, M., N�rnberg, D., Kienast, M., and Lubbe, H. J. L.: Synchronous Changes in Sediment Transport and Provenance at the Iceland-Faroe Ridge Linked to Millennial Climate Variability From 55 to 6 ka BP, Geochem. Geophys. Geosyst., 20, 4184-4201, doi:10.1029/2019GC008298, 2019.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Dirk N�rnberg
+    Optional: na
+    dimensions(sizes): Length(263), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

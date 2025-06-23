@@ -1,0 +1,28 @@
+05-01-18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+BACON metadata by Francesco Muschitiello
+
+K	36
+d_min	10
+d_max	190
+d.by	1
+acc.shape	1.5
+acc.mean	163.075
+mem.strength	4
+mem.mean	0.7
+cc	1
+cc1	IntCal13
+cc2	Marine13
+cc3	SHCal13
+cc4	ConstCal
+postbomb	0
+t_a	3
+t_b	4
+normal	0
+suggest	1
+th0	8892.12
+th0p	8863.27
+burnin	0
+ssize	2000
+yr_min	-1000
+yr_max	100000

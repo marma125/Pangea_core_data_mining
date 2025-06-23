@@ -1,0 +1,21 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+PC75-1,,0,,,,2267,20,20,557,51.5,51.5,1607,111,188,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,0.25,,,,4005,54,54,528,50.2,50.2,3745,222,227,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,0.25,,,,3947,29,29,537,50.1,50.1,3659,169,168,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,0.55,,,,7776,31,31,557,51.2,51.2,8048,123,108,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,1.1,,,,12630,59,59,646,95.4,95.4,13866,223,268,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,1.65,,,,16102,176,176,938,109.7,109.7,18492,385,366,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,1.65,,,,15371,319,319,952,118.7,118.7,17586,1003,927,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,2.3,,,,19955,708,708,1149,139.1,139.1,22791,1694,1736,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,3.5,,,,22959,446,446,1091,143.3,143.3,26251,925,941,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,3.5,,,,22904,1221,1221,1104,143.4,143.4,26177,2622,2384,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.901231
+PC75-1,,0.0,,,,2267.0,20.0,20.0,557.0,51.5,51.5,1607.0,111.0,188.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,0.25,,,,4005.0,54.0,54.0,528.0,50.2,50.2,3745.0,222.0,227.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,0.25,,,,3947.0,29.0,29.0,537.0,50.1,50.1,3659.0,169.0,168.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,0.55,,,,7776.0,31.0,31.0,557.0,51.2,51.2,8048.0,122.99999999999909,108.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,1.1,,,,12630.0,59.0,59.0,646.0,95.4,95.4,13866.0,223.0,268.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,1.65,,,,16102.0,176.0,176.0,938.0,109.7,109.7,18492.0,385.0,366.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,1.65,,,,15371.0,319.0,319.0,952.0,118.7,118.7,17586.0,1003.0,927.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,2.3,,,,19955.0,708.0,708.0,1149.0,139.1,139.1,22791.0,1694.0,1736.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,3.5,,,,22959.0,446.0,446.0,1091.0,143.3,143.3,26251.0,925.0,941.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+PC75-1,,3.5,,,,22904.0,1221.0,1221.0,1104.0,143.4,143.4,26177.0,2622.0,2384.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

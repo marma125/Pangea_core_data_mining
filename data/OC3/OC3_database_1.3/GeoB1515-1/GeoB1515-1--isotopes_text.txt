@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB1515-1
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -43.667
+    Latitude: 4.238
+    WaterDepth: 3129.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: Laboratory
+    Reference: Vidal, L., Schneider, R. R., Marchal, O., Bickert, T., Stocker, T. F., and Wefer, G.: Link between the North and South Atlantic during the Heinrich events of the last glacial period, Climate Dynamics, 15, 909-919, doi:10.1007/s003820050321, 1999.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Torsten Bickert
+    Optional: na
+    dimensions(sizes): Length(186), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

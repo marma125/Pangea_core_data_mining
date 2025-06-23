@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB7920-2,,0.035,,KIA35956,,900,35,35,500,100,100,419,96,3,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,0.535,,KIA35955,,4615,60,60,500,100,100,4600,215,152,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,1.035,,KIA35954,,7810,90,90,500,100,100,8079,196,195,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,1.485,,KIA35953,,9530,110,110,500,100,100,10063,209,206,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,1.935,,KIA35951,,12100,70,70,500,200,200,13371,210,178,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,2.285,,KIA35950,,12980,80,80,500,200,200,14502,341,401,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,2.685,,KIA35949,,16720,110,110,500,200,200,19296,237,275,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB7920-2,,2.985,,KIA35948,,20100,160,160,500,200,200,23343,380,199,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

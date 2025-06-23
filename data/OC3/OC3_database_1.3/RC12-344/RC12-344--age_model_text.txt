@@ -1,0 +1,106 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+
+November 29 2019
+
+Lorraine Liesicki calculated age model with BACON. Juan Muglia added age model to the folder. 
+
+Data used for the age model:
+
+## Ran on Thu Oct 10 11:53:44 2019 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal13, 0;
+Cal 2 : Marine13;
+Cal 3 : SHCal13, 0;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : UCIAMS17383  , 2005, 50, 10.5,  0,  200,  3,  4,  2;
+Det 1 : UCIAMS35383  , 2895, 25, 28.5,  0,  200,  3,  4,  2;
+Det 2 : UCIAMS16832  , 6695, 20, 59,  0,  200,  3,  4,  2;
+Det 3 : UCIAMS16833  , 9575, 20, 136,  0,  200,  3,  4,  2;
+Det 4 : UCIAMS17384  , 11050, 25, 175.5,  0,  200,  3,  4,  2;
+Det 5 : UCIAMS16836  , 13250, 30, 234.5,  0,  200,  3,  4,  2;
+Det 6 : UCIAMS16837  , 14890, 30, 276,  0,  200,  3,  4,  2;
+Det 7 : UCIAMS35384  , 16750, 40, 336,  0,  200,  3,  4,  2;
+Det 8 : UCIAMS35385  , 18960, 60, 416,  0,  200,  3,  4,  2;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax
+Bacon 0: FixT, 136,  -69,  1e+06,  1991,  2033,  1,  9,  1,  0.02, 10.5, 418.5;
+
+BACON settings:
+
+10.5 #d.min
+416 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+50 #acc.mean
+1 #acc.shape
+0.1 #mem.mean
+10 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+2 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+200 #d.STD
+0.95 #prob
+yr#age.unit
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: RC12-344
+    Parameter: Age
+    Longitude: 96.067
+    Latitude: 12.767
+    Water Depth: 2140.0
+    Proxy Category: Age
+    Device: Piston corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: Table in paper
+    Reference: Rashid, H., Flower, B. P., Poore, R. Z., and Quinn, T. M.: A ~25ka Indian Ocean monsoon variability record from the Andaman Sea, Quaternary Science Reviews, 26, 2586-2597, doi:10.1016/j.quascirev.2007.07.002, 2007.
+    Use Flag: 0
+    Importer: na
+    Filename: RC12-344.age
+    Optional: na
+    bacon_K: 81
+    bacon_d_min: 10.5
+    bacon_d_max: 416.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 44.243
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1903.48
+    bacon_th0p: 1957.83
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(9), Label_Characters(11), Type_Characters(3), Comment_Characters(70), bacon_out_nrow(1000), bacon_out_ncol(84), Bacon Length(405)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

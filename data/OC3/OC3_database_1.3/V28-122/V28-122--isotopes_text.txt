@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: V28-122
+    Species: Cibicidoides spp.
+    Longitude: -78.68
+    Latitude: 11.933
+    WaterDepth: 3623.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.701350
+    Reference: Oppo, D. W. and Fairbanks, R. G.: Variability in the deep and intermediate water circulation of the Atlantic Ocean during the past 25,000 years: Northern Hemisphere modulation of the Southern Ocean, Earth and Planetary Science Letters, 86, 1-15, doi:10.1016/0012-821X(87)90183-X, 1987.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(49), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

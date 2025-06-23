@@ -1,0 +1,159 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+
+
+November 29 2019
+
+Lorraine Liesicki calculated age model with BACON. Juan Muglia added age model to the folder. 
+
+Data used for the age model:
+
+## Ran on Thu Oct 10 09:46:13 2019 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal13, 0;
+Cal 2 : Marine13;
+Cal 3 : SHCal13, 0;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : NGRI-816 , 2805, 80, 4,  0,  200,  3,  4,  2;
+Det 1 : NGRI-815 , 9260, 110, 36,  0,  200,  3,  4,  2;
+Det 2 : NGRI-840 , 11300, 150, 44,  0,  200,  3,  4,  2;
+Det 3 : NGRI-817 , 14080, 350, 54,  0,  200,  3,  4,  2;
+Det 4 : NGRI-818 , 17915, 250, 78,  0,  200,  3,  4,  2;
+Det 5 : NGRI-819 , 22160, 300, 106,  0,  200,  3,  4,  2;
+Det 6 : NGRI-820 , 28110, 550, 138,  0,  200,  3,  4,  2;
+Det 7 : NGRI-842 , 32040, 865, 168,  0,  200,  3,  4,  2;
+Det 8 : NGRI-843 , 42180, 2635, 199,  0,  200,  3,  4,  2;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax
+Bacon 0: FixT, 196,  -69,  1e+06,  2729,  2871,  2.8,  1.2,  1,  0.005, 4, 200;
+
+BACON settings:
+
+4 #d.min
+199 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+200 #acc.mean
+1 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+2 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+200 #d.STD
+0.95 #prob
+yr#age.unit
+
+
+
+
+
+
+
+
+
+BACON setting from Jonkers et al. 2020:
+		:Core = "SK157_14" ;
+		:Parameter = "Age" ;
+		:Longitude = 90.08f ;
+		:Latitude = 5.18f ;
+		:Water\ Depth = 3306.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Indian Ocean" ;
+		:Filename = "SK157_14.age" ;
+		:Optional = "" ;
+		:bacon_K = 39 ;
+		:bacon_d_min = 4.f ;
+		:bacon_d_max = 199.f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 196.18f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 6.f ;
+		:bacon_t_b = 7.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 3276.36f ;
+		:bacon_th0p = 3208.45f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SK157-GC14
+    Parameter: Age
+    Longitude: 90.083
+    Latitude: 5.183
+    Water Depth: 3306.0
+    Proxy Category: Age
+    Device: NaN
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: SK157-GC14.age
+    Optional: 
+    bacon_K: 39
+    bacon_d_min: 4.0
+    bacon_d_max: 199.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 196.18
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3258.89
+    bacon_th0p: 3325.71
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(9), Label_Characters(8), Type_Characters(3), Comment_Characters(68), bacon_out_nrow(1000), bacon_out_ncol(42), Bacon Length(195)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

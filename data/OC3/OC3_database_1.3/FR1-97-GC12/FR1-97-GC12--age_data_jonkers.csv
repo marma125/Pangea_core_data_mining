@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+FR01-97-GC12,ANUA 20316,0.2,,,G. sacculifer,4380,190,190,400.6,53.4,53.4,4439,520,544,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 20313,0.4,,,G. sacculifer,7930,210,210,451,53.8,53.8,8295,651,442,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 20319,0.8,,,G. sacculifer,10590,220,220,456.2,64.8,64.8,11809,731,608,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 20320,0.9,,,G. sacculifer,11910,350,350,491.6,41.2,41.2,13306,794,623,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 20321,1.5,,,G. sacculifer,14110,480,480,584,64.9,64.9,16358,1410,1336,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 22216,1.9,,,G. sacculifer,16665,250,250,683.3,35.7,35.7,19305,612,531,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 22218,2.5,,,G. sacculifer,21880,260,260,882.6,49,49,25275,553,698,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 22217,3,,,G. sacculifer,23930,300,300,916.4,51,51,27275,489,645,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097
+FR01-97-GC12,ANUA 22219,3.5,,,G. sacculifer,30290,480,480,861.6,57.2,57.2,33549,992,1063,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.832097

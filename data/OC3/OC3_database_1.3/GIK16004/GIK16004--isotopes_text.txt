@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK16004
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -10.647
+    Latitude: 29.978
+    WaterDepth: 1512.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer (Kiel type) (SL)
+    Record Type: sb
+    Laboratory: Leibniz Laboratory Kiel
+    E-Paper: NaN
+    Comment: age model: Winn, Kyaw (2004): Age model of sediment core GIK16004. PANGAEA, https://doi.org/10.1594/PANGAEA.134776; Sarnthein, Michael (2003): Age model of sediment core GIK16004. PANGAEA, https://doi.org/10.1594/PANGAEA.134283; Zahn, Rainer; Sarnthein, Michael; Erlenkeuser, Helmut (1987): (Table 2) Age determination of sediment core GIK16004. PANGAEA, https://doi.org/10.1594/PANGAEA.52265,
+    DataSource: Sarnthein, Michael (1994): Stable isotope analysis on sediment core GIK16004. PANGAEA, https://doi.org/10.1594/PANGAEA.54371
+    Reference: Sarnthein, Michael; Winn, Kyaw; Jung, Simon J A; Duplessy, Jean-Claude; Labeyrie, Laurent D; Erlenkeuser, Helmut; Ganssen, Gerald M(1994): Changes in east Atlantic deepwater circulation over the last 30,000 years: Eight time slice reconstructions. Paleoceanography, 9(2), 209-267, https://doi.org/10.1029/93PA03301
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschlaeger
+    Optional: na;number of specimens=7-10;mesh size min=315�m;mesh size max=400;age flag=3,4,5;age model type=14C AMS, manual alignment, bacon, pdv
+    dimensions(sizes): Length(66), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

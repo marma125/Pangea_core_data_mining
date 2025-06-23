@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR159-5-14GGC
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -46.5
+    Latitude: -26.68
+    WaterDepth: 441.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: NOAA, http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/
+    Reference: Lund, D. C., Tessin, A. C., Hoffman, J. L., and Schmittner, A.: Southwest Atlantic water mass evolution during the last deglaciation, Paleoceanography, 30, 477-494, doi:10.1002/2014PA002657, 2015.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(160), Character(14)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

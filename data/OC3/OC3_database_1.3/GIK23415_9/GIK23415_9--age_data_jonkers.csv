@@ -1,0 +1,29 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK23415_9,,0.025,,,,2280,30,30,490.4,52.5,52.5,1712,151,146,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.175,,,,4770,40,40,485,51.6,51.6,4853,188,228,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.275,,,,6300,50,50,549,50.9,50.9,6552,173,148,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.375,,,,7470,50,50,556.4,53.1,53.1,7757,170,140,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.475,,,,8480,50,50,521.4,54,54,8818,187,209,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.575,,,,9350,50,50,505.8,50.3,50.3,9942,240,260,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.675,,,,9620,50,50,430.5,70.3,70.3,10376,196,155,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,0.83,,,,11020,50,50,872.1,55.6,55.6,11779,284,375,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,1.35,,,,15660,80,80,1126,240.8,240.8,17692,632,636,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,1.45,,,,16210,100,100,1140.6,239.5,239.5,18307,537,565,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,1.55,,,,17700,110,110,1093.1,239.3,239.3,20050,649,618,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,1.625,,,,18280,120,120,1088.1,241.5,241.5,20772,721,679,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,1.95,,,,21710,210,210,1159.8,243.4,243.4,24771,771,747,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,2.025,,,,22920,180,180,1258.2,239.7,239.7,25954,644,601,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,2.1,,,,23670,190,190,1221.4,244.7,244.7,26738,625,644,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,2.425,,,,27900,320,320,1390.8,249.8,249.8,30645,604,841,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,2.55,,,,29200,360,360,1022.2,242.3,242.3,32156,1090,905,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,2.9,,,,33840,420,420,967.5,245.6,245.6,37107,1281,1134,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,3.1,,,,36480,480,480,1232.7,246.9,246.9,39841,1187,1113,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,3.2,,,,37090,490,490,1244.6,243.6,243.6,40492,1086,1121,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.143868
+GIK23415_9,,3.625,,,,,,,,,,47000,1420,1420,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GIK23415_9,,4.5999999046,,,,,,,,,,60500,1900,1900,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GIK23415_9,,5.3499999046,,,,,,,,,,74500,1520,1520,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GIK23415_9,,6,,,,,,,,,,86500,1940,1940,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GIK23415_9,,6.9000000954,,,,,,,,,,107000,2080,2080,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GIK23415_9,,7.5,,,,,,,,,,117000,4860,4860,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GIK23415_9,,8,,,,,,,,,,134000,2720,2720,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+

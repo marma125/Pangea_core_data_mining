@@ -1,0 +1,30 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK15612_2,,0.0075,,,G. inflata,2229,31,31,394.2,54.2,54.2,1769,52,55,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.085,,,G. inflata,4074,28,28,401.2,50,50,4020,64,92,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.3475,,,G. inflata,12091,56,56,665.7,74.6,74.6,13262,79,95,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.3625,,,G. bulloides,12317,49,49,649.5,71.7,71.7,13502,63,63,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.4475,,,N. pachyderma,14955,63,62,837.1,86.5,86.5,17187,201,178,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.525,,,N. pachyderma,16465,108,107,869,86.7,86.7,18842,107,108,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.685,,,N. pachyderma,19050,110,110,889.4,88.8,88.8,22011,201,179,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.725,,,N. pachyderma,18394,107,106,866.2,92.1,92.1,21171,216,215,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.745,,,N. pachyderma,20520,180,180,923.1,95.4,95.4,23615,255,248,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.8225,,,N. pachyderma,21255,108,106,929.9,94.2,94.2,24397,187,204,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.8675,,,N. pachyderma,22180,102,101,1056.3,91.5,91.5,25470,179,204,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.985,,,G. inflata,23938,220,214,1089.3,89.9,89.9,27224,204,213,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,0.985,,,G. bulloides,24037,139,137,1085.5,88.7,88.7,27300,170,185,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.07,,,N. pachyderma,26638,287,277,927.2,95.9,95.9,29892,406,384,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.14,,,G. bulloides,28509,364,348,889.4,93.4,93.4,31373,230,221,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.3425,,,G. inflata,32027,240,233,840,86.3,86.3,35040,292,275,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.3425,,,G. bulloides,30802,273,264,977.8,89,89,33929,217,213,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.395,,,G. bulloides,31520,460,430,931.9,85.1,85.1,34535,318,341,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.4,,,G. inflata,33770,990,880,712.9,106.3,106.3,37257,994,887,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.485,,,G. bulloides,35429,469,443,889.2,93.8,93.8,39026,465,404,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.505,,,N. pachyderma,34814,503,473,951.3,98.2,98.2,38376,384,501,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.54,,,G. bulloides,33961,319,307,771.4,92.7,92.7,37377,620,578,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.5575,,,G. bulloides,35260,740,680,893.8,95.3,95.3,38886,593,486,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.6025,,,G. bulloides,36240,1220,1060,991.1,107.3,107.3,39822,943,917,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.6625,,,G. bulloides,37390,990,880,1090.5,96.9,96.9,40937,648,689,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,1.745,,,G. bulloides,37750,1390,1180,1124.2,99.3,99.3,41213,770,856,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,2.605,,,,,,,,,,71000,1640,1640,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,3.92,,,,,,,,,,113500,4060,4060,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90
+GIK15612_2,,4.36,,,,,,,,,,135000,2420,2420,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-gpi.1998.90

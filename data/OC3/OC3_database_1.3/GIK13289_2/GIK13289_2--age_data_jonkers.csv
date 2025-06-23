@@ -1,0 +1,13 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK13289_2,,0.525,,,G. inflata,8670,120,120,371.4,50.5,50.5,9312,121,174,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,0.655,,,G. inflata,9910,150,150,367.1,52,52,10902,198,205,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,0.755,,,G. inflata,10960,170,170,532.2,18.2,18.2,12313,220,219,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,0.855,,,G. inflata,11770,160,160,478.2,24.5,24.5,13151,110,86,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,0.955,,,G. inflata,12590,200,200,397.8,33.7,33.7,14075,224,251,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,1.005,,,G. inflata,12900,140,140,440.8,27.6,27.6,14605,363,348,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,1.105,,,G. inflata,15380,140,140,687.5,30.3,30.3,17881,156,176,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,1.205,,,G. inflata,15840,210,210,688.9,30.2,30.2,18418,191,212,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,1.505,,,G. inflata,20350,300,300,710.5,37.3,37.3,23668,294,294,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,1.705,,,G. inflata,24930,420,420,730.2,35.4,35.4,28236,352,343,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+GIK13289_2,,2.205,,,G. inflata,39300,1900,1900,869.6,58.7,58.7,42536,904,821,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.134609
+

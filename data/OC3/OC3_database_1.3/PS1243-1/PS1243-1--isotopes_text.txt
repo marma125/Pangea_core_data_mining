@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS1243-1
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -6.553
+    Latitude: 69.372
+    WaterDepth: 2177.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Leibniz Laboratory Kiel
+    E-Paper: Bauch, HA et al. (2001): A multiproxy reconstruction of the evolution of deep and surface waters in the subarctic Nordic seas over the last 30,000 years. Quaternary Science Reviews, 20(4), 659-678, https://doi.org/10.1016/S0277-3791(00)00098-6
+    Comment: NaN
+    DataSource: doi:10.1594/PANGAEA.58453,
+    Reference: Bauch, HA et al. (2001): (Fig. 4) Distribution and stable isotope record of foraminifera, and ice-rafted debris sediment core PS1243-1-1. doi:10.1594/PANGAEA.58453,
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: in original citation correcetd by +0.64
+    C-Correction Justification: NaN
+    Importer: NaN
+    Optional: na;Number of shells=NAN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3;age type=AMS, bacon, pdv
+    dimensions(sizes): Length(149), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

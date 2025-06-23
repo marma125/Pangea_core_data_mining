@@ -1,0 +1,143 @@
+BACON output from Jonkers et al. 2020:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS75-059-2
+    Parameter: Age
+    Longitude: -125.425
+    Latitude: -54.215
+    Water Depth: 3613.0
+    Proxy Category: Age
+    Device: NA
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Basin: Antarctic Ocean
+    Filename: PS75-059-2.age
+    Optional: 
+    bacon_K: 80
+    bacon_d_min: 2.0
+    bacon_d_max: 402.5
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 354.938
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 8.0
+    bacon_t_b: 9.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3901.0
+    bacon_th0p: 3887.03
+    bacon_burnin: 0
+    bacon_ssize: 2000
+    bacon_yr_min: 3750.0
+    bacon_yr_max: 30150.0
+    dimensions(sizes): Length(24), Label_Characters(9), Type_Characters(3), Comment_Characters(55), bacon_out_nrow(6715), bacon_out_ncol(83), Bacon Length(400)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters,Length), |S1 Type(Type_Characters,Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters,Length), float32 bacon_data(bacon_out_nrow,bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 95% Quantile(Bacon Length)
+    groups: 
+
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS75-059-2
+    Parameter: Age
+    Longitude: -125.425
+    Latitude: -54.215
+    Water Depth: 3613.0
+    Proxy Category: Age
+    Device: Piston corer (BGR type)
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: PS75-059-2.age
+    Optional: 
+    bacon_K: 15
+    bacon_d_min: 2.0
+    bacon_d_max: 69.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 396.072
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3893.57
+    bacon_th0p: 3947.85
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(9), Label_Characters(9), Type_Characters(3), Comment_Characters(96), bacon_out_nrow(1000), bacon_out_ncol(18), Bacon Length(67)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS75-059-2
+    Parameter: Age
+    Longitude: -125.425
+    Latitude: -54.215
+    Water Depth: 3613.0
+    Proxy Category: Age
+    Device: Piston corer (BGR type)
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: Paper supplement
+    Reference: Ronge, T. A., Tiedemann, R., Lamy, F., K�hler, P., Alloway, B. V., Pol-Holz, R. de, Pahnke, K., Southon, J., and Wacker, L.: Radiocarbon constraints on the extent and evolution of the South Pacific glacial carbon pool, Nature Communications, 7, 11487, doi:10.1038/ncomms11487, 2016.
+    Use Flag: 0
+    Importer: na
+    Filename: PS75-059-2.age
+    Optional: na
+    bacon_K: 25
+    bacon_d_min: 2.0
+    bacon_d_max: 77.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 421.912
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3378.62
+    bacon_th0p: 3413.53
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(9), Label_Characters(9), Type_Characters(3), Comment_Characters(86), bacon_out_nrow(1000), bacon_out_ncol(28), Bacon Length(75)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

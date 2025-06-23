@@ -1,0 +1,13 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+KNR197-10-17GGC,,0.225,,,G. inflata,4450,20,20,490,100,100,4365,156,98,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,0.825,,,G. inflata,10300,45,45,490,100,100,11164,148,92,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,0.945,,,G. inflata,11100,45,45,490,200,200,12365,347,57,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.335,,,G. inflata,12150,65,65,490,200,200,13425,172,196,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.455,,,G. inflata,13050,45,45,490,200,200,14604,351,378,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.495,,,G. inflata,13100,60,60,490,200,200,14668,380,370,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.595,,,G. inflata,14300,65,65,490,200,200,16480,315,293,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.695,,,G. inflata,15750,75,75,490,200,200,18354,291,181,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.825,,,G. inflata,17700,40,40,490,200,200,20502,277,215,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,1.855,,,G. inflata,18050,95,95,490,200,200,20921,253,351,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,2.415,,,G. inflata,20400,75,75,490,200,200,23588,276,65,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+KNR197-10-17GGC,,2.815,,,G. inflata,23700,150,150,490,200,200,27273,309,190,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

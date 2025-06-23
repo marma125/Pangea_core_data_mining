@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB3104,,0.08,,,,2660.0,50.0,50.0,341.5,50.9,50.9,2350.0,347.0,204.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GeoB3104,,0.2,,,,5740.0,60.0,60.0,482.3,50.8,50.8,6057.0,215.0,158.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GeoB3104,,0.52,,,,9660.0,50.0,50.0,356.8,62.7,62.7,10484.0,208.0,217.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GeoB3104,,0.87,,,,12580.0,100.0,100.0,458.8,47.800000000000004,47.800000000000004,13989.0,404.0,265.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GeoB3104,,0.97,,,,12960.0,90.0,90.0,496.2,36.7,36.7,14624.0,449.0,437.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GeoB3104,,1.72,,,,16120.000000000002,160.0,160.0,749.0,37.900000000000006,37.900000000000006,18627.0,334.0,358.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+GeoB3104,,2.09,,,,20540.0,350.0,330.0,809.4,67.8,67.8,23748.0,873.0,870.0,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+

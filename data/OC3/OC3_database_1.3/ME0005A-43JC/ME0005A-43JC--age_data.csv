@@ -1,0 +1,7 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+ME0005A-43JC,OS-42066,0.13,,,,3100,35,35,,,,2676,175,176,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.834477
+ME0005A-43JC,OS-42050,0.26,,,,4940,35,35,,,,5055,194,195,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.834477
+ME0005A-43JC,OS-42051,0.91,,,,10450,60,60,,,,11391,250,251,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.834477
+ME0005A-43JC,OS-42052,1.31,,,,13700,80,80,,,,15557,398,399,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.834477
+ME0005A-43JC,OS-42053,1.86,,,,17900,95,95,,,,20505,351,351,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.834477
+ME0005A-43JC,OS-42054,2.08,,,,19150,110,110,,,,22123,329,330,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.834477

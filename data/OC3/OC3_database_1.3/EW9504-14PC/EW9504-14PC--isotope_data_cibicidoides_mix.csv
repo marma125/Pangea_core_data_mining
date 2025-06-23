@@ -1,0 +1,22 @@
+Site,Sample Label,archival_depth (m),d13C (VPDB),d18O (VPDB),d13C_corrected (PDB),d18O_corrected (PDB),Number of shells,Minimum mesh size (um),Maximum mesh size (um),Taxon,Taxon_flag,Taxon_note1,Taxon_note2,Taxon_note3,Additional_note,Publication source,Original Reference,File Name,Data source,quality control
+EW9504-14PC,,0.31,0.1,2.69,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,0.41000000000000003,-0.04,2.83,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,0.61,0.04,2.84,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,0.71,-0.11,2.89,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,0.81,-0.03,2.91,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,0.91,-0.02,2.95,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.11,-0.07,3.25,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.31,-0.34,3.22,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.41,-0.22,3.38,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.61,-0.41,3.38,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.71,-0.31,3.49,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.81,-0.45,3.47,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,1.9100000000000001,-0.09,3.7,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,2.21,-0.77,4.03,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,2.91,-0.67,4.1,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,3.16,-0.89,4.09,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,3.41,-1.0,4.08,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,3.71,-0.65,4.04,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,3.84,-0.24,4.05,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,4.11,-1.1,4.15,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1
+EW9504-14PC,,4.21,-0.58,4.01,,,,,,Cibicidoides wuellerstorfi,1,,,,,Provided by Alan Mix for OC3,,,,1

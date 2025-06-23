@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,dated_age (y),dated_age_error_plus (y),dated_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+BOFS14K,,0.18,End 1B Globigerina bulloides,,,8460,,,,,,9462,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,0.34,Start 1A Globigerina bulloides,,,16110,,,,,,18985,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,0.54,H2,,,21578,,,,,,25159,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,0.76,H3,,,27622,,,,,,31204,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,1.08,H4,,,39129,,,,,,43088,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,1.22,H5,,,54700,,,,,,54700,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,1.4,H6,,,69700,,,,,,69700,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,1.84,5d/e Globigerina bulloides,,,107000,,,,,,107000,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download
+BOFS14K,,2.08,,5e/6 Globigerina bulloides,,128000,,,,,,128000,,,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.194820?format=html#download

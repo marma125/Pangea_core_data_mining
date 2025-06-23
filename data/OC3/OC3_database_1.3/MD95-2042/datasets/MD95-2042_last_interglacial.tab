@@ -1,0 +1,114 @@
+/* DATA DESCRIPTION:
+Citation:	Govin, Aline (2012): 4) Planktic and benthic foraminiferal stable isotope data from core MD95-2042: revised chronology for the Last Interglacial (period 135-110 ka). PANGAEA, https://doi.org/10.1594/PANGAEA.777659, 
+	In supplement to: Govin, Aline; Braconnot, Pascale; Capron, Emilie; Cortijo, Elsa; Duplessy, Jean-Claude; Jansen, Eystein; Labeyrie, Laurent D; Landais, Amaelle; Marti, O; Michel, Elisabeth; Mosquet, E; Risebrobakken, Bjørg; Swingedouw, Didier; Waelbroeck, Claire (2012): Persistent influence of ice sheet melting on high northern latitude climate during the early Last Interglacial. Climate of the Past, 8, 483-507, https://doi.org/10.5194/cp-8-483-2012
+Related to:	Shackleton, Nicholas J; Chapman, Mark R; Sanchez Goñi, Maria Fernanda; Pailler, Delphine; Lancelot, Yves (2002): The classic marine isotope substage 5e and the Eemian Interglacial. Quaternary Research, 58, 14-16, https://doi.org/10.1006/qres.2001.2312
+	Shackleton, Nicholas J; Hall, Michael A; Vincent, Edith (2000): Phase relationships between millennial-scale events 64,000-24,000 years ago. Paleoceanography, 15(6), 565-569, https://doi.org/10.1029/2000PA000513
+Project(s):	Center for Marine Environmental Sciences (MARUM) (URI: http://www.marum.de/en/)
+Coverage:	LATITUDE: 37.799833 * LONGITUDE: -10.166500
+	DATE/TIME START: 1995-07-09T00:00:00 * DATE/TIME END: 1995-07-09T00:00:00
+	MINIMUM DEPTH, sediment/rock: 24.20 m * MAXIMUM DEPTH, sediment/rock: 26.60 m
+Event(s):	MD95-2042 (MD952042) * LATITUDE: 37.799833 * LONGITUDE: -10.166500 * DATE/TIME: 1995-07-09T00:00:00 * ELEVATION: -3146.0 m * Recovery: 40 m * LOCATION: Marge Ibérique * CAMPAIGN: MD101 (IMAGES I) (URI: hdl:10013/epic.37487.d001) * BASIS: Marion Dufresne (1995) (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * METHOD/DEVICE: Calypso Corer (CALYPSO) * COMMENT: XXVII Sections, OK; core bent
+Comment:	Age: Correlation to Greenland and Antarctic ice cores.UVIG = Uvigerina sp.PWUELL = Cibicidoides wuellerstorfiGLOBOBUL = Globobulimina affinisMELBAR = Melonis barleanumCIB = Cibicides sp.
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	AGE [ka BP] (Age) * GEOCODE
+	Globigerina bulloides, δ18O [‰ PDB] (G. bulloides δ18O) * PI: Govin, Aline (https://orcid.org/0000-0001-8512-5571, aline.govin@lsce.ipsl.fr)
+	Species (Species) * PI: Govin, Aline (https://orcid.org/0000-0001-8512-5571, aline.govin@lsce.ipsl.fr)
+	Foraminifera, benthic δ18O [‰ PDB] (Foram bent δ18O) * PI: Govin, Aline (https://orcid.org/0000-0001-8512-5571, aline.govin@lsce.ipsl.fr) * COMMENT: Values on Uvigerina scale
+	Cibicides sp., δ13C [‰ PDB] (Cibicides sp. δ13C) * PI: Govin, Aline (https://orcid.org/0000-0001-8512-5571, aline.govin@lsce.ipsl.fr)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	300 data points
+*/
+Depth [m]	Age [ka BP]	G. bulloides δ18O [‰ PDB]	Species	Foram bent δ18O [‰ PDB]	Cibicides sp. δ13C [‰ PDB]
+24.20	110.05	1.39	UVIG	3.95	
+24.20	110.05		PWUELL	4.19	0.39
+24.24	110.55	0.83	UVIG	4.13	
+24.24	110.55		PWUELL	4.11	0.35
+24.24	110.55		PWUELL	4.20	0.35
+24.28	111.05	1.13	UVIG	4.09	
+24.28	111.05		PWUELL	4.29	0.22
+24.32	111.55	1.00	UVIG	4.08	
+24.32	111.55		PWUELL	4.12	0.66
+24.36	112.05	0.59	PWUELL	4.09	0.44
+24.36	112.05		PWUELL	3.98	0.57
+24.40	112.50	1.06	UVIG	3.94	
+24.42	112.66	1.28			
+24.44	112.81		UVIG	3.87	
+24.44	112.81		PWUELL	4.02	0.55
+24.44	112.81		PWUELL	4.00	0.47
+24.48	113.13	0.93	UVIG	3.84	
+24.48	113.13		PWUELL	3.94	0.49
+24.52	113.44	1.00	PWUELL	3.65	0.36
+24.52	113.44		UVIG	3.80	
+24.52	113.44		PWUELL	4.00	0.57
+24.56	113.76	0.89	PWUELL	3.78	0.56
+24.56	113.76		UVIG	3.66	
+24.56	113.76		PWUELL	3.93	0.59
+24.60	114.07	1.00	PWUELL	3.81	0.50
+24.60	114.07		UVIG	3.74	
+24.64	114.39	1.04	PWUELL	4.03	0.47
+24.64	114.39		PWUELL	3.80	0.63
+24.68	114.70	0.78	PWUELL	3.69	0.38
+24.72	115.02	0.70	PWUELL	3.69	0.51
+24.76	115.33	0.64	PWUELL	3.69	0.62
+24.79	115.57		PWUELL	3.71	0.64
+24.80	115.65	0.82			
+24.84	115.96	0.73	PWUELL	3.36	0.65
+24.88	116.42	0.46	PWUELL	3.45	0.37
+24.92	117.03	0.39	PWUELL	3.28	0.78
+24.96	117.63	0.35	PWUELL	3.34	0.52
+25.00	118.23	0.50	PWUELL	3.22	0.64
+25.04	118.84	0.19	PWUELL	3.22	0.69
+25.08	119.44	0.22	PWUELL	3.27	0.78
+25.12	120.04	0.04	PWUELL	3.25	0.80
+25.16	120.65	0.00	PWUELL	3.03	0.85
+25.20	121.25	0.15	PWUELL	3.22	0.73
+25.24	121.86	0.34	PWUELL	3.14	0.87
+25.24	121.86		PWUELL	3.21	0.73
+25.28	122.46	0.03	PWUELL	3.19	0.82
+25.32	123.06	0.20	PWUELL	3.11	0.77
+25.36	123.67		PWUELL	3.12	0.67
+25.40	124.27	0.25	PWUELL	3.08	0.55
+25.44	124.88		PWUELL	3.25	0.74
+25.44	124.88		PWUELL	2.98	0.59
+25.48	125.48		PWUELL	2.98	0.50
+25.48	125.48		PWUELL	3.18	0.83
+25.52	126.08	0.13	PWUELL	3.04	0.55
+25.56	126.69	0.13	PWUELL	3.16	0.65
+25.60	127.29	0.19	PWUELL	2.92	0.45
+25.64	127.89	0.35	PWUELL	3.05	0.24
+25.68	128.50	0.17	PWUELL	3.23	0.27
+25.72	128.87	0.97	PWUELL	3.13	0.16
+25.76	129.02	1.02	GLOBOBUL	3.06	
+25.76	129.02		MELBAR	3.33	
+25.80	129.17	1.13	GLOBOBUL	3.37	
+25.84	129.32	1.18	MELBAR	3.59	
+25.84	129.32		GLOBOBUL	3.45	
+25.88	129.47	1.18	PWUELL	3.59	-0.06
+25.88	129.47		MELBAR	3.51	
+25.92	129.61	1.16	PWUELL	3.47	-0.32
+25.92	129.61		MELBAR	3.51	
+25.96	129.76	0.97	GLOBOBUL	3.60	
+25.96	129.76		MELBAR	3.75	
+26.00	129.91	1.14	GLOBOBUL	3.51	
+26.04	130.06	1.00	MELBAR	3.70	
+26.08	130.21	1.19	MELBAR	3.69	
+26.12	130.35	1.60	MELBAR	3.93	
+26.16	130.50	1.57	MELBAR	3.95	
+26.20	130.65	1.88	GLOBOBUL	3.98	
+26.20	130.65		PWUELL	3.93	-0.24
+26.24	130.80	1.97	PWUELL	3.81	-0.04
+26.24	130.80		MELBAR	4.09	
+26.28	130.95	1.96	MELBAR	4.20	
+26.28	130.95		PWUELL	4.02	-0.03
+26.32	131.09	2.29	PWUELL	3.90	-0.30
+26.36	131.24	2.17	MELBAR	4.11	
+26.36	131.24		PWUELL	4.25	-0.37
+26.40	131.39	2.36	GLOBOBUL	4.30	
+26.40	131.39		PWUELL	4.38	-0.16
+26.44	131.54	2.21	PWUELL	4.44	0.03
+26.48	131.69	2.14	PWUELL	4.50	-0.08
+26.52	131.83	2.57	PWUELL	4.41	-0.31
+26.56	131.97	2.52	CIB	4.48	-0.61
+26.56	131.97		GLOBOBUL	4.53	
+26.60	132.10	2.69	GLOBOBUL	4.59	
+26.60	132.10		PWUELL	4.60	-0.33

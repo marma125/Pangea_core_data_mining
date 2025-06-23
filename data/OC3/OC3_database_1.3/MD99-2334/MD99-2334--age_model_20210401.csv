@@ -1,0 +1,452 @@
+Site,Sample Label,age_model_depth (m),age_model (y BP),age_model_sigma_plus(y BP),age_model_sigma_minus(y BP),97.5_percent(y BP),2.5_percent(y BP),age_flag,age_model_note,age_model_collection,quality control
+MD99-2334,,0,209.5,,,579.05,-56,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.02,363,,,978,35.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.04,492,,,1321.025,125.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.06,617.5,,,1559.275,204.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.08,733.5,,,1776.1,266.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.1,852.5,,,1932.025,324.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.12,971.5,,,2043.35,384.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.14,1095,,,2136.025,410.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.16,1217,,,2217.025,455.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.18,1344,,,2260,499.675,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.2,1464,,,2302.175,556.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.22,1587,,,2363.175,613.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.24,1706,,,2400.175,680.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.26,1821,,,2454.05,762.1,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.28,1932,,,2505.125,798.65,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.3,2043.5,,,2572.05,906,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.32,2160,,,2645,988.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.34,2283,,,2712.175,1110.525,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.36,2399,,,2807.075,1411.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.38,2528,,,2921.025,1592.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.4,2701,,,3129.075,2259.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.42,2976,,,4698.15,2502.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.44,3195,,,5519.075,2639,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.46,3418.5,,,6174.8,2709.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.48,3643.5,,,6504.975,2777.85,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.5,3861.5,,,6728.25,2844.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.52,4080,,,6894.325,2905.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.54,4307,,,7136.475,2984.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.56,4527,,,7244.2,3059.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.58,4755,,,7375.55,3195.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.6,4975.5,,,7469.825,3265.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.62,5194,,,7669.225,3369,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.64,5417,,,7791.2,3476.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.66,5632,,,7891.5,3580.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.68,5853,,,8021.05,3684.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.7,6063.5,,,8080.3,3793.75,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.72,6298,,,8158.225,3917.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.74,6525,,,8234.05,4070.6,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.76,6729.5,,,8313.075,4244.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.78,6956,,,8387.275,4376.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.8,7180.5,,,8478.15,4530.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.82,7407,,,8558.325,4732.1,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.84,7631,,,8627.2,4870.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.86,7834.5,,,8701.425,5157.6,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.88,8060,,,8802.025,5700.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.9,8287,,,8875.25,6092.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.92,8496,,,9002.05,6564.25,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.94,8725.5,,,9158.05,7346.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.96,9117.5,,,10109.075,8696.75,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,0.98,9533.5,,,10730.025,8981.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1,9949,,,10937,9118.75,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.02,10375,,,11136.025,9322.65,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.04,10791,,,11392.125,9636.675,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.06,11199,,,11644.2,10037.65,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.08,11617,,,12018.15,11156.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.1,11769,,,12258.1,11400,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.12,11872.5,,,12398.075,11488.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.14,11977,,,12503.175,11565,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.16,12072.5,,,12590.125,11635.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.18,12178,,,12657.025,11701.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.2,12280.5,,,12716.075,11780.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.22,12383,,,12794.175,11849.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.24,12481,,,12853.025,11940.55,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.26,12591.5,,,12927.075,12037.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.28,12693,,,13031.2,12185.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.3,12827,,,13188.025,12432.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.32,12962,,,13350.2,12581.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.34,13060,,,13492,12695,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.36,13153,,,13582.025,12787.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.38,13247.5,,,13641,12875.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.4,13343.5,,,13700.05,12962.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.42,13439,,,13773.025,13037.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.44,13534,,,13856.025,13118.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.46,13630.5,,,13976.125,13201.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.48,13761,,,14133,13404.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.5,13981.5,,,14368.05,13659.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.52,14189,,,14522.275,13860.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.54,14395,,,14725.025,14022.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.56,14607.5,,,14971.15,14205.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.58,14695,,,15109.075,14307.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.6,14756.5,,,15204.675,14368,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.62,14807.5,,,15269.175,14423.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.64,14855,,,15338.35,14461.85,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.66,14904,,,15402.225,14491,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.68,14943,,,15460.025,14523.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.7,14983,,,15484.025,14546.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.72,15030,,,15512.1,14590,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.74,15081,,,15562.3,14637,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.76,15123,,,15609.075,14663.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.78,15166.5,,,15625.15,14685.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.8,15209,,,15671.025,14706.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.82,15255,,,15696.15,14763.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.84,15295,,,15745.15,14798,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.86,15343.5,,,15766.175,14825.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.88,15386.5,,,15804.025,14855.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.9,15433,,,15829.025,14915.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.92,15479.5,,,15863.075,14985.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.94,15529.5,,,15909.05,15080.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.96,15577.5,,,15964.05,15152.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,1.98,15659.5,,,16072.1,15275.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2,15783,,,16517,15432.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.02,15886.5,,,16766.025,15512.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.04,15986.5,,,16881.05,15580.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.06,16087,,,16977.075,15639.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.08,16183.5,,,17040.025,15696.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.1,16283,,,17088.55,15750.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.12,16378,,,17153.25,15790.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.14,16489,,,17212.05,15839.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.16,16590.5,,,17243.125,15888.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.18,16695.5,,,17272.175,15941.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.2,16795.5,,,17310.025,16002.675,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.22,16895,,,17350.025,16062.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.24,16991.5,,,17404.175,16164.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.26,17083,,,17488.025,16250.6,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.28,17177,,,17586,16457.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.3,17276,,,17694.175,16658.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.32,17416,,,17857.15,16988.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.34,17570,,,18384.1,17144.625,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.36,17673,,,18694.025,17218.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.38,17772,,,18880.525,17312.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.4,17866,,,19090.025,17355,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.42,17962,,,19236.325,17414.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.44,18054,,,19318.325,17445.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.46,18148.5,,,19462.25,17489.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.48,18239,,,19535.05,17511.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.5,18328.5,,,19596,17559.4,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.52,18428.5,,,19672.25,17589.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.54,18524,,,19740.15,17631.525,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.56,18622,,,19777.125,17666.325,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.58,18716.5,,,19833,17726.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.6,18811.5,,,19855,17761.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.62,18888.5,,,19888.4,17800.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.64,18978,,,19934.15,17853.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.66,19064.5,,,19974.025,17949.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.68,19159,,,20009.05,17998.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.7,19251.5,,,20056.025,18101.65,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.72,19345,,,20088.025,18150.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.74,19431,,,20133.1,18258.175,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.76,19528.5,,,20186,18364.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.78,19621.5,,,20225.175,18434.45,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.8,19718,,,20261.125,18506.475,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.82,19815.5,,,20305,18614.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.84,19893,,,20340,18750,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.86,19987,,,20393.1,18959,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.88,20086,,,20463.025,19234.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.9,20198,,,20577.1,19565.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.92,20376,,,20855.275,20002.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.94,20502.5,,,21160.3,20132.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.96,20630,,,21287.2,20215.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,2.98,20751,,,21395.25,20285.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3,20868.5,,,21492.175,20355,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.02,20995,,,21576.65,20411.85,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.04,21123,,,21660.025,20486.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.06,21244,,,21722.125,20560.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.08,21372.5,,,21809,20651.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.1,21490,,,21913.025,20766.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.12,21616,,,22001.025,20940.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.14,21778.5,,,22173.2,21362.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.16,21928.5,,,22599.3,21557.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.18,22056,,,22793.025,21668.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.2,22169,,,22940.125,21749.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.22,22290,,,23076.025,21810.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.24,22415,,,23160.475,21902.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.26,22539,,,23243,21946.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.28,22657,,,23305,21998.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.3,22793.5,,,23369.025,22067.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.32,22921,,,23427.025,22178.75,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.34,23041,,,23502.25,22262.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.36,23171,,,23587.05,22461.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.38,23301,,,23696,22792.425,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.4,23535,,,23946.05,23162.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.42,23789,,,24136.1,23447.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.44,24035.5,,,24358.05,23638.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.46,24299.5,,,24658.35,23930.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.48,24459,,,25075.075,24098.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.5,24584.5,,,25222.35,24188.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.52,24698.5,,,25350.25,24259,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.54,24814,,,25438.05,24341.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.56,24926.5,,,25510.05,24416.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.58,25036,,,25575.225,24499.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.6,25147,,,25669.05,24579.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.62,25259,,,25707.45,24662.625,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.64,25367,,,25792.2,24722.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.66,25481,,,25896,24820.575,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.68,25598.5,,,25986.15,24952.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.7,25759,,,26175.675,25372.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.72,25979.5,,,26841.225,25569.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.74,26153.5,,,27091.2,25712.85,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.76,26331.5,,,27276.725,25824.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.78,26503,,,27398.275,25889.725,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.8,26677,,,27549.025,25967.75,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.82,26850,,,27660.925,26057.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.84,27033,,,27759.225,26188.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.86,27208,,,27838.05,26285.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.88,27389,,,27917,26410.775,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.9,27555.5,,,28015.025,26543.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.92,27727.5,,,28135.025,26795.3,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.94,27938,,,28339.175,27494.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.96,28154,,,28611.1,27753.825,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,3.98,28337,,,28789.175,27938.8,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4,28527.5,,,28920.025,28118.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.02,28725,,,29056.025,28261.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.04,28912.5,,,29258.175,28479.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.06,29157,,,29742.1,28775.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.08,29364,,,30160.25,28958.65,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.1,29567,,,30321,29095.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.12,29768,,,30442.025,29191.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.14,29977.5,,,30575.05,29284.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.16,30183,,,30683.025,29389,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.18,30383,,,30826.175,29540.65,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.2,30579,,,30972.025,29821.55,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.22,30811,,,31268.075,30394.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.24,31001,,,31981.4,30572.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.26,31128.5,,,32221.125,30663.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.28,31259,,,32428.225,30744.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.3,31386,,,32570.425,30814.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.32,31510,,,32683,30872.95,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.34,31638.5,,,32812.475,30914.675,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.36,31765,,,32906.55,30964.875,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.38,31888.5,,,33005,31028.9,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.4,32019.5,,,33063.1,31094.975,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.42,32143.5,,,33134.175,31166,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.44,32272,,,33196.025,31227.925,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.46,32400.5,,,33259.25,31283.7,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.48,32525,,,33311.075,31348.6,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,4.5,32641,,,33377.1,31419.85,3,Age model from Skinner et al. 2021,https://doi.org/10.1029/2020PA004074. Calculated with Bchron.,1
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,
+MD99-2334,,,,,,,,,,,

@@ -1,0 +1,5 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+KNR110_GGC66,,0.475,,,,16555,105,105,648,37,37,19194,304,274,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/GB004i001p00103
+KNR110_GGC66,,0.51,,,,16945,115,115,642,37,37,19698,325,321,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/GB004i001p00103
+KNR110_GGC66,,0.555,,,,18100,120,120,660,43,43,21067,385,376,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/GB004i001p00103
+KNR110_GGC66,,0.585,,,,18920,135,135,714,41,41,22077,329,345,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/GB004i001p00103

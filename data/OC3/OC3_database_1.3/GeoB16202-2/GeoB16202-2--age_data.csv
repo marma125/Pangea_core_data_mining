@@ -1,0 +1,14 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB16202-2,,0.06,,,,1720,35,35,396,50,50,1239,105,156,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,0.5,,,,5695,35,35,429,50,50,6053,147,137,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,1.05,,,,8170,50,50,361,50,50,8607,362,187,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,1.7,,,,10150,80,80,339,62,62,11238,381,446,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,2,,,,10620,60,60,470,52,52,11780,303,380,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,2.75,,,,11610,60,60,572,25,25,12903,150,154,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,3.1,,,,12770,60,60,401,26,26,14423,378,316,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,4,,,,13950,80,80,585,35,35,16074,253,274,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,5,,,,14450,110,110,638,32,32,16708,364,381,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,6,,,,14920,80,80,729,32,32,17279,261,270,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,6.7,,,,15480,70,70,736,32,32,17939,221,232,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,7.15,,,,18010,90,90,703,35,35,20875,307,280,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084
+GeoB16202-2,,7.55,,,,20220,100,100,785,36,36,23394,320,342,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1002/2017PA003084

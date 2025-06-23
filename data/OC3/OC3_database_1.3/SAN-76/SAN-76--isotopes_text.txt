@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SAN-76
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -42.28
+    Latitude: -24.43
+    WaterDepth: 1682.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: WHOI
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: Toledo (pers. comm.)
+    Reference: Toledo, F. A.L., Costa, K. B., and Pivel, M. A.G.: Salinity changes in the western tropical South Atlantic during the last 30 kyr, Global and Planetary Change, 57, 383-395, doi:10.1016/j.gloplacha.2007.01.001, 2007.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Cristiano M. Chiessi
+    Optional: na
+    dimensions(sizes): Length(43), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

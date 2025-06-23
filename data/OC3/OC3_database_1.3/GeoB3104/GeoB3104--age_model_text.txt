@@ -1,0 +1,89 @@
+		:Core = "GeoB3104_1" ;
+		:Parameter = "Age" ;
+		:Longitude = -37.7167f ;
+		:Latitude = -3.66667f ;
+		:Water\ Depth = 767.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Atlantic Ocean" ;
+		:Filename = "GeoB3104_1.age" ;
+		:Optional = "" ;
+		:bacon_K = 40 ;
+		:bacon_d_min = 8.f ;
+		:bacon_d_max = 209.f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 86.5636f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 3.f ;
+		:bacon_t_b = 4.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 2640.01f ;
+		:bacon_th0p = 2596.87f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB3104
+    Parameter: Age
+    Longitude: -37.717
+    Latitude: -3.667
+    Water Depth: 767.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.82333
+    Reference: Arz, H. W., P�tzold, J., and Wefer, G.: The deglacial history of the western tropical Atlantic as inferred from high resolution stable isotope records off northeastern Brazil, Earth and Planetary Science Letters, 167, 105-117, doi:10.1016/S0012-821X(99)00025-4, 1999.
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB3104.age
+    Optional: na
+    bacon_K: 45
+    bacon_d_min: 8.0
+    bacon_d_max: 462.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 80.9
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3050.48
+    bacon_th0p: 3053.31
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(11), Label_Characters(8), Type_Characters(3), Comment_Characters(62), bacon_out_nrow(1000), bacon_out_ncol(48), Bacon Length(454)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

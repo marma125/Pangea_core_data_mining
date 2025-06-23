@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK23416-4
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -20.0
+    Latitude: 51.568
+    WaterDepth: 3616.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer (Kiel type) (SL)
+    Record Type: sb
+    Laboratory: Leibniz Laboratory Kiel
+    E-Paper: NaN
+    Comment: age model: Jung, Simon J A (2004): Age model of sediment core GIK23416-4. PANGAEA, https://doi.org/10.1594/PANGAEA.186500; Chi, J; Mienert, Juergen (2003): Age model of sediment core GIK23416-4. PANGAEA, https://doi.org/10.1594/PANGAEA.133922
+    DataSource: Jung, Simon J A; Sarnthein, Michael (2003): Stable isotope data of sediment cores GIK23416-4. PANGAEA, https://doi.org/10.1594/PANGAEA.112913
+    Reference: Jung, Simon J A (1996): Wassermassenaustausch zwischen NE-Atlantik und Nordmeer w�hrend der letzten 300 000/80 000 Jahre im Abbild stabiler O- und C- Isotope. Berichte aus dem Sonderforschungsbereich 313, Christian-Albrechts-Universit_�t, Kiel, 61, 104 pp, https://doi.org/10.2312/reports-sfb313.1996.61
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschlaeger
+    Optional: na;number of specimens=5 to 15;mesh size min �m=315;mesh size max �m=400;OC3 age flag=4,5;age model type=manual alignment, bacon, pdv;OC3 age flag=NaN
+    dimensions(sizes): Length(94), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

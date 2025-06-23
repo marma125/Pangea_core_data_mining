@@ -1,0 +1,6 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB4240-2,,0.205,,,G.bulloides,2025,70,70,400,100,100,1506,182,168,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB4240-2,,0.605,,,Mixed,8815,70,70,400,100,100,9336,189,172,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB4240-2,,1.005,,,G.bulloides,9700,190,190,400,100,100,10482,504,501,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB4240-2,,1.455,,,G.bulloides,14540,130,130,400,200,200,16903,366,288,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GeoB4240-2,,3.105,,,Mixed,27730,300,300,400,200,200,31208,344,240,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

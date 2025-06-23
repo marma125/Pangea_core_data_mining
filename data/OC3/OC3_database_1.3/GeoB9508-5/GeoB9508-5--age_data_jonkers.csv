@@ -1,0 +1,13 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB9508-5,KIA 31283,0.03,,,mixed,920,30,30,368.8,51,51,569,61,43,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31282,0.68,,,mixed,6145,50,50,409.7,50.6,50.6,6533,97,79,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 33724,0.98,,,mixed,9230,60,60,346.7,50.9,50.9,10035,123,126,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 33725,1.23,,,mixed,10560,80,80,417.4,51,51,11824,174,196,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 33726,1.63,,,mixed,11480,80,80,481.6,20.9,20.9,12850,124,109,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31770,3.08,,,mixed,16650,90,90,646.3,28.6,28.6,19323,169,154,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31769,3.43,,,mixed,19590,120,120,693.6,31.5,31.5,22751,201,201,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31768,3.88,,,mixed,22030,120,120,838.8,33.1,33.1,25544,169,208,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31766,4.83,,,mixed,26810,210,210,848.2,34.5,34.5,30240,364,401,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31765,5.83,,,mixed,32090,350,350,632.7,28.6,28.6,35325,343,343,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31764,6.63,,,mixed,37000,640,640,845,36.4,36.4,40811,506,523,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765
+GeoB9508-5,KIA 31281,7.78,,,mixed,43340,1660,1660,637.9,32.9,32.9,45987,1117,970,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.726765

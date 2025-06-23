@@ -1,0 +1,6 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+RAPiD-15-4P,,1.685,,,,6520.0,37.0,37.0,674.0,50.3,50.3,6650.0,175.0,159.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+RAPiD-15-4P,,3.685,,,,7906.0,36.0,36.0,606.0,52.0,52.0,8105.0,196.0,132.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+RAPiD-15-4P,,4.165,,,,8796.0,37.0,37.0,579.0,52.1,52.1,9184.0,222.0,170.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+RAPiD-15-4P,,4.625,,,,10310.0004196167,50.00000074505806,50.00000074505806,0.0,0.0,0.0,12150.0,316.0,310.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+RAPiD-15-4P,,5.655,,,,18666.0,66.0,66.0,1499.0,537.6,537.6,20840.0,1337.0,1278.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

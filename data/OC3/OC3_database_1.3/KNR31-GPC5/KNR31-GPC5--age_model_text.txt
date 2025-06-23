@@ -1,0 +1,93 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR31-GPC5
+    Parameter: Age
+    Longitude: -57.615
+    Latitude: 33.687
+    Water Depth: 4583.0
+    Proxy Category: Age
+    Device: Piston corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: KNR31-GPC5.age
+    Optional: 
+    bacon_K: 146
+    bacon_d_min: 1.0
+    bacon_d_max: 731.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 27.7066
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 3.0
+    bacon_t_b: 4.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1183.21
+    bacon_th0p: 1305.16
+    bacon_burnin: 0
+    bacon_ssize: 10000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(17), Label_Characters(7), Type_Characters(3), Comment_Characters(50), bacon_out_nrow(10000), bacon_out_ncol(149), Bacon Length(730)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups:
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR31-GPC5
+    Parameter: Age
+    Longitude: -57.615
+    Latitude: 33.687
+    Water Depth: 4583.0
+    Proxy Category: Age
+    Device: Piston corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: NOAA, ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/waelbroeck2011/, and table in paper
+    Reference: Keigwin, L. D. and Jones, G. A.: Western North Atlantic evidence for millennial-scale changes in ocean circulation and climate, J. Geophys. Res., 99, 12397, https://doi.org/10.1029/94JC00525, 1994., Keigwin, L. D., Jones, G. A., Lehman, S. J., and Boyle, E. A.: Deglacial meltwater discharge, North Atlantic Deep Circulation, and abrupt climate change, J. Geophys. Res., 96, 16811, doi:10.1029/91JC01624, 1991.
+    Use Flag: 0
+    Importer: na
+    Filename: KNR31-GPC5.age
+    Optional: na
+    bacon_K: 72
+    bacon_d_min: 1.0
+    bacon_d_max: 2167.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 15.4036
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1268.7
+    bacon_th0p: 1253.74
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(33), Label_Characters(7), Type_Characters(3), Comment_Characters(94), bacon_out_nrow(1000), bacon_out_ncol(75), Bacon Length(2166)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups:  

@@ -1,0 +1,3 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+20200711, Juan Muglia: V19-27--isotope_data_mix_uvigerina.csv and V19-27--isotope_data_mix.csv correspond to isotope data from uvigerina and cibicidoides provided by Alan Mix to Juan Muglia and the OC3 Pacific leaders on July, 2020. V19-27--isotope_data_lisiecki.csv corresponds to isotope data from cibicidoides data from the original publication, as compiled by Peterson and Lisiecki, 2018. 

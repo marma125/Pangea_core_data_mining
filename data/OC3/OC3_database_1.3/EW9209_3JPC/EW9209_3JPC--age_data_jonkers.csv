@@ -1,0 +1,16 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW9209_3JPC,OS-8361,0.03,,,G. sacculifer,6210,35,35,408.6,50.1,50.1,6608,58,68,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8362,0.17,,,G. sacculifer,8090,55,55,360.6,50,50,8501,75,69,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8363,0.37,,,G. sacculifer,5230,40,40,402.3,50.2,50.2,5552,51,67,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8364,0.57,,,G. sacculifer,13150,50,50,539.8,29.7,29.7,14991,152,205,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8365,0.8,,,G. sacculifer,15950,70,70,737.8,34.4,34.4,18484,115,122,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8366,0.93,,,G. sacculifer,16500,70,70,674.7,35.2,35.2,19069,128,123,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8367,1.2,,,G. sacculifer,20400,80,80,761.1,40.7,40.7,23659,210,204,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8656,1.4,,,G. sacculifer,22400,80,80,876.6,40.2,40.2,25829,123,124,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8658,1.58,,,G. sacculifer,26700,170,170,878,40.8,40.8,30035,342,349,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,OS-8657,1.82,,,G. sacculifer,29300,170,170,757.3,38,38,32599,339,430,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GM112p0059
+EW9209_3JPC,,4,,,,,,,,,,62000,2500,2500,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9209_3JPC,,4.5,,,,,,,,,,71000,1640,1640,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9209_3JPC,,5.2,,,,,,,,,,91500,2360,2360,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9209_3JPC,,6.2,,,,,,,,,,116000,4620,4620,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9209_3JPC,,6.5,,,,,,,,,,134000,2720,2720,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

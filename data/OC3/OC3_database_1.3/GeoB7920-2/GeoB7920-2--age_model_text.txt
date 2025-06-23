@@ -1,0 +1,93 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB7920-2
+    Parameter: Age
+    Longitude: -18.582
+    Latitude: 20.752
+    Water Depth: 2278.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: GeoB7920-2.age
+    Optional: 
+    bacon_K: 323
+    bacon_d_min: 3.0
+    bacon_d_max: 1618.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 75.1311
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 874.677
+    bacon_th0p: 906.731
+    bacon_burnin: 0
+    bacon_ssize: 10000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(13), Label_Characters(8), Type_Characters(3), Comment_Characters(49), bacon_out_nrow(8333), bacon_out_ncol(326), Bacon Length(1615)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB7920-2
+    Parameter: Age
+    Longitude: -18.582
+    Latitude: 20.752
+    Water Depth: 2278.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.757419
+    Reference: Tjallingii, R., Claussen, M., Stuut, J.-B. W., Fohlmeister, J., Jahn, A., Bickert, T., Lamy, F., and R�hl, U.: Coherent high- and low-latitude control of the northwest African hydrological balance, Nature Geosci, 1, 670-675, doi:10.1038/ngeo289, 2008.
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB7920-2.age
+    Optional: na
+    bacon_K: 59
+    bacon_d_min: 3.0
+    bacon_d_max: 298.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 62.7274
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 924.39
+    bacon_th0p: 892.962
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(8), Label_Characters(8), Type_Characters(3), Comment_Characters(58), bacon_out_nrow(1000), bacon_out_ncol(62), Bacon Length(295)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

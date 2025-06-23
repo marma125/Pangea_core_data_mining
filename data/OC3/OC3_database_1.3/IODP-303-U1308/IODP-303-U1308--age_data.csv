@@ -1,0 +1,3 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+IODP-303-U1308,IODP U1308_C1H1A_11-12,1.2,,BE-6144.1.1,,3165,73,73,,,,,,,,,,Jorg Lippold personal communication,,,
+IODP-303-U1308,IODP U1308_C1H1A_68-69,6.9,,BE-6145.1.1,,11277,196,196,,,,,,,,,,Jorg Lippold personal communication,,,

@@ -1,0 +1,48 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GL-1180
+    Parameter: Age
+    Longitude: -33.55
+    Latitude: -8.45
+    Water Depth: 1037.0
+    Proxy Category: Age
+    Device: NaN
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: Paper supplement
+    Reference: Nascimento, R. A., Venancio, I. M., Chiessi, C. M., Ballalai, J. M., Kuhnert, H., Johnstone, H., Santos, T. P., Prange, M., Govin, A., Crivellari, S., Mulitza, S., and Albuquerque, A.L.S.: Tropical Atlantic stratification response to late Quaternary precessional forcing, Earth and Planetary Science Letters, 568, 117030, https://doi.org/10.1016/j.epsl.2021.117030
+    Use Flag: 0
+    Importer: Stefan Mulitza
+    Filename: GL-1180.age
+    Optional: na
+    bacon_K: 90
+    bacon_d_min: 21.0
+    bacon_d_max: 920.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 157.035
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 2462.9
+    bacon_th0p: 2436.02
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(21), Label_Characters(11), Type_Characters(3), Comment_Characters(81), bacon_out_nrow(1000), bacon_out_ncol(93), Bacon Length(899)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

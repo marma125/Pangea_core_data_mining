@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK23519-5
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -29.6
+    Latitude: 64.8
+    WaterDepth: 1893.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: Kiel
+    E-Paper: Millo, C et al. (2006): Variability of the Denmark Strait Overflow during the Last Glacial Maximum. Boreas, 35(1), 50-60, https://doi.org/10.1111/j.1502-3885.2006.tb01112.x
+    Comment: NaN
+    DataSource: https://doi.org/10.1594/PANGAEA.271549
+    Reference: Millo, C et al. (2006): Variability of the Denmark Strait Overflow during the Last Glacial Maximum. Boreas, 35(1), 50-60, https://doi.org/10.1111/j.1502-3885.2006.tb01112.x
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=1-10;min mesh size=250;max mesh size=400;OC3 age flag=3, 5 ;age type=14C and cal age from the original data source, manual alignment, bacon, pdv
+    dimensions(sizes): Length(410), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

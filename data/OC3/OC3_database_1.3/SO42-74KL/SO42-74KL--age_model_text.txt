@@ -1,0 +1,88 @@
+		:Core = "SO42_74KL" ;
+		:Parameter = "Age" ;
+		:Longitude = 57.347f ;
+		:Latitude = 14.321f ;
+		:Water\ Depth = 3212.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Indian Ocean" ;
+		:Filename = "SO42_74KL.age" ;
+		:Optional = "" ;
+		:bacon_K = 38 ;
+		:bacon_d_min = 7.5f ;
+		:bacon_d_max = 197.5f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 102.189f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 6.f ;
+		:bacon_t_b = 7.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 1087.31f ;
+		:bacon_th0p = 1203.06f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SO42-74KL
+    Parameter: Age
+    Longitude: 57.347
+    Latitude: 14.321
+    Water Depth: 3212.0
+    Proxy Category: Age
+    Device: Kasten corer (KAL)
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.407912
+    Reference: Sirocko, F.: Zur Akkumulation von Staubsedimenten im n�rdlichen Indischen Ozean; Anzeiger der Klimageschichte Arabiens und Indiens, Berichte - Reports, Geologisch-Pal�ontologisches Institut und Museum (Kiel, Univ.). Berichte. 27, 27, Geol.-Pal�ont. Inst. u. Museum Univ, Kiel, 185 pp., 1989.
+    Use Flag: 0
+    Importer: na
+    Filename: SO42-74KL.age
+    Optional: na
+    bacon_K: 38
+    bacon_d_min: 7.5
+    bacon_d_max: 197.5
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 102.189
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1234.85
+    bacon_th0p: 1137.42
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(13), Label_Characters(3), Type_Characters(3), Comment_Characters(63), bacon_out_nrow(1000), bacon_out_ncol(41), Bacon Length(190)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW9504-13PC,,0,,,,12000,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,1.3,,,,16500,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,4.3,,,,24800,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,5.3,,,,30400,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,5.7,,,,36000,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,7.7,,,,43000,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,9.3,,,,50000,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,11,,,,66000,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X
+EW9504-13PC,,14,,,,73000,,,,,,,,,,,,Age model determined by correlation of benthic foraminifera d18O to W8709A-13PC,,,https://doi.org/10.1016/S0277-3791(01)00018-X

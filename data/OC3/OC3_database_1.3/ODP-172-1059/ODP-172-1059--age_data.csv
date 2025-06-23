@@ -1,0 +1,21 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+ODP-172-1059,,0.1,,,,,,,,,,7600,2000,3000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,3.35,,,G. inflata,14285,105,105,516,34,34,16650,360,356,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,5.11,,,Mixed pl. ,15650,100,100,643,33,33,18233,275,275,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,7.07,,,Mixed pl. ,19850,100,100,618,33,33,23180,314,300,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,9.55,,,G. inflata,23600,140,140,800,45,45,27142,317,437,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,10.43,,,"G. inlata,G. ruber",24500,310,310,687,36,36,27963,586,495,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,11.55,,,G. inflata,28000,170,170,715,43,43,31198,240,231,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,12.51,,,G. inflata,30640,380,380,688,46,46,34081,656,610,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,14.38,,,G. inflata,39600,480,480,765,46,46,42777,732,655,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/S0025-3227(02)00327-4
+ODP-172-1059,,15.08,,,,,,,,,,45200,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,17.72,,,,,,,,,,51600,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,18.96,,,,,,,,,,53500,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,21.58,,,,,,,,,,57550,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,23.7,,,,,,,,,,61900,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,25.59,,,,,,,,,,68300,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,26.79,,,,,,,,,,72550,2000,2000,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,28.26,,,,,,,,,,80400,,,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+ODP-172-1059,,2.3,,BE-16592.1.1,170 ruber + 30 mixed planktic,2983,39,39,,,,,,,,,,Jorg Lippold personal communication,,,
+ODP-172-1059,,2.7,,BE-16593.1.1,110 ruber + 90 mixed planktic,3423,52,52,,,,,,,,,,Jorg Lippold personal communication,,,
+ODP-172-1059,,3.3,,BE-16594.1.1,180 ruber + 25 mixed planktic,3859,41,41,,,,,,,,,,Jorg Lippold personal communication,,,

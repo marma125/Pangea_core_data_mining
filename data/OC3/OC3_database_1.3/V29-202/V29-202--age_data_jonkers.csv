@@ -1,0 +1,19 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+V29-202,,0.0399999991,,,,,,,,,,500,1500,500,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,0.8600000143,,,N. pachyderma,13449.9998092651,75.0000029802,75.0000029802,1066.5,247.4,247.4,14530,810,784,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,1.07,,,N. pachyderma,17200,85,85,1309.1,242.2,242.2,19212,616,539,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,1.41,,,N. pachyderma,23800,100,100,1413.5,240.9,240.9,26680,579,581,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,1.96,,,N. pachyderma,28500,140,140,1560.9,242.9,242.9,31021,338,346,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,2.1,,,N. pachyderma,31000,250,250,1498.8,242,242,33650,636,732,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,2.25,,,N. pachyderma,31000,160,160,1498.8,241.4,241.4,33668,513,617,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,2.6,,,N. pachyderma,35300,210,210,1409.5,236.9,236.9,38321,790,998,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,2.85,,,N. pachyderma,38500,290,290,1623.7,243.3,243.3,41455,616,698,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean//sediment_files/complete/v29-202-tab.txt
+V29-202,,4.0599999428,,,,,,,,,,59500,1220,1220,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,4.75,,,,,,,,,,71500,1380,1380,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,4.9899997711,,,,,,,,,,85500,1780,1780,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,5.5,,,,,,,,,,96000,3480,3480,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,5.6999998093,,,,,,,,,,103500,2580,2580,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,5.8600001335,,,,,,,,,,116000,4620,4620,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,6.6999998093,,,,,,,,,,132500,3080,3080,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V29-202,,6.8000001907,,,,,,,,,,136500,2420,2420,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+

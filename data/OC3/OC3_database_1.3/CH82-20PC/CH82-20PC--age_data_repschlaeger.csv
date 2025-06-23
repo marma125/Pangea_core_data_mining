@@ -1,0 +1,9 @@
+Site,Sample label,sample depth,technique,lab. code,species/material,radiocarbon age (y),radiocarbon age error plus (y),radiocarbon age error minus (y),reservoir age (y),reservoir age error plus (y),reservoir age error minus (y),calendar age (yBP),calendar age error plus (yBP),calendar age error minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+CH82_20PC,,0.18,,,G. inflata,3650,60,60,383,51,51,3504,188,156,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,0.445,,,N. pachyderma,11810,160,160,733,73,73,12950,317,251,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,0.743,,,N. pachyderma,15400,110,110,874,83,83,17698,328,356,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,0.76,,,N. pachyderma,14680,100,100,802,82,82,16801,412,435,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,0.8,,,N. pachyderma,14910,100,100,829,82,82,17120,386,432,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,0.9,,,N. pachyderma,15180,130,130,878,82,82,17415,437,416,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,0.98,,,N. pachyderma,17400,135,135,855,83,83,19957,411,388,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032
+CH82_20PC,,1.08,,,N. pachyderma,21000,170,170,924,89,89,24140,479,505,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1029/94PA00032

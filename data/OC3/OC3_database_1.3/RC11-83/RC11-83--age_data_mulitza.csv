@@ -1,0 +1,22 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+RC11-83,,0.6200000048,,,,,,,,,,2000,500,500,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,1.12,,,,5260,50,50,586,54.3,54.3,5418,169,332,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,1.63,,,,8150,40,40,524,50.1,50.1,8437,149,106,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,1.63,,,,8290,40,40,536,52.2,52.2,8521,169,122,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,1.89,,,,9900,66,66,490,53.2,53.2,10673,399,291,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,1.89,,,,10080,90,90,692,64.8,64.8,10635,438,373,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.05,,,,9760,40,40,518,53.4,53.4,10405,165,156,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.05,,,,9800,60,60,518,54.9,54.9,10451,210,203,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.21,,,,11940,80,80,900,92.4,92.4,12950,208,197,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.21,,,,11930,100,100,900,92.5,92.5,12947,214,201,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.31,,,,12040,80,80,857,90.7,90.7,13078,230,242,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.31,,,,12190,120,120,835,93.8,93.8,13256,318,325,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.48,,,,12790,110,110,736,93.4,93.4,13956,838,435,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.48,,,,13020,90,90,705,94.5,94.5,14448,533,556,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.62,,,,13230,110,110,774,96.8,96.8,14622,518,525,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.77,,,,12400,70,70,759,107.9,107.9,13515,271,266,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.77,,,,12800,90,90,736,93,93,13953,821,353,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,2.98,,,,14310,110,110,932,109,109,16104,464,440,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,3.35,,,,15620,120,120,1129,108.1,108.1,17713,478,413,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,3.68,,,,16150,90,90,1022,105.3,105.3,18463,259,249,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314
+RC11-83,,3.9,,,,16650,110,110,1048,105.7,105.7,18907,369,534,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1594/PANGAEA.837314

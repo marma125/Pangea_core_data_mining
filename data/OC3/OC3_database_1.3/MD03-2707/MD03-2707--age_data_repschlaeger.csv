@@ -1,0 +1,17 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD03-2707,,4.975,,,,9170,45,45,454,52,52,9706,407,168,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,5.375,,,,9780,45,45,409,54,54,10586,187,286,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,5.415,,,,9950,50,50,559,60,60,10630,437,328,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,5.585,,,,10125,45,45,616,57,57,10850,248,263,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,5.825,,,,10830,55,55,629,55,55,11886,487,477,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,6.105,,,,11640,35,35,544,24,24,12964,108,139,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,6.205,,,,12010,70,70,545,25,25,13309,142,161,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,6.455,,,,12650,35,35,639,27,27,13864,142,116,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,6.555,,,,12845,60,60,637,28,28,14101,259,264,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,6.705,,,,13100,80,80,683,29,29,14530,450,387,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,7.005,,,,14450,45,45,861,32,32,16377,232,202,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,7.255,,,,15140,100,100,869,31,31,17372,301,308,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,7.505,,,,15775,45,45,804,30,30,18191,175,198,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,7.62,,,,16040,180,180,815,33,33,18469,374,421,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,7.755,,,,16420,50,50,821,32,32,18845,131,129,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253
+MD03-2707,,8.02,,,,17210,150,150,815,30,30,19793,387,371,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1594/PANGAEA.877253

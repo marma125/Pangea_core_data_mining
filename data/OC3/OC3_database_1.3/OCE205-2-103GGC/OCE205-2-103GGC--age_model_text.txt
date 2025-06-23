@@ -1,0 +1,92 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: OCE205-2-103GGC
+    Parameter: Age
+    Longitude: -78.06
+    Latitude: 26.07
+    Water Depth: 965.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: OCE205-2-103GGC.age
+    Optional: 
+    bacon_K: 51
+    bacon_d_min: 10.0
+    bacon_d_max: 267.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 201.991
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 3.0
+    bacon_t_b: 4.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 935.545
+    bacon_th0p: 985.205
+    bacon_burnin: 0
+    bacon_ssize: 2000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(12), Label_Characters(8), Type_Characters(3), Comment_Characters(13), bacon_out_nrow(2000), bacon_out_ncol(54), Bacon Length(257)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: OC205-103GGC
+    Parameter: Age
+    Longitude: -78.056
+    Latitude: 26.07
+    Water Depth: 965.0
+    Proxy Category: Age
+    Device: Piston Core
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: Table in paper
+    Reference: Curry, W. B., Marchitto, T. M., McManus, J. F., Oppo, D. W., and Laarkamp, K. L.: Millennial-scale changes in ventilation of the thermocline, intermediate, and deep waters of the glacial North Atlantic, in: Mechanisms of Global Climate Change at Millennial Time Scales, edited by: Clark, U., Webb, S., and Keigwin, D., American Geophysical Union, Washington, D. C., 59-76, https://doi.org/10.1029/GM112p0059, 1999., Came, R. E., Oppo, D. W., and Curry, W. B.: Atlantic Ocean circulation during the Younger Dryas: Insights from a new Cd/Ca record from the western subtropical South Atlantic, Paleoceanography, 18, https://doi.org/10.1029/2003PA000888, 2003., McManus, unpublished data
+    Use Flag: 0
+    Importer: na
+    Filename: OC205-103GGC.age
+    Optional: na
+    bacon_K: 51
+    bacon_d_min: 10.0
+    bacon_d_max: 267.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 195.991
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 862.068
+    bacon_th0p: 934.082
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(22), Label_Characters(8), Type_Characters(3), Comment_Characters(112), bacon_out_nrow(1000), bacon_out_ncol(54), Bacon Length(257)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

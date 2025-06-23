@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB3104
+    Species: Planulina ariminensis/Cibicidoides pseudoungerianus
+    Longitude: -37.717
+    Latitude: -3.667
+    WaterDepth: 767.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.54790
+    Reference: Arz, H. W., P�tzold, J., and Wefer, G.: The deglacial history of the western tropical Atlantic as inferred from high resolution stable isotope records off northeastern Brazil, Earth and Planetary Science Letters, 167, 105-117, doi:10.1016/S0012-821X(99)00025-4, 1999.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(94), Character(19)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS2498-1
+    Species: Cibicidoides spp.
+    Longitude: -14.228
+    Latitude: -44.153
+    WaterDepth: 3783.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: AWI
+    E-Paper: Mackensen, A et al. (2001): Late Pleistocene deep-water circulation in the subantarctic eastern Atlantic. Global and Planetary Change, 30(3-4), 197-229, https://doi.org/10.1016/S0921-8181(01)00102-3
+    Comment: age model Radiocarbon data from Gersonde et al. (2003) Last glacial sea surface temperatures and sea-ice extent in the Southern Ocean (Atlantic-Indian sector) - A multiproxy approach, Paleoceanography, 18(3), 1061, few measurements of C. wuel. also available in Pangaea
+    DataSource: https://doi.org/10.1594/PANGAEA.80802
+    Reference: Mackensen, Andreas; Rudolph, Miriam; Kuhn, Gerhard (2001): Stable isotopes (Cibicidoides) of sediment core PS2498-1. PANGAEA, https://doi.org/10.1594/PANGAEA.80802
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: NaN
+    Optional: Number of shells=2 to 5;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3;age type=14C AMS, manual alignment, bacon, pdv
+    dimensions(sizes): Length(95), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,8 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB9526,KIA 31575,1.25,,,,11480,80,80,486.8,21.5,21.5,500,160.000026226,159.9999964237,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415
+GeoB9526,KIA 30725,1.4,,,,12755,60,60,370.7,23.8,23.8,12841,126,105,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415
+GeoB9526,KIA 30726,1.85,,,,14000,70,70,549.6,28.2,28.2,14416,271,234,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415
+GeoB9526,KIA 35457,2.1,,,,14680,75,75,628.6,29.8,29.8,16183,142,146,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415
+GeoB9526,KIA 30727,2.65,,,,20240,120,120,721,33.8,33.8,17075,180,196,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415
+GeoB9526,KIA 30728,3.65,,,,26060,240,240,752.6,43.5,43.5,23515,207,235,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415
+GeoB9526,KIA 30729,5.25,,,,34310,590,590,758.5,37.2,37.2,29363,268,285,IntCal13,,,From Jonkers et al. 2020 compilation,,,https://doi.pangaea.de/10.1594/PANGAEA.756415

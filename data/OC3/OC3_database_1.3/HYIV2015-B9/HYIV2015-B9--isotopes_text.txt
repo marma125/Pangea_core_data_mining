@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: HYIV2015-B9
+    Species: Cibicidoides wuellerstorfi
+    Longitude: 112.732
+    Latitude: 10.248
+    WaterDepth: 2603.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.899180
+    Reference: Li, G., Rashid, H., Zhong, L., Xu, X., Yan, W., and Chen, Z.: Changes in Deep Water Oxygenation of the South China Sea Since the Last Glacial Period, Geophys. Res. Lett., 45, 9058-9066, doi:10.1029/2018GL078568, 2018.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(42), Character(2)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,11 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GL-1090,,0.06,,BETA-404133,G. ruber,6690,30,30,520,100,100,6944,211,173,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,0.16,,BETA-404134,G. ruber,9120,30,30,520,100,100,9501,152,148,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,0.22,,BETA-404135,G. ruber,11350,40,40,520,200,200,12628,285,166,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,0.32,,BETA-404136,G. ruber,13760,40,40,520,200,200,15635,269,310,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,0.6,,BETA-404137,G. ruber,17580,60,60,520,200,200,20271,246,268,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,1.5,,BETA-404138,G. ruber,25260,110,110,520,200,200,28697,336,236,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,2.03,,BETA-404139,G. ruber,28360,130,130,520,200,200,31498,181,242,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,2.42,,BETA-404140,G. ruber,33290,210,210,520,200,200,36872,295,423,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,2.85,,BETA-404141,G. ruber,37930,350,350,520,200,200,41881,275,222,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GL-1090,,3.26,,BETA-404142,G. ruber,37690,360,360,520,200,200,41731,287,261,SHCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

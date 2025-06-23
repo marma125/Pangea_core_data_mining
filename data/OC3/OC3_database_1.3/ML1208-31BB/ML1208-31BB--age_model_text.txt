@@ -1,0 +1,46 @@
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: ML1208-31BB
+    Parameter: Age
+    Longitude: -160.05
+    Latitude: 4.68
+    Water Depth: 2857.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: NOAA, https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/monteagudo2020/, paper supplement
+    Reference: Lynch-Stieglitz, J., Polissar, P. J., Jacobel, A. W., Hovan, S. A., Pockalny, R. A., Lyle, M., Murray, R. W., Ravelo, A. C., Bova, S. C., Dunlea, A. G., Ford, H. L., Hertzberg, J. E., Wertman, C. A., Maloney, A. E., Shackford, J. K., Wejnert, K., and Xie, R. C.: Glacial-interglacial changes in central tropical Pacific surface seawater property gradients, Paleoceanography, 30, 423-438, doi:10.1002/2014PA002746, 2015., Jacobel, A. W., McManus, J. F., Anderson, R. F., and Winckler, G.: Large deglacial shifts of the Pacific Intertropical Convergence Zone, Nature communications, 7, 10449, doi:10.1038/ncomms10449, 2016., Monteagudo, M. M., Lynch-Stieglitz, J., Marchitto, T. M., and Schmidt, M. W.: Central Equatorial Pacific Cooling During the Last Glacial Maximum, Geophys. Res. Lett., 48, doi:10.1029/2020GL088592, 2021.
+    Use Flag: 0
+    Importer: na
+    Filename: ML1208-31BB.age
+    Optional: na
+    bacon_K: 24
+    bacon_d_min: 12.0
+    bacon_d_max: 84.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 248.494
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 6363.16
+    bacon_th0p: 6252.93
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(9), Label_Characters(3), Type_Characters(3), Comment_Characters(94), bacon_out_nrow(1000), bacon_out_ncol(27), Bacon Length(72)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB7920-2
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -18.582
+    Latitude: 20.752
+    WaterDepth: 2278.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: Tjallingii, Rik; Claussen, Martin; Stuut, Jan-Berend W; Fohlmeister, J; Jahn, A; Bickert, Torsten; Lamy, Frank; R�hl, Ursula (2008): Coherent high- and low-latitude control of the Northwest African hydrological balance. Nature Geoscience, 1, 670-675, https://doi.org/10.1038/ngeo289; age model AMS 14C: Collins, J. A et al. (2011): Interhemispheric symmetry of tropical African rainbelt over the past 23,000 years. Nature Geoscience, 4(1), 42-45, doi:10.1038/ngeo1039
+    Comment: age model AMS 14C: Collins, J. A et al. (2011): Interhemispheric symmetry of tropical African rainbelt over the past 23,000 years. Nature Geoscience, 4(1), 42-45, doi:10.1038/ngeo1039
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.705109; PANGAEA, https://doi.org/10.1594/PANGAEA.757419,
+    Reference: Tjallingii, Rik (2008): Stable isotope record of Cibicidoides wuellerstorfi of sediment core GeoB7920-2. PANGAEA, https://doi.org/10.1594/PANGAEA.705109, Collins, James A; Schefu�, Enno; Heslop, David; Prange, Matthias; Zabel, Matthias; Tjallingii, Rik; Dokken, Trond; Huang, Enqing; Mackensen, Andreas; Schulz, Michael; Tian, Jun; Zarriess, Michelle; Wefer, Gerold (2011): Age models of sediment cores GeoB7920-2 and GeoB9535-4. PANGAEA, https://doi.org/10.1594/PANGAEA.757419
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na;Number of shells=NaN;min mesh size=250;max mesh size=NaN;OC3 age flag=3 ;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(322), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

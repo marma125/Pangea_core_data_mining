@@ -1,0 +1,11 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD97-2106,,0.03,,,,2497,65,65,410,58.4,58.4,2068,243,234,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1002/jqs.1067
+MD97-2106,,0.68,,,,8486,45,45,418,52.5,52.5,8942,318,293,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1002/jqs.1067
+MD97-2106,,1.38,,,,13009,60,60,673,146.6,146.6,14486,587,611,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1002/jqs.1067
+MD97-2106,,2.03,,,,16079,70,70,988,161.8,161.8,18452,342,345,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1002/jqs.1067
+MD97-2106,,2.53,,,,23530,140,140,1099,178.2,178.2,26756,490,625,IntCal20,,,From Stefan Mulitza 2021 compilation,,,https://doi.org/10.1002/jqs.1067
+MD97-2106,,0.03,,,,2497.0,65.0,65.0,410.0,58.4,58.4,2068.0,243.0,234.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+MD97-2106,,0.68,,,,8486.0,45.0,45.0,418.0,52.5,52.5,8942.0,318.0,293.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+MD97-2106,,1.38,,,,13009.0,60.0,60.0,673.0,146.6,146.6,14486.0,587.0,611.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+MD97-2106,,2.03,,,,16079.0,70.0,70.0,988.0,161.8,161.8,18452.0,342.0,345.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+MD97-2106,,2.53,,,,23530.0,140.0,140.0,1099.0,178.2,178.2,26756.0,490.0,625.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

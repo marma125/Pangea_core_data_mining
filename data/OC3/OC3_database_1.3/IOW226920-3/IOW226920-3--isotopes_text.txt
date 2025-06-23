@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: IOW226920-3
+    Species: Cibicidoides spp.
+    Longitude: 12.36
+    Latitude: -22.45
+    WaterDepth: 1683.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: na
+    DataSource: Laboratory
+    Reference: d18O: Mollenhauer, G., Eglinton, T.I., Ohkouchi, N., Schneider, R.R., M�ller, P.J., Grootes, P.M., and Rullk�tter, J.: Asynchronous alkenone and foraminifera records from the Benguela Upwelling System, Geochimica et Cosmochimica Acta, 67, 2157-2171, doi:10.1016/S0016-7037(03)00168-6, 2003., d13C: Mollenhauer (unpublished)
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Gesine Mollenhauer
+    Optional: na
+    dimensions(sizes): Length(57), Character(8)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

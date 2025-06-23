@@ -1,0 +1,3 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+20200711, Juan Muglia: V19-27--depth_model_mix_uvigerina.csv and V19-27--depth_model_mix.csv correspond to depth models from uvigerina and cibicidoides data provided by Alan Mix to Juan Muglia and the OC3 Pacific leaders on July, 2020. V19-27--depth_model_lisiecki.csv corresponds to depth model from cibicidoides data from the original publication, as compiled by Peterson and Lisiecki, 2018. V19-27--depth_model.csv includes both depth models. 

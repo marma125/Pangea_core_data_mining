@@ -1,0 +1,8 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK23519-5,,0,,,,,,,,,,0,740.0000095367,-259.9999904633,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+GIK23519-5,KIA 582,0.0799999928,,,N. pachyderma sinistral,4890,39.9999991059,39.9999991059,848.5,50.2,50.2,4493,76,56,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+GIK23519-5,KIA 583,0.2200000083,,,N. pachyderma sinistral,7750,50.0000007451,50.0000007451,917,50.4,50.4,7658,36,45,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+GIK23519-5,KIA 19050,0.3700000143,,,N. pachyderma sinistral,11495,59.9999986589,59.9999986589,1266.7,172.5,172.5,11941,425,290,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+GIK23519-5,KIA 19051,0.5500000215,,,N. pachyderma sinistral,14610,79.9999982119,79.9999982119,1312.4,160.6,160.6,15989,207,208,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+GIK23519-5,KIA19052,0.6300000048,,,N. pachyderma sinistral,15350,90.0000035763,90.0000035763,1401,159,159,16913,238,274,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+GIK23519-5,,1.87,,,,,,,,,,33000,980,980,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,

@@ -1,0 +1,16 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+KNR166-2-31JPC,,0.008,,,,1640,40,40,385,51,51,1181,115,171,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,0.283,,,,4380,45,45,342,51,51,4560,260,260,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,0.643,,,,7310,50,50,397,51,51,7756,170,139,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,0.723,,,,9110,50,50,333,53,53,9815,333,259,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,0.863,,,,10400,55,55,388,58,58,11517,402,273,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,0.963,,,,11000,55,55,502,53,53,12417,227,293,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,1.122,,,,12050,75,75,429,22,22,13445,141,159,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,1.283,,,,11800,50,50,459,21,21,13187,102,102,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,1.303,,,,13300,60,60,454,23,23,15335,255,209,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,1.503,,,,13750,80,80,507,31,31,15922,270,261,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,1.603,,,,16650,160,160,625,26,26,19326,409,399,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,2.003,,,,18400,110,110,667,35,35,21466,350,374,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,2.923,,,,22800,95,95,722,33,33,26284,291,257,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,3.603,,,,28100,140,140,716,38,38,31245,216,209,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208
+KNR166-2-31JPC,,4.603,,,,30600,190,190,723,34,34,33978,362,326,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.ncdc.noaa.gov/paleo-search/study/11208

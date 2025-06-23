@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW9504_02PC,CAMS 25675,0.005,,,,6110,70,70,534.2,52.6,52.6,6375,222,171,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/1999PA000375
+EW9504_02PC,,0.400000006,,,,,,,,,,11000,600,600,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9504_02PC,,0.4499999881,,,,,,,,,,18500,580,580,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9504_02PC,CAMS 30135,0.79,,,,25260,390,390,809.7,51.5,51.5,28498,829,721,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/1999PA000375
+EW9504_02PC,CAMS 25676,1.61,,,,42800,2500,2500,684.3,69.4,69.4,46185,3599,3079,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/1999PA000375
+EW9504_02PC,CAMS 25894,1.86,,,,31000,1000,1000,703.8,67.5,67.5,34471,2222,2132,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/1999PA000375
+EW9504_02PC,,2.3699998856,,,,,,,,,,61500,3140,3140,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9504_02PC,,4.3800001144,,,,,,,,,,116000,5040,5040,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+EW9504_02PC,,4.8099999428,,,,,,,,,,131500,4340,4340,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

@@ -1,0 +1,9 @@
+Site,Sample label,sample depth,technique,lab. code,species/material,radiocarbon age (y),radiocarbon age error plus (y),radiocarbon age error minus (y),reservoir age (y),reservoir age error plus (y),reservoir age error minus (y),calendar age (yBP),calendar age error plus (yBP),calendar age error minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB4216-1,,0.13,,,,5625,35,35,355,50,50,6057,144,139,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,0.33,,,,11595,60,60,554,48,48,12905,156,162,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,0.43,,,,12120,60,60,508,48,48,13437,139,148,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,0.58,,,,13990,70,70,593,54,54,16114,268,285,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,0.68,,,,14460,80,70,637,54,54,16725,321,346,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,1.38,,,,26110,340,330,787,90,90,29467,924,776,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,1.43,,,,24610,280,270,787,56,56,27962,551,461,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856
+GeoB4216-1,,1.48,,,,27550,390,370,944,98,98,30738,577,828,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.pangaea.de/10.1594/PANGAEA.57856

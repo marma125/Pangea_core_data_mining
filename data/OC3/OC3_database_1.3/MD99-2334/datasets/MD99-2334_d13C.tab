@@ -1,0 +1,77 @@
+/* DATA DESCRIPTION:
+Citation:	Skinner, Luke C; Shackleton, Nicholas J (2004): Stable carbon isotopes of Planulina wuellerstorfi of sediment core MD99-2334. PANGAEA, https://doi.org/10.1594/PANGAEA.619069, 
+	In supplement to: Skinner, LC; Shackleton, NJ (2004): Rapid transient changes in northeast Atlantic deep water ventilation age across Termination I. Paleoceanography, 19(2), PA2005, https://doi.org/10.1029/2003PA000983
+Project(s):	International Marine Global Change Study (IMAGES)
+Coverage:	LATITUDE: 37.801167 * LONGITUDE: -10.171333
+	DATE/TIME START: 1999-09-14T00:00:00 * DATE/TIME END: 1999-09-14T00:00:00
+	MINIMUM ELEVATION: -3166.0 m * MAXIMUM ELEVATION: -3166.0 m
+Event(s):	MD99-2334 (90b) * LATITUDE: 37.801167 * LONGITUDE: -10.171333 * DATE/TIME: 1999-09-14T00:00:00 * ELEVATION: -3166.0 m * Recovery: 5.5 m * CAMPAIGN: MD114 (IMAGES V) (URI: hdl:10013/epic.42867.d001) * BASIS: Marion Dufresne (1995) (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * METHOD/DEVICE: Kasten corer (KAL) * COMMENT: Kasten/7m/splitted/Cambridge/4 sections, site 95-2042
+Parameter(s):	AGE [ka BP] (Age) * GEOCODE
+	Planulina wuellerstorfi, δ13C [‰ PDB] (P. wuellerstorfi δ13C) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk) * METHOD/DEVICE: Isotope ratio mass spectrometry (URI: https://en.wikipedia.org/wiki/Isotope_ratio_mass_spectrometry)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	63 data points
+*/
+Age [ka BP]	P. wuellerstorfi δ13C [‰ PDB]
+1.505	0.94
+1.720	1.03
+2.580	1.00
+3.440	0.96
+3.870	0.93
+4.515	1.01
+5.160	1.08
+6.019	0.95
+6.879	1.02
+6.879	1.06
+7.739	0.89
+8.492	0.71
+8.599	0.78
+9.029	0.92
+9.029	0.89
+10.104	0.72
+10.749	0.62
+10.964	0.60
+11.179	0.71
+11.394	0.47
+11.761	0.53
+11.913	0.50
+11.988	0.44
+12.064	0.34
+12.216	0.41
+12.671	0.64
+12.975	0.33
+13.375	0.75
+13.471	0.45
+13.568	0.61
+13.665	0.72
+14.051	0.69
+14.148	0.84
+14.244	0.85
+14.534	0.48
+14.820	0.16
+15.010	0.36
+15.104	-0.06
+15.861	0.08
+16.334	0.02
+16.997	-0.20
+17.848	0.12
+18.038	0.28
+18.227	0.31
+18.511	0.20
+18.700	0.25
+18.984	0.30
+18.984	0.31
+19.173	0.20
+19.552	0.20
+19.930	0.35
+20.309	0.24
+20.309	0.38
+20.498	0.25
+20.897	-0.19
+21.242	0.19
+21.357	0.18
+22.161	-0.06
+22.506	-0.08
+22.621	-0.10
+22.736	0.23
+23.081	0.19
+23.310	0.17

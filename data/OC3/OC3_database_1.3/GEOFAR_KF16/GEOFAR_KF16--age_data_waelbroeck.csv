@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GEOFAR_KF16,,0.08,,,G. ruber or G. bulloides,2015,30,30,500,100,100,1417,103,-39,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,0.24,,,G. ruber or G. bulloides,3660,35,35,500,100,100,3347,113,133,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,0.40299999999999997,,,G. ruber or G. bulloides,5455,35,35,500,100,100,5660,190,-167,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,0.695,,,G. ruber or G. bulloides,8715,40,40,500,100,100,9124,166,129,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,0.875,,,G. ruber or G. bulloides,9765,45,45,500,100,100,10409,91,155,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,1.063,,,G. ruber or G. bulloides,10075,50,50,500,100,100,10872,208,-46,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,1.365,,,G. ruber or G. bulloides,9835,55,55,500,100,100,10487,153,-144,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,
+GEOFAR_KF16,,1.565,,,G. ruber or G. bulloides,10290,55,55,500,100,100,11131,129,62,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,

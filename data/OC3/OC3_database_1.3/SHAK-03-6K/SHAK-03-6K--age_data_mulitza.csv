@@ -1,0 +1,13 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+SHAK03-6K,,0.03999999910593033,,,,,,,,,,3500.0,680.0,680.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,0.99,,,,10591.699999999999,150.0,150.0,513.0,50.8,50.8,11673.0,773.0,460.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,1.15,,,,11547.0,150.0,150.0,600.0,51.9,51.9,12910.0,253.0,221.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,1.25,,,,12234.0,150.0,150.0,574.0,61.0,61.0,13528.0,460.0,350.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,1.325,,,,12743.800000000001,150.0,150.0,487.0,57.2,57.2,14353.0,582.0,548.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,1.61,,,,14008.0,150.0,150.0,640.0,65.4,65.4,16091.000000000002,491.9999999999982,463.0000000000018,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,1.865,,,,14712.5,150.0,150.0,731.0,73.0,73.0,16972.0,435.0,493.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,2.225,,,,17313.300000000003,150.0,150.0,753.0,65.69999999999999,65.69999999999999,19994.0,406.0,414.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,2.43,,,,18496.300000000003,150.0,150.0,734.0,71.9,71.9,21547.0,474.0,533.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,2.6,,,,20065.3,150.0,150.0,762.0,68.4,68.4,23324.0,418.0,353.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,2.645,,,,20601.199999999997,150.0,150.0,788.0,74.6,74.6,23842.0,406.0,488.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+SHAK03-6K,,2.73,,,,21613.399999999998,150.0,150.0,889.0,78.10000000000001,78.10000000000001,24944.0,590.0,578.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

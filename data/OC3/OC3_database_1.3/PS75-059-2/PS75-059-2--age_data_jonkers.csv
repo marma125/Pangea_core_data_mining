@@ -1,0 +1,16 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+PS75-059-2,,0.02,,OS-101322,G. bulloides,3900,30,30,676.1,50.8,50.8,3456,130,181,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.17,,OS-101301,G. bulloides,6680,45,45,807.7,51.2,51.2,6685,170,185,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.37,,OS-101248,G. bulloides,10650,55,55,631,59.4,59.4,11529,400,282,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.47,,OS-101249,G. bulloides,11950,45,45,926.3,105.2,105.2,12896,184,179,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.57,,OS-101252,G. bulloides,14200,50,50,983,120.4,120.4,15874,379,437,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.59,,OS-105209,G. bulloides,14800,60,60,1034.8,117.9,117.9,16645,410,402,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.62,,OS-107186,G. bulloides,20700,100,100,1261.2,144.9,144.9,23406,464,444,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.69,,OS-107187,G. bulloides,28900,220,220,1101.9,146.6,146.6,31636,771,496,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,0.77,,OS-101307,G. bulloides,29500,130,130,1168.8,131.1,131.1,32218,626,615,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.833643
+PS75-059-2,,1.375,,,,,,,,,,61500,3140,3140,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+PS75-059-2,,1.875,,,,,,,,,,71500,2420,2420,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+PS75-059-2,,2.3250000477,,,,,,,,,,86000,2640,2640,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+PS75-059-2,,2.5750000477,,,,,,,,,,91000,2860,2860,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+PS75-059-2,,3.4249999523,,,,,,,,,,116000,5040,5040,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+PS75-059-2,,4.0250000954,,,,,,,,,,134000,4040,4040,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

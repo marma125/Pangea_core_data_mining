@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR140-39GGC
+    Species: Cibicidoides spp.
+    Longitude: -75.417
+    Latitude: 31.667
+    WaterDepth: 2975.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: NOAA, ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/keigwin2002/
+    Reference: Keigwin, L. D. and Schlegel, M. A.: Ocean ventilation and sedimentation since the glacial maximum at 3 km in the western North Atlantic, Geochem. Geophys. Geosyst., 3, 1-14, doi:10.1029/2001GC000283, 2002.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(51), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

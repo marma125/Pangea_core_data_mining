@@ -1,0 +1,15 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+NEAP-04K,,0.085,,,G. bulloides,895,44,44,766,51.3,51.3,141,143,141,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,0.365,,,G. bulloides,1820,60,60,673.2,50.5,50.5,1078,182,147,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,0.515,,,G. bulloides,2889,40,40,579.1,50.7,50.7,2320,359,172,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,0.665,,,G. bulloides,3488,37,37,609.2,51.5,51.5,3014,192,162,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,0.765,,,G. bulloides,4270,70,70,599.4,54.3,54.3,4007,276,283,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,0.995,,,G. bulloides,5233,48,48,758.6,53.8,53.8,5119,189,241,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.155,,,G. bulloides,6149,67,67,762.9,56.7,56.7,6151,166,211,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.215,,,G. bulloides,6868,59,59,723.8,50.8,50.8,7045,202,240,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.295,,,G. bulloides,7811,55,55,701.2,53.3,53.3,7929,224,171,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.365,,,G. bulloides,8180,80,80,694,53.5,53.5,8284,167,235,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.485,,,G. bulloides,8633,49,49,670.6,53.2,53.2,8822,184,212,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.625,,,G. bulloides,9200,80,80,568.6,52.9,52.9,9650,461,188,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,1.815,,,G. bulloides,11480,90,90,1032,241.9,241.9,12195,583,833,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004
+NEAP-04K,,2.0399999619,,,,,,,,,,18500,1560,1560,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.1016/j.quascirev.2004.04.004

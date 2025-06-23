@@ -1,0 +1,14 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD95-2042,,0.2,,,,,,,,,,40,2,2,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,3.1,,,,,,,,,,11660,98,98,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,4.3,,,,,,,,,,14660,186,186,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,6,,,,,,,,,,16460,268,268,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,8.2,,,,,,,,,,23660,616,616,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,10,,,,,,,,,,25400,712,712,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,10.4,,,,,,,,,,26480,768,768,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,12.5,,,,,,,,,,32080,1110,1110,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,13.1,,,,,,,,,,33500,1196,1196,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,14.2,,,,,,,,,,34800,1290,1290,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,15.2,,,,,,,,,,37100,1416,1416,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+MD95-2042,,16.2,,,,,,,,,,39340,1518,1518,,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,
+

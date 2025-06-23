@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB16224-1
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -52.083
+    Latitude: 6.656
+    WaterDepth: 2510.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: NaN
+    Record Type: sb
+    Laboratory: GeoB
+    E-Paper: Voigt, I et al. (2017): Variability in mid-depth ventilation of the western Atlantic Ocean during the last deglaciation. Paleoceanography, 32(9), 948-965, https://doi.org/10.1002/2017PA003095
+    Comment: NaN
+    DataSource: https://doi.org/10.1594/PANGAEA.875796,
+    Reference: Voigt, Ines; Cruz, Anna Paula Soares; Mulitza, Stefan; Chiessi, Cristiano Mazur; Mackensen, Andreas; Lippold, J�rg; Antz, Benny; Zabel, Matthias; Zhang, Yancheng; Barbosa, Catia F; Tisserand, Amandine (2017): (Supplementary Table 1) Stable isotopes of sediment core GeoB16224-1. PANGAEA, https://doi.org/10.1594/PANGAEA.875796,
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: Number of shells=1-5;min mesh size=125;max mesh size=NaN;OC3 age flag=3 ;age type=AMS, bacon, pdv
+    dimensions(sizes): Length(117), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

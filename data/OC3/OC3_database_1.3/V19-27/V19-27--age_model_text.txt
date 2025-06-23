@@ -1,0 +1,50 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+20200711, Juan Muglia: V19-27--age_model_mix_uvigerina.csv and V19-27--age_model_mix.csv correspond to age models for uvigerina and cibicidoides data provided by Alan Mix to Juan Muglia and the OC3 Pacific leaders on July, 2020. V19-27--age_model_lisiecki.csv corresponds to the age model calculated by Peterson and Lisiecki, 2018.
+
+About Alan Mix's age model: Defined in most cases by 3 d18O datums  - late Holocene, mid termination 1 and LGM. Everything older than 21k is extrapolation and not to be trusted.
+
+
+Bacon parameters used in Jonkers age model:
+		:Core = "V19_27" ;
+		:Parameter = "Age" ;
+		:Longitude = -82.0692f ;
+		:Latitude = -0.466917f ;
+		:Water\ Depth = 1373.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Pacific Ocean" ;
+		:Filename = "V19_27.age" ;
+		:Optional = "" ;
+		:bacon_K = 64 ;
+		:bacon_d_min = 0.f ;
+		:bacon_d_max = 321.f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 475.312f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 3.f ;
+		:bacon_t_b = 4.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 1280.54f ;
+		:bacon_th0p = 1328.77f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+

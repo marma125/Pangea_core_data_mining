@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB16206-1
+    Species: Cibicidoides spp.
+    Longitude: -43.024
+    Latitude: -1.579
+    WaterDepth: 1367.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: Voigt, I et al. (2017): Variability in mid-depth ventilation of the western Atlantic Ocean during the last deglaciation. Paleoceanography, 32(9), 948-965, https://doi.org/10.1002/2017PA003095; age model Zhang, Yancheng; Chiessi, Cristiano Mazur; Mulitza, Stefan; Zabel, Matthias; Trindade, Ricardo; Hollanda, Maria Helena B M; Dantas, Elton L; Govin, Aline; Tiedemann, Ralf; Wefer, Gerold (2015): Origin of increased terrigenous supply to the NE South American continental margin during Heinrich Stadial 1 and the Younger Dryas. Earth and Planetary Science Letters, 432, 493-500, https://doi.org/10.1016/j.epsl.2015.09.054P, ortilho-Ramos, RC et al. (2017): Coupling of equatorial Atlantic surface stratification to glacial shifts in the tropical rainbelt. Scientific Reports, 7(1), https://doi.org/10.1038/s41598-017-01629-z
+    Comment: outliers removed at 2, 60, 24, 712, 730, 752, 650,360,230,234, 622, 678
+    DataSource: Voigt, Ines; Cruz, Anna Paula Soares; Mulitza, Stefan; Chiessi, Cristiano Mazur; Mackensen, Andreas; Lippold, J�rg; Antz, Benny; Zabel, Matthias; Zhang, Yancheng; Barbosa, Catia F; Tisserand, Amandine (2017): (Supplementary Table 1) Stable isotopes of sediment core GeoB16206-1. PANGAEA, https://doi.org/10.1594/PANGAEA.875795 ; age model: Zhang, Yancheng; Chiessi, Cristiano Mazur; Mulitza, Stefan; Zabel, Matthias; Trindade, Ricardo; Hollanda, Maria Helena B M; Dantas, Elton L; Govin, Aline; Tiedemann, Ralf; Wefer, Gerold (2015): (Table 2) Raw 14C AMS data and calibrated ages of sediment cores GeoB16206-1 and GeoB16224-1. PANGAEA, https://doi.org/10.1594/PANGAEA.853988
+    Reference: Voigt, I et al. (2017): Variability in mid-depth ventilation of the western Atlantic Ocean during the last deglaciation. Paleoceanography, 32(9), 948-965, https://doi.org/10.1002/2017PA003095; age model Zhang, Yancheng; Chiessi, Cristiano Mazur; Mulitza, Stefan; Zabel, Matthias; Trindade, Ricardo; Hollanda, Maria Helena B M; Dantas, Elton L; Govin, Aline; Tiedemann, Ralf; Wefer, Gerold (2015): Origin of increased terrigenous supply to the NE South American continental margin during Heinrich Stadial 1 and the Younger Dryas. Earth and Planetary Science Letters, 432, 493-500, https://doi.org/10.1016/j.epsl.2015.09.054P, ortilho-Ramos, RC et al. (2017): Coupling of equatorial Atlantic surface stratification to glacial shifts in the tropical rainbelt. Scientific Reports, 7(1), https://doi.org/10.1038/s41598-017-01629-z
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: Number of shells=1-5;min mesh size=125;max mesh size=NaN;OC3 age flag=3 ;age type=AMS, bacon, pdv
+    dimensions(sizes): Length(303), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

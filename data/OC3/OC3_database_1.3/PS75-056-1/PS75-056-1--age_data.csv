@@ -1,0 +1,6 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+PS75-056-1,,0.005,,,,,,,,,,6762.1197700501,273.2300758362,260.7698440552,IntCal20,,,From Stefan Mulitza 2021 compilation,,,
+PS75-056-1,,0.055,,,,,,,,,,7963.5601043701,1089.4498825073,932.5499534607,IntCal20,,,From Stefan Mulitza 2021 compilation,,,
+PS75-056-1,,0.255,,,,,,,,,,12201.7002105713,625.3995895386,630.5999755859,IntCal20,,,From Stefan Mulitza 2021 compilation,,,
+PS75-056-1,,0.555,,,,,,,,,,16062.5991821289,517.80128479,533.6990356445,IntCal20,,,From Stefan Mulitza 2021 compilation,,,
+PS75-056-1,,1.105,,,,,,,,,,24723.1998443603,597.6009368896,676.8989562988,IntCal20,,,From Stefan Mulitza 2021 compilation,,,

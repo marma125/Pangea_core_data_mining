@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB13731-1
+    Species: Cibicidoides kullenbergi
+    Longitude: -2.554
+    Latitude: 35.413
+    WaterDepth: 362.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.819094, https://doi.org/10.1594/PANGAEA.905903
+    Reference: d18O, 14C: Fink, H. G., Wienberg, C., Pol-Holz, R. de, Wintersteller, P., and Hebbeln, D.: Cold-water coral growth in the Alboran Sea related to high productivity during the Late Pleistocene and Holocene, Marine Geology, 339, 71-82, doi:10.1016/j.margeo.2013.04.009, 2013., d13C: Wang, H., Lo Iacono, C., Wienberg, C., Titschack, J., and Hebbeln, D.: Cold-water coral mounds in the southern Alboran Sea (western Mediterranean Sea): Internal waves as an important driver for mound formation since the last deglaciation, Marine Geology, 412, 1-18, doi:10.1016/j.margeo.2019.02.007, 2019.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(85), Character(2)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

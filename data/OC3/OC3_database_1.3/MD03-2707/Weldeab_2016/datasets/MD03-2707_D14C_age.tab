@@ -1,0 +1,36 @@
+/* DATA DESCRIPTION:
+Citation:	Weldeab, Syee; Friedrich, Tobias; Timmermann, Axel; Schneider, Ralph R (2016): 14C age of benthic foraminifer, calculated D14C content of the bottom water, and its deviation from that of the atmosphere, sediment core MD03-2707. PANGAEA, https://doi.org/10.1594/PANGAEA.877252, 
+	In supplement to: Weldeab, S et al. (2016): Strong middepth warming and weak radiocarbon imprints in the equatorial Atlantic during Heinrich 1 and Younger Dryas. Paleoceanography, 31(8), 1070-1082, https://doi.org/10.1002/2016PA002957
+Coverage:	LATITUDE: 2.502000 * LONGITUDE: 9.395000
+	MINIMUM ELEVATION: -1295.0 m * MAXIMUM ELEVATION: -1295.0 m
+Event(s):	MD03-2707 * LATITUDE: 2.502000 * LONGITUDE: 9.395000 * ELEVATION: -1295.0 m * METHOD/DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * GEOCODE * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, minimum/young [ka] (Age min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, maximum/old [ka] (Age max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Laboratory code/label (Lab label) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, dated material (Dated material) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, dated [ka] (Age dated) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, dated standard error [±] (Age std e) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Δ14C [‰] (Δ14C) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: average
+	Δ14C, minimum [‰] (Δ14C min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: lower range
+	Δ14C, maximum [‰] (Δ14C max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: upper range
+	ΔΔ14C [‰] (ΔΔ14C) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: average
+	ΔΔ14C, minimum [‰] (ΔΔ14C min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: lower range
+	ΔΔ14C, maximum [‰] (ΔΔ14C max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: upper range
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	156 data points
+*/
+Age [ka BP]	Age min [ka]	Age max [ka]	Lab label	Dated material	Age dated [ka]	Age std e [±]	Δ14C [‰]	Δ14C min [‰]	Δ14C max [‰]	ΔΔ14C [‰]	ΔΔ14C min [‰]	ΔΔ14C max [‰]
+10.77	10.60	10.97	KIA 36783	Cibicides pachyderma	10.330	0.045	23.65	8.46	42.80	-98.45	-113.64	-79.30
+12.26	11.95	12.53	KIA 36784	Cibicides pachyderma	11.365	0.050	78.04	44.53	107.95	-125.76	-159.27	-95.85
+13.15	12.95	13.31	KIA 35258	Cibicides pachyderma	12.160	0.080	88.29	73.22	98.40	-110.21	-125.28	-100.10
+13.46	13.28	13.66	KIA 35259	Cibicides pachyderma	12.450	0.080	89.79	77.34	106.32	-107.11	-119.56	-90.58
+14.22	14.00	14.55	KIA 35260	Cibicides pachyderma	13.340	0.080	70.43	52.71	102.59	-133.67	-151.39	-101.51
+14.59	14.28	14.93	KIA 35261	Cibicides pachyderma	13.580	0.080	86.83	57.01	121.94	-155.27	-185.09	-120.16
+15.20	14.84	15.61	KIA 35262	Cibicides pachyderma	14.240	0.090	77.44	43.88	120.59	-206.96	-240.52	-163.81
+16.97	16.57	17.28	KIA 35263	Cibicides pachyderma	15.320	0.100	168.14	126.63	198.45	-201.26	-242.77	-170.95
+17.90	17.60	18.17	KIA 35264	Cibicides pachyderma	15.530	0.100	274.07	244.38	301.62	-125.63	-155.32	-98.08
+18.65	18.44	18.82	KIA 35265	Cibicides pachyderma	16.800	0.120	192.68	180.05	199.01	-215.52	-228.15	-209.19
+18.98	18.74	19.23	KIA37419	Cibicides pachyderma	16.910	0.130	223.58	208.94	241.87	-172.72	-187.36	-154.43
+19.37	19.14	19.59	KIA 35266	Cibicides pachyderma	17.140	0.120	246.75	231.55	261.73	-167.75	-182.95	-152.77
+20.28	19.99	20.53	KIA37420	Cibicides pachyderma	18.190	0.170	223.05	205.70	234.34	-210.25	-227.60	-198.96

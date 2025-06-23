@@ -1,0 +1,41 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW0408-85,,0.01,CALIB v.6.0,,,,,,,,,220,120,120,Marine09,,,Multicore,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,0.27,CALIB v.6.0,,,,,,,,,510,90,90,Marine09,,,Multicore,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,0.55,CALIB v.6.0,,,,,,,,,610,85,85,Marine09,,,Multicore,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,0.09,CALIB v.6.0,,planktonic 14C ages,660,250,250,,,,190,260,260,Marine09,,,Trigger core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,1.11,CALIB v.6.0,,planktonic 14C ages,1650,90,90,,,,740,110,110,Marine09,,,Trigger core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,2.09,CALIB v.6.0,,planktonic 14C ages,2730,70,70,,,,1870,130,130,Marine09,,,Trigger core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,0.26,CALIB v.6.0,,planktonic 14C ages,2340,70,70,,,,1430,110,110,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,1.04,CALIB v.6.0,,planktonic 14C ages,3560,60,60,,,,2880,115,115,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,1.54,CALIB v.6.0,,planktonic 14C ages,4000,80,80,,,,3420,135,135,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,2.06,CALIB v.6.0,,planktonic 14C ages,4330,60,60,,,,3820,135,135,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,2.54,CALIB v.6.0,,planktonic 14C ages,4990,90,90,,,,4700,150,150,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,3.04,CALIB v.6.0,,planktonic 14C ages,5500,70,70,,,,5380,125,125,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,3.54,CALIB v.6.0,,planktonic 14C ages,6410,25,25,,,,6360,85,85,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,4.05,CALIB v.6.0,,planktonic 14C ages,7980,25,25,,,,7970,95,95,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,4.55,CALIB v.6.0,,planktonic 14C ages,8610,80,80,,,,8650,165,165,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,5.05,CALIB v.6.0,,planktonic 14C ages,9020,120,120,,,,9180,175,175,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,5.55,CALIB v.6.0,,planktonic 14C ages,9660,70,70,,,,9970,160,160,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,5.75,CALIB v.6.0,,planktonic 14C ages,9930,30,30,,,,10320,95,95,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,5.9,CALIB v.6.0,,planktonic 14C ages,10260,25,25,,,,10680,120,120,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.04,CALIB v.6.0,,planktonic 14C ages,10410,100,100,,,,10880,180,180,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.09,CALIB v.6.0,,planktonic 14C ages,10600,35,35,,,,11130,90,90,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.2,CALIB v.6.0,,planktonic 14C ages,10855,30,30,,,,11470,95,95,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.3,CALIB v.6.0,,planktonic 14C ages,11065,25,25,,,,11850,180,180,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.4,CALIB v.6.0,,planktonic 14C ages,11250,25,25,,,,12220,155,155,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.54,CALIB v.6.0,,planktonic 14C ages,12810,60,60,,,,13770,120,120,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.6,CALIB v.6.0,,planktonic 14C ages,13080,30,30,,,,14040,140,140,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.7,CALIB v.6.0,,planktonic 14C ages,13170,60,60,,,,14280,255,255,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.75,CALIB v.6.0,,planktonic 14C ages,13310,80,80,,,,14510,295,295,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.8,CALIB v.6.0,,planktonic 14C ages,13430,45,45,,,,14710,280,280,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,6.9,CALIB v.6.0,,planktonic 14C ages,13830,35,35,,,,15550,255,255,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,7.04,CALIB v.6.0,,planktonic 14C ages,14345,30,30,,,,16640,145,145,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,7.26,CALIB v.6.0,,planktonic 14C ages,14645,35,35,,,,16890,90,90,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,7.54,CALIB v.6.0,,planktonic 14C ages,14870,50,50,,,,17050,130,130,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,8.04,CALIB v.6.0,,planktonic 14C ages,14985,35,35,,,,17160,135,135,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,8.54,CALIB v.6.0,,planktonic 14C ages,14890,60,60,,,,17070,140,140,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,9.04,CALIB v.6.0,,planktonic 14C ages,15040,80,80,,,,17240,200,200,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,9.53,CALIB v.6.0,,planktonic 14C ages,14860,80,80,,,,17050,140,140,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,10.03,CALIB v.6.0,,planktonic 14C ages,15080,40,40,,,,17290,185,185,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,10.53,CALIB v.6.0,,planktonic 14C ages,15110,60,60,,,,17320,195,195,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645
+EW0408-85,,11.03,CALIB v.6.0,,planktonic 14C ages,15160,35,35,,,,17370,185,185,Marine09,,,Jumbo Core,,Davies et al. 2011 Paleoceanography,https://doi.pangaea.de/10.1594/PANGAEA.830645

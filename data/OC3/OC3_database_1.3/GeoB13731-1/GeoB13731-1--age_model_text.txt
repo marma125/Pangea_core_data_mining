@@ -1,0 +1,46 @@
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB13731-1
+    Parameter: Age
+    Longitude: -2.554
+    Latitude: 35.413
+    Water Depth: 362.0
+    Proxy Category: Age
+    Device: Gravity corer (GC)
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.819103
+    Reference: Fink, H. G., Wienberg, C., Pol-Holz, R. de, Wintersteller, P., and Hebbeln, D.: Cold-water coral growth in the Alboran Sea related to high productivity during the Late Pleistocene and Holocene, Marine Geology, 339, 71-82, doi:10.1016/j.margeo.2013.04.009, 2013.
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB13731-1.age
+    Optional: na
+    bacon_K: 42
+    bacon_d_min: 8.0
+    bacon_d_max: 423.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 50.2856
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 502.656
+    bacon_th0p: 549.905
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(7), Label_Characters(12), Type_Characters(3), Comment_Characters(58), bacon_out_nrow(1000), bacon_out_ncol(45), Bacon Length(415)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

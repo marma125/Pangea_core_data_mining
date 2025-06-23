@@ -1,0 +1,22 @@
+Site,Sample Label,archival_depth (m),d13C (VPDB),d18O (VPDB),d13C_corrected (PDB),d18O_corrected (PDB),Number of shells,Minimum mesh size (um),Maximum mesh size (um),Taxon,Taxon_flag,Taxon_note1,Taxon_note2,Taxon_note3,Additional_note,Publication source,Original Reference,File Name,Data source,quality control
+KNR159-5-125GGC,,0.115,0.6825,3.1575,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.155,0.67667,3.13,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.175,0.59,4.03,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.195,0.54333,4.08333,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.235,0.1475,4.205,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.255,0.12,4.135,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.445,0.07,4.59,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.495,-0.135,4.75,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.535,-0.11,4.625,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.545,0.08,4.78,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.565,-0.36,4.72,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.577,-0.09,4.84,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.655,0.09,4.67,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.675,-0.04667,4.74,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.73,-0.12,4.68,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.775,0.12,4.83,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.815,0.28,4.69,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.86,-0.3,4.69,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.875,0.21,4.78,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,0.995,0.05,4.84,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1
+KNR159-5-125GGC,,1.035,0.12,4.59,,,,250,,Cibicidoides wuellerstorfi,1,,,,,Peterson and Lisiecki (2018) compilation,Lund et al. (2015),,https://www.ncdc.noaa.gov/paleo/study/19521,1

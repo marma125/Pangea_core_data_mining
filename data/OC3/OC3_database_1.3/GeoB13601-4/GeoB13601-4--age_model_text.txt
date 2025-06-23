@@ -1,0 +1,46 @@
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB13601-4
+    Parameter: Age
+    Longitude: -18.005
+    Latitude: 12.434
+    Water Depth: 2997.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: 0.02 m (Poz-35102): > modern
+    Data Source: Table in paper
+    Reference: Just, J., Dekkers, M. J., Dobeneck, T. von, van Hoesel, A., and Bickert, T.: Signatures and significance of aeolian, fluvial, bacterial and diagenetic magnetic mineral fractions in Late Quaternary marine sediments off Gambia, NW Africa, Geochem. Geophys. Geosyst., 13, 191, doi:10.1029/2012GC004146, 2012. d13C: N. Syring (2011)
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB13601-4.age
+    Optional: na
+    bacon_K: 47
+    bacon_d_min: 8.0
+    bacon_d_max: 480.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 57.7667
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 4922.62
+    bacon_th0p: 5279.15
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(8), Label_Characters(9), Type_Characters(3), Comment_Characters(78), bacon_out_nrow(1000), bacon_out_ncol(50), Bacon Length(472)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

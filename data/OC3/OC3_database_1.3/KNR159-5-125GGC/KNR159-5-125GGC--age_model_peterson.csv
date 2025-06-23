@@ -1,0 +1,22 @@
+Site,Sample Label,age_model_depth (m),age_model (y BP),age_model_sigma_plus(y BP),age_model_sigma_minus(y BP),upper_95_percent(y BP),lower_95_percent(y BP),age_flag,age_model_note,age_model_collection,quality control
+KNR159-5-125GGC,,0.115,5061,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.155,7905,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.175,9024,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.195,10143,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.235,12382,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.255,12764,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.445,16396,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.495,17233,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.535,17530,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.545,17638,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.565,17854,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.577,17984,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.655,18828,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.675,19044,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.73,19413,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.775,19715,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.815,19762,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.86,20467,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.875,20702,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,0.995,21967,,,,,3,Age model from Lund et al. (2015),,1
+KNR159-5-125GGC,,1.035,22389,,,,,3,Age model from Lund et al. (2015),,1

@@ -1,0 +1,39 @@
+/* DATA DESCRIPTION:
+Citation:	Weldeab, Syee; Friedrich, Tobias; Timmermann, Axel; Schneider, Ralph R (2016): Estimated of δ¹⁸O of bottom water based on Mg/Ca-based temperature estimates and d18O measurement in Cibicides pachderma of sediment core MD03-2707. PANGAEA, https://doi.org/10.1594/PANGAEA.877251, 
+	In supplement to: Weldeab, S et al. (2016): Strong middepth warming and weak radiocarbon imprints in the equatorial Atlantic during Heinrich 1 and Younger Dryas. Paleoceanography, 31(8), 1070-1082, https://doi.org/10.1002/2016PA002957
+Coverage:	LATITUDE: 2.502000 * LONGITUDE: 9.395000
+	MINIMUM ELEVATION: -1295.0 m * MAXIMUM ELEVATION: -1295.0 m
+Event(s):	MD03-2707 * LATITUDE: 2.502000 * LONGITUDE: 9.395000 * ELEVATION: -1295.0 m * METHOD/DEVICE: Piston corer (PC)
+Parameter(s):	AGE [ka BP] (Age) * GEOCODE * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, minimum/young [ka] (Age min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	Age, maximum/old [ka] (Age max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu)
+	δ18O, water [‰ SMOW] (δ18O H2O) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: average, bottom water
+	δ18O, water, maximum [‰ SMOW] (δ18O H2O max) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: upper range, bottom water
+	δ18O, water, minimum [‰ SMOW] (δ18O H2O min) * PI: Weldeab, Syee (https://orcid.org/0000-0002-4829-5237, sweldeab@geol.ucsb.edu) * COMMENT: lower range, bottom water
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	115 data points
+*/
+Age [ka BP]	Age min [ka]	Age max [ka]	δ18O H2O [‰ SMOW]	δ18O H2O max [‰ SMOW]	δ18O H2O min [‰ SMOW]
+10.03	9.74	10.25	0.13	0.46	-0.20
+10.79	10.64	10.98	0.96	1.29	0.63
+10.84	10.69	11.03	0.75	1.08	0.42
+11.73	11.35	12.13	1.20	1.53	0.87
+12.32	12.01	12.59	1.54	1.87	1.21
+12.38	12.05	12.69	1.52	1.85	1.19
+13.15	12.95	13.31	1.33	1.66	1.00
+13.30	13.11	13.49	0.98	1.31	0.65
+13.46	13.28	13.66	1.25	1.58	0.92
+13.77	13.50	14.08	1.08	1.41	0.75
+14.22	14.00	14.55	1.74	2.07	1.41
+14.22	14.00	14.55	1.78	2.11	1.45
+14.79	14.44	15.15	1.58	1.91	1.25
+15.20	14.84	15.61	1.53	1.86	1.20
+15.78	15.24	16.35	1.45	1.78	1.12
+16.69	16.15	17.09	2.07	2.40	1.74
+17.54	17.12	17.89	1.83	2.16	1.50
+18.05	17.74	18.34	1.42	1.75	1.09
+18.79	18.58	19.00	1.85	2.18	1.52
+18.92	18.70	19.16	1.75	2.08	1.42
+19.37	19.14	19.59	1.60	1.93	1.27
+20.04	19.70	20.34	1.83	2.16	1.50
+20.22	19.92	20.47	1.65	1.98	1.32

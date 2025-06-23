@@ -1,0 +1,42 @@
+/* DATA DESCRIPTION:
+Citation:	Skinner, Luke C; Shackleton, Nicholas J (2004): (Table 1) Age model of sediment core MD99-2334. PANGAEA, https://doi.org/10.1594/PANGAEA.619114, 
+	In supplement to: Skinner, LC; Shackleton, NJ (2004): Rapid transient changes in northeast Atlantic deep water ventilation age across Termination I. Paleoceanography, 19(2), PA2005, https://doi.org/10.1029/2003PA000983
+Project(s):	International Marine Global Change Study (IMAGES)
+Coverage:	LATITUDE: 37.801167 * LONGITUDE: -10.171333
+	DATE/TIME START: 1999-09-14T00:00:00 * DATE/TIME END: 1999-09-14T00:00:00
+	MINIMUM DEPTH, sediment/rock: 1.15 m * MAXIMUM DEPTH, sediment/rock: 4.50 m
+Event(s):	MD99-2334 (90b) * LATITUDE: 37.801167 * LONGITUDE: -10.171333 * DATE/TIME: 1999-09-14T00:00:00 * ELEVATION: -3166.0 m * Recovery: 5.5 m * CAMPAIGN: MD114 (IMAGES V) (URI: hdl:10013/epic.42867.d001) * BASIS: Marion Dufresne (1995) (URI: http://www.institut-polaire.fr/ipev/bases_et_navires/le_marion_dufresne) * METHOD/DEVICE: Kasten corer (KAL) * COMMENT: Kasten/7m/splitted/Cambridge/4 sections, site 95-2042
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Age, dated material (Dated material) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk)
+	Age, dated [ka] (Age dated) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+	Age, dated standard deviation [±] (Age dated std dev) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+	Age model [ka] (Age model) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk) * METHOD/DEVICE: Age model, core correlation with GISP
+	Age, error [±] (Age e) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk) * METHOD/DEVICE: Age model, core correlation with GISP
+	Δ14C [‰] (Δ14C) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk)
+	Δ14C, standard deviation [±] (Δ14C std dev) * PI: Skinner, Luke C (https://orcid.org/0000-0002-5050-0244, lcs32@cam.ac.uk) * COMMENT: 1 sigma
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	154 data points
+*/
+Depth [m]	Dated material	Age dated [ka]	Age dated std dev [±]	Age model [ka]	Age e [±]	Δ14C [‰]	Δ14C std dev [±]
+1.15	Mixed benthic foraminifera	11.80	0.15	12.064	0.241	-9.40	48.57
+1.49	Mixed benthic foraminifera	13.23	0.15	14.148	0.283	66.74	57.95
+1.50	Mixed benthic foraminifera	13.29	0.13	14.244	0.285	71.25	55.65
+1.54	Globigerina bulloides	12.96	0.11	14.438	0.289	142.58	24.01
+1.72	Globigerina bulloides	13.89	0.13	15.293	0.306	128.67	23.26
+1.73	Mixed benthic foraminifera	15.22	0.14	15.293	0.306	-43.55	53.50
+1.86	Globigerina bulloides	13.92	0.11	15.956	0.319	218.28	29.98
+1.86	Neogloboquadrina pachyderma-sinistral	14.05	0.12	15.956	0.319	198.72	28.04
+1.86	Mixed benthic foraminifera	15.94	0.15	15.909	0.318	-57.99	55.42
+2.26	Neogloboquadrina pachyderma-sinistral	15.05	0.14	17.848	0.357	330.74	33.84
+2.46	Globigerina bulloides	16.18	0.12	18.795	0.376	296.35	38.99
+2.78	Globigerina bulloides	17.78	0.14	20.309	0.406	275.75	39.82
+3.13	Mixed benthic foraminifera	20.37	0.18	22.161	0.443	156.28	91.34
+3.14	Globigerina bulloides	19.17	0.15	22.276	0.446	361.38	47.12
+3.46	Globigerina bulloides	21.16	0.19	24.165	0.483	335.43	45.69
+3.46	Neogloboquadrina pachyderma-sinistral	21.07	0.18	24.165	0.483	350.47	47.83
+3.70	Globigerina bulloides	22.70	0.22	26.141	0.523	400.24	49.33
+3.90	Globigerina bulloides	24.48	0.22	27.788	0.556	369.31	53.49
+4.14	Globigerina bulloides	26.31	0.20	29.767	0.595	385.27	63.77
+4.14	Neogloboquadrina pachyderma-sinistral	26.71	0.20	29.767	0.595	317.98	60.67
+4.22	Globigerina bulloides	27.11	0.31	30.428	0.609	358.32	46.76
+4.50	Globigerina bulloides	29.64	0.36	32.741	0.655	311.40	44.35

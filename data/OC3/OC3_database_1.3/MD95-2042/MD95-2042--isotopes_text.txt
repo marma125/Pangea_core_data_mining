@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: MD95-2042
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -10.167
+    Latitude: 37.8
+    WaterDepth: 3146.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Calypso corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: Hoogakker, Babette A A; Elderfield, Henry; Schmiedl, Gerhard; McCave, I Nick; Rickaby, Rosalind E M; Shackleton, Nicholas J (2015): Bottom water oxygen reconstructions Iberian Margin sediment core MD95-2042 between 0 and 150,000 years BP. PANGAEA, https://doi.org/10.1594/PANGAEA.856564, age model Shackleton, Nicholas J; Hall, Michael A; Vincent, Edith (2000): (Table 1) Age model of sediment core MD95-2042 on the Iberian margin, North Atlantic. PANGAEA, https://doi.org/10.1594/PANGAEA.58230, , Govin, Aline; Chiessi, Cristiano Mazur; Zabel, Matthias; Sawakuchi, Andr_� O; Heslop, David; H__rner, Tanja; Zhang, Yancheng; Mulitza, Stefan (2014): 18. Revised age model of sediment core MD95-2042 using the AICC2012 chronology: tie-points. PANGAEA, https://doi.org/10.1594/PANGAEA.832173,
+    Reference: Hoogakker, Babette A A; Elderfield, Henry; Schmiedl, Gerhard; McCave, I Nick; Rickaby, Rosalind E M (2015): Glacial_��interglacial changes in bottom-water oxygen content on the Portuguese margin. Nature Geoscience, 8(1), 40-43, https://doi.org/10.1038/ngeo2317; age model Shackleton, Nicholas J; Hall, Michael A; Vincent, Edith (2000): (Table 1) Age model of sediment core MD95-2042 on the Iberian margin, North Atlantic. PANGAEA, https://doi.org/10.1594/PANGAEA.58230, , Govin, Aline; Chiessi, Cristiano Mazur; Zabel, Matthias; Sawakuchi, Andr_� O; Heslop, David; H__rner, Tanja; Zhang, Yancheng; Mulitza, Stefan (2014): 18. Revised age model of sediment core MD95-2042 using the AICC2012 chronology: tie-points. PANGAEA, https://doi.org/10.1594/PANGAEA.832173,
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschlaeger
+    Optional: Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3,5;age type=14C AMS, manual alignment, bacon, pdv
+    dimensions(sizes): Length(332), Character(7)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

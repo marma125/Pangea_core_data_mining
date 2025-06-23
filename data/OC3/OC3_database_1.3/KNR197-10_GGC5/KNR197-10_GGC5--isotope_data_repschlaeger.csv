@@ -1,0 +1,25 @@
+Site,Sample Label,archival_depth (m),d13C (VPDB),d18O (VPDB),d13C_corrected (PDB),d18O_corrected (PDB),Number of shells,Minimum mesh size (um),Maximum mesh size (um),Taxon,Taxon_flag,Taxon_note1,Taxon_note2,Taxon_note3,Additional_note,Publication source,Original Reference,File Name,Data source,quality control
+KNR197-10_GGC5,,0.01,1.134,2.324,1.134,2.324,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.05,1.116,2.389,1.116,2.389,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.09,1.276,2.331,1.276,2.331,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.13,1.19,2.361,1.19,2.361,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.17,1.146,2.474,1.146,2.474,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.25,1.182,2.555,1.182,2.555,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.29,1.051,2.558,1.051,2.558,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.33,0.904,2.541,0.904,2.541,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.37,1.072,2.508,1.072,2.508,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.41,0.965,2.438,0.965,2.438,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.45,1.092,2.58,1.092,2.58,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.525,0.522,2.791,0.522,2.791,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.57,0.717,2.877,0.717,2.877,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.605,0.938,3.04,0.938,3.04,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.65,0.598,3.267,0.598,3.267,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.685,0.962,3.189,0.962,3.189,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.73,0.918,3.078,0.918,3.078,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.81,0.962,3.137,0.962,3.137,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.89,0.942,3.357,0.942,3.357,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,0.97,0.649,3.42,0.649,3.42,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,1.005,0.818,4.223,0.818,4.223,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,1.045,0.956,4.227,0.956,4.227,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,1.085,1.285,4.363,1.285,4.363,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1
+KNR197-10_GGC5,,1.125,1.188,4.231,1.188,4.231,,250,,Cibicidoides wuellerstorfi,1,,,,,Repschlaeger et al. 2021 compilation,N. Zhao unpublished,,NaN,1

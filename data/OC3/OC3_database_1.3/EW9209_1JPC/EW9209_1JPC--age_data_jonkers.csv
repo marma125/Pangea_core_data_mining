@@ -1,0 +1,12 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW9209_1JPC,,0.03,,,G. sacculifer,3880,40,40,342.3,50.5,50.5,3814,75,90,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.13,,,G. sacculifer,6540,40,40,414.9,50.1,50.1,7028,128,87,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.2,,,G. sacculifer,9600,80,80,342.1,60.3,60.3,10432,121,137,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.33,,,G. sacculifer,13350,50,50,509.3,30.6,30.6,15296,166,136,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.43,,,G. sacculifer,16600,310,310,669.7,35.5,35.5,19221,283,269,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.6,,,G. sacculifer,18750,70,70,742.3,37.7,37.7,21812,155,181,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.83,,,G. sacculifer,23700,120,120,915,41.9,41.9,27178,190,193,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,0.97,,,G. sacculifer,26500,240,240,772.9,40.6,40.6,29909,378,363,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,1.17,,,G. sacculifer,29900,210,210,850.9,38.3,38.3,33293,288,318,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,1.33,,,G. sacculifer,32400,180,180,673.7,37.9,37.9,35629,294,285,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568
+EW9209_1JPC,,1.53,,,G. sacculifer,38800,340,340,968.8,42.2,42.2,42128,250,248,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.55568

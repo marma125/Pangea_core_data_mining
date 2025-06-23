@@ -1,0 +1,9 @@
+Site,Sample Label,archival_depth (m),d13C (VPDB),d18O (VPDB),d13C_corrected (PDB),d18O_corrected (PDB),Number of shells,Minimum mesh size (um),Maximum mesh size (um),Taxon,Taxon_flag,Taxon_note1,Taxon_note2,Taxon_note3,Additional_note,Publication source,Original Reference,File Name,Data source,quality control
+V19-27,,0.085,-0.32,2.9,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+V19-27,,0.205,-0.55,2.86,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+V19-27,,0.405,-0.58,2.96,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+V19-27,,0.795,-0.62,3.6,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+V19-27,,1.015,-0.68,4.64,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+V19-27,,1.205,-0.76,4.55,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+V19-27,,1.395,-0.69,4.42,,,,,,Uvigerina,5,,,,,Age model calculated by Alan Mix,,,,1
+,,,,,,,,,,,,,,,,Age model calculated by Alan Mix,,,,1

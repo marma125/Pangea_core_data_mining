@@ -1,0 +1,93 @@
+BACON output from Jonkers et al. 2020:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SU81-18
+    Parameter: Age
+    Longitude: -10.18
+    Latitude: 37.77
+    Water Depth: 3135.0
+    Proxy Category: Age
+    Device: NA
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Basin: Atlantic Ocean
+    Filename: SU81-18.age
+    Optional: 
+    bacon_K: 101
+    bacon_d_min: 13.0
+    bacon_d_max: 521.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 42.4159
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 3.0
+    bacon_t_b: 4.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1302.53
+    bacon_th0p: 1476.54
+    bacon_burnin: 0
+    bacon_ssize: 2000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(25), Label_Characters(3), Type_Characters(3), Comment_Characters(326), bacon_out_nrow(6984), bacon_out_ncol(104), Bacon Length(508)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters,Length), |S1 Type(Type_Characters,Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters,Length), float32 bacon_data(bacon_out_nrow,bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 95% Quantile(Bacon Length)
+    groups: 
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SU81-18
+    Parameter: Age
+    Longitude: -10.183
+    Latitude: 37.767
+    Water Depth: 3155.0
+    Proxy Category: Age
+    Device: Piston corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://store.pangaea.de/Publications/Waelbroeck_et_al_2019/SU81-18_age_depth_input.txt
+    Reference: Bard, E., Arnold, M., Maurice, P., Duprat, J., Moyes, J., and Duplessy, J.-C.: Retreat velocity of the North Atlantic polar front during the last deglaciation determined by 14C accelerator mass spectrometry, Nature, 328, 791-794, doi:10.1038/328791a0, 1987., Waelbroeck, C., Duplessy, J. C., Michel, E., Labeyrie, L., Paillard, D., and Duprat, J.: The timing of the last deglaciation in North Atlantic climate records, Nature, 412, 724-727, https://doi.org/10.1038/35089060, 2001., Waelbroeck, C., Lougheed, B. C., Vazquez Riveiros, N., Missiaen, L., Pedro, J., Dokken, T., Hajdas, I., Wacker, L., Abbott, P., Dumoulin, J.-P., Thil, F., Eynaud, F., Rossignol, L., Fersi, W., Albuquerque, A. L., Arz, H., Austin, W. E. N., Came, R., Carlson, A. E., Collins, J. A., Dennielou, B., Desprat, S., Dickson, A., Elliot, M., Farmer, C., Giraudeau, J., Gottschalk, J., Henderiks, J., Hughen, K., Jung, S., Knutz, P., Lebreiro, S., Lund, D. C., Lynch-Stieglitz, J., Malaiz�, B., Marchitto, T., Mart�nez-M�ndez, G., Mollenhauer, G., Naughton, F., Nave, S., N�rnberg, D., Oppo, D., Peck, V., Peeters, F. J. C., Penaud, A., Portilho-Ramos, R. d. C., Repschl�ger, J., Roberts, J., R�hlemann, C., Salgueiro, E., Sanchez Goni, M. F., Sch�nfeld, J., Scussolini, P., Skinner, L. C., Skonieczny, C., Thornalley, D., Toucanne, S., van Rooij, D., Vidal, L., Voelker, A. H. L., Wary, M., Weldeab, S., and Ziegler, M.: Consistently dated Atlantic sediment cores over the last 40 thousand years, Scientific data, 6, 165, https://doi.org/10.1038/s41597-019-0173-8, 2019.
+    Use Flag: 0
+    Importer: na
+    Filename: SU81-18.age
+    Optional: na
+    bacon_K: 68
+    bacon_d_min: 12.5
+    bacon_d_max: 691.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 35.1633
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 706.547
+    bacon_th0p: 1074.76
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(29), Label_Characters(5), Type_Characters(3), Comment_Characters(71), bacon_out_nrow(1000), bacon_out_ncol(71), Bacon Length(678)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

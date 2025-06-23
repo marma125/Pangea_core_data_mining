@@ -1,0 +1,18 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+Measured by MAT253 with Kiel IV device at National Museum of Nature and Science (NMNS)
+by Yoshimi Kubota (NMNS) and Yusuke Okazaki
+
+SD of repeated sample measurements (including sample heterogeneity)
+±0.08 permil for d13C
+±0.14 permil for d18O
+
+Stable isotope data is unpublished.
+
+KS15-4 St3-PC2
+Position: 29°27.5665'N, 133°33.8121'E
+Water depth: 2787.1 m
+Piston core
+Recovery: 4.6 m
+KS15-4 cruise by R/V Shinsei-maru in 2015
+

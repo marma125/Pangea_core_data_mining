@@ -1,0 +1,17 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+PS1243-1,,0.015,,,,1690,65,65,581,50,50,1012,55,56,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.085,,,,3865,55,55,529,50,50,3568,68,86,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.145,,,,5390,120,120,630,52,52,5495,95,167,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.225,,,,6835,50,50,685,50,50,7070,88,98,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.285,,,,8120,90,90,549,50,50,8385,34,41,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.365,,,,9600,80,80,483,68,68,10268,117,54,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.45,,,,10630,150,150,1197,53,53,10671,389,155,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.51,,,,11720,55,55,1321,186,186,12274,254,233,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.53,,,,12440,140,140,1392,191,191,12911,154,163,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.58,,,,,,,,,,14600,184,184,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.59,,,,,,,,,,14740,190,190,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.6,,,,16790,210,210,1497,189,189,18561,200,214,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.67,,,,19790,200,200,1539,190,190,22117,242,248,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.7,,,,20990,230,230,1507,188,188,23459,306,346,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.77,,,,24050,440,440,1581,189,189,26784,424,445,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 
+PS1243-1,,0.82,,,,25800,370,370,1552,200,200,28285,346,349,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,10.1126/science.aaa9554 

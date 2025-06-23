@@ -1,0 +1,90 @@
+		:Core = "GIK17940_2" ;
+		:Parameter = "Age" ;
+		:Longitude = 117.383f ;
+		:Latitude = 20.1167f ;
+		:Water\ Depth = 1727.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Pacific Ocean" ;
+		:Filename = "GIK17940_2.age" ;
+		:Optional = "" ;
+		:bacon_K = 100 ;
+		:bacon_d_min = 22.5f ;
+		:bacon_d_max = 1272.5f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 25.4256f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 8.f ;
+		:bacon_t_b = 9.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 701.105f ;
+		:bacon_th0p = 647.622f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK17940-2
+    Parameter: Age
+    Longitude: 117.383
+    Latitude: 20.117
+    Water Depth: 1727.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.736636
+    Reference: Wang, L., Sarnthein, M., Grootes, P. M., and Erlenkeuser, H.: Millennial reoccurrence of century-scale abrupt events of East Asian Monsoon: A possible heat conveyor for the global deglaciation, Paleoceanography, 14, 725-731, doi:10.1029/1999PA900028, 1999.
+    Use Flag: 0
+    Importer: na
+    Filename: GIK17940-2.age
+    Optional: na
+    bacon_K: 63
+    bacon_d_min: 22.5
+    bacon_d_max: 1272.5
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 25.4256
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 758.968
+    bacon_th0p: 632.033
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(40), Label_Characters(3), Type_Characters(3), Comment_Characters(77), bacon_out_nrow(1000), bacon_out_ncol(66), Bacon Length(1250)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+

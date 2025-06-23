@@ -1,0 +1,51 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD98-2181,,0.12,,OS-36493,G. sacculifer; G. ruber,580,110,110,475.4,54.4,54.4,162,266,162,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,0.55,,OS-37308,G. sacculifer; G. ruber,815,200,200,473.4,54.6,54.6,330,320,330,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,0.99,,OS-37292,G. sacculifer; G. ruber,1010,100,100,453.1,51.2,51.2,562,160,244,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,1.45,,OS-37306,G. sacculifer; G. ruber,1090,120,120,522.3,51.4,51.4,560,179,250,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,2.38,,OS-36485,G. sacculifer,1900,100,100,431.2,50.6,50.6,1394,222,216,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,4.01,,OS-37289,G. sacculifer,3960,150,150,414.9,51.9,51.9,3851,436,399,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,5.01,,OS-37303,G. sacculifer,4070,190,190,396.9,52.7,52.7,4027,539,543,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,7.11,,OS-34874,G. sacculifer,6950,50,50,532.2,50.8,50.8,7343,116,165,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,7.51,,OS-55868,C. mundula,8950,50,50,372.2,57.6,57.6,9567,170,128,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,7.55,,OS-34875,G. sacculifer,7360,50,50,467,52.1,52.1,7737,185,138,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,8.61,,OS-55869,C. mundula,9480,35,35,379.3,51,51,10281,199,103,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,8.61,,OS-34876,G. sacculifer,10350,65,65,357.2,55.9,55.9,11496,419,264,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.2,,OS-47735,G. sacculifer,10450,120,120,436.7,65.1,65.1,11574,456,366,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.4,,OS-36478,G. sacculifer,11050,310,310,551.8,59.2,59.2,12229,752,887,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.41,,OS-51309,P. obliquiloculata -dirty,10850,130,130,495.4,57.9,57.9,12187,452,543,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.41,,OS-51038,P. obliquiloculata,11550,85,85,518.4,24.5,24.5,12898,165,164,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.41,,OS-49938,G. ruber,12600,80,80,420.1,35.9,35.9,14056,341,290,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.55,,OS-40505,G. ruber,14850,75,75,675.2,31.2,31.2,17260,255,262,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.55,,OS-38541,G. sacculifer,17350,120,120,672.6,32.2,32.2,20133,341,340,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.61,,OS-38542,G. sacculifer,12450,75,75,412.7,50.1,50.1,13905,241,252,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.61,,OS-35980,G. sacculifer,13700,180,180,548.7,39.5,39.5,15762,512,525,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.61,,OS-47068,G. ruber,14100,65,65,571.9,33.6,33.6,16297,263,246,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.86,,OS-51034,P. obliquiloculata -dirty,11050,75,75,551.8,20.2,20.2,12416,230,294,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.86,,OS-51089,P. obliquiloculata,11100,75,75,570.3,18.2,18.2,12470,210,323,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,9.86,,OS-49939,G. ruber,10950,75,75,575.1,52.9,52.9,12245,307,402,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10,,OS-50384,G. ruber,11150,80,80,590.6,17.3,17.3,12512,193,344,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.11,,OS-34877,G. sacculifer,14150,130,130,570.3,38.2,38.2,16387,449,399,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.11,,OS-49298,G. ruber,13650,55,55,548.4,28.2,28.2,15717,253,287,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.36,,OS-49297,G. ruber,12100,80,80,469.3,24.4,24.4,13454,245,176,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.46,,OS-50386,N. dutertrei,12450,75,75,412.7,50.1,50.1,13905,241,252,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.47,,OS-52737,P. obliquiloculata,12400,210,210,409.6,54.1,54.1,13912,783,512,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.47,,OS-53566,G. sacculifer,12650,65,65,405.6,27.5,27.5,14182,393,245,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.49,,OS-51097,P. obliquiloculata -dirty,12650,80,80,405.6,29.4,29.4,14206,456,344,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.49,,OS-51090,P. obliquiloculata,12600,65,65,420.1,33,33,14052,235,263,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.49,,OS-51096,G. ruber,12850,70,70,433.3,26.7,26.7,14522,430,369,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.54,,OS-52734,P. obliquiloculata,12900,45,45,465.5,28.2,28.2,14545,382,342,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.54,,OS-52726,G. sacculifer,12800,70,70,401.9,25.4,25.4,14486,426,355,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.61,,OS-49300,G. ruber,12850,80,80,433.3,27.2,27.2,14529,449,386,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.86,,OS-54924,Mixed benthics,13450,75,75,516.8,26.3,26.3,15463,276,259,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.86,,OS-34878,G. sacculifer,13400,55,55,500,26.1,26.1,15413,245,223,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,10.86,,OS-49303,G. ruber,14550,70,70,644.8,32.4,32.4,16845,282,303,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,12.11,,OS-54928,Mixed benthics,15550,65,65,701.3,32.4,32.4,18063,216,198,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,12.11,,OS-34879,G. sacculifer,17150,85,85,683.8,31,31,19858,249,258,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,12.86,,OS-54925,Mixed benthics,16800,95,95,693,31.2,31.2,19428,288,285,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,12.86,,OS-34880,G. sacculifer,18500,130,130,727.2,42.4,42.4,21513,368,421,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,14.86,,OS-55820,Mixed benthics,20300,260,260,754.5,47,47,23536,623,623,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,14.86,,OS-34972,G. sacculifer,21800,95,95,855.6,40.1,40.1,25297,285,296,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,15.61,,OS-60238,Mixed benthics,23600,160,160,897.6,48.6,48.6,27018,380,444,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,17.11,,OS-60246,Mixed benthics,24800,130,130,755.9,35.5,35.5,28086,351,307,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full
+MD98-2181,,17.11,,OS-34881,G. sacculifer,26900,120,120,906.6,50.2,50.2,30268,426,483,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://science.sciencemag.org/content/318/5849/435.full

@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR159-5-22GGC
+    Species: Cibicidoides spp.
+    Longitude: -43.583
+    Latitude: -29.783
+    WaterDepth: 3924.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Stable Isotope Laboratory at the University of Michigan; instrument=triple_collector gas source mass spectrometer coupled to a Finnigan Kiel automated preparation device
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: https://www.ncdc.noaa.gov/paleo/study/19521
+    Reference: D.C. Lund, A.C. Tessin, J.L. Hoffman, A. Schmittner. 2015. Southwest Atlantic water mass evolution during the last deglaciation. Paleoceanography, 30(5), 477-494. doi: 10.1002/2014PA002657
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschlaeger
+    Optional: na;Number of shells=NAN;min mesh size=250;max mesh size=NaN;OC3 age flag=3;age type=14C AMS,bacon, pdv
+    dimensions(sizes): Length(66), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

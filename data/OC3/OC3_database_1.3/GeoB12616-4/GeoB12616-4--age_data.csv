@@ -1,0 +1,4 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB12616-4,KIA 46473 ,0.04,AMS,, G. ruber,9200,45,45,336,51,51,10031,127,232,,,,Reservoir ages calculated from Butzin et al 2017,ages calibrated with PDV  GMM May 2019,,
+GeoB12616-4,KIA 46474 ,0.16,AMS,, G. ruber,18500,11,11,743,45,45,21511,185,167,,,,Reservoir ages calculated from Butzin et al 2017,ages calibrated with PDV  GMM May 2019,,
+GeoB12616-4,KIA 46475 ,0.36,AMS,, G. ruber,34800,710,650,781,75,75,38529,535,608,,,,Reservoir ages calculated from Butzin et al 2017,ages calibrated with PDV  GMM May 2019,,

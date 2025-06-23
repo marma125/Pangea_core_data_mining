@@ -1,0 +1,14 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB17402-2,,0.22,14C AMS UCI,129530,G. sacculifer,4540,15,15,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,0.62,14C AMS UCI,129532,G. sacculifer,8720,30,30,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,0.86,14C AMS UCI,129534,G. sacculifer,9305,30,30,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,0.9,14C AMS UCI,129536,G. sacculifer,9910,35,35,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,1.26,14C AMS UCI,129538,G. sacculifer,11620,40,40,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,1.42,14C AMS UCI,129540,G. sacculifer,13100,35,35,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,1.54,14C AMS UCI,129542,G. sacculifer,14040,40,40,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,1.86,14C AMS UCI,131763,G. sacculifer,18710,60,60,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,1.9,14C AMS UCI,133218,G. sacculifer,19100,80,80,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,1.94,14C AMS UCI,131765,G. sacculifer,19580,110,110,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,2.02,14C AMS UCI,129544,G. sacculifer,21390,90,90,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,2.26,14C AMS UCI,129546,G. sacculifer,22810,100,100,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt
+GeoB17402-2,,2.38,14C AMS UCI,134657,G. sacculifer,25270,260,260,0,,,,,,Marine20,,,,,,https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/shao2021/shao2021.txt

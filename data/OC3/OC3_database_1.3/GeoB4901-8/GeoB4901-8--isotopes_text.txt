@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB4901-8
+    Species: Cibicidoides wuellerstorfi
+    Longitude: 6.72
+    Latitude: 2.678
+    WaterDepth: 2184.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: Zabel, M. (2001) Late Quaternary Climate Changes in Central Africa as Inferred from Terrigenous Input to the Niger Fan, Quaternary Research 56, 207-217
+    Comment: AMS not available
+    DataSource: NaN
+    Reference: Zabel, M. (2001) Late Quaternary Climate Changes in Central Africa as Inferred from Terrigenous Input to the Niger Fan, Quaternary Research 56, 207-217
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: NaN
+    Optional: na;number of specimens=NaN;mesh size min=NaN;mesh size max=NaN;age flag=4;age model type=manual benthic 18O alignment, bacon age modelling, PDV
+    dimensions(sizes): Length(378), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

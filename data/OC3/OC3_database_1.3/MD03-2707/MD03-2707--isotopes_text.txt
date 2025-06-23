@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: MD03-2707
+    Species: Cibicidoides pachyderma
+    Longitude: 9.395
+    Latitude: 2.502
+    WaterDepth: 1295.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: Kiel
+    E-Paper: Weldeab, S et al. (2016): Strong middepth warming and weak radiocarbon imprints in the equatorial Atlantic during Heinrich 1 and Younger Dryas. Paleoceanography, 31(8), 1070-1082, https://doi.org/10.1002/2016PA002957
+    Comment: NaN
+    DataSource: Weldeab, Syee; Friedrich, Tobias; Timmermann, Axel; Schneider, Ralph R (2016): Benthic foraminiferal multiproxy record of sediment core MD03-2707. PANGAEA, https://doi.org/10.1594/PANGAEA.877253
+    Reference: Weldeab, S et al. (2016): Strong middepth warming and weak radiocarbon imprints in the equatorial Atlantic during Heinrich 1 and Younger Dryas. Paleoceanography, 31(8), 1070-1082, https://doi.org/10.1002/2016PA002957
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(118), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

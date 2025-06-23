@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB16202-2
+    Species: Cibicidoides spp.
+    Longitude: -41.592
+    Latitude: -1.908
+    WaterDepth: 2248.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: Voigt, I et al. (2017): Variability in mid-depth ventilation of the western Atlantic Ocean during the last deglaciation. Paleoceanography, 32(9), 948-965, https://doi.org/10.1002/2017PA003095; age model Mulitza, Stefan; Schefu�, Enno; Chiessi, Cristiano Mazur; Lippold, J�rg; Wichmann, David; Antz, Benny; Mackensen, Andreas; Paul, Andr�; Prange, Matthias; Rehfeld, Kira; Werner, Martin; Bickert, Torsten; Frank, Norbert; Kuhnert, Henning; Lynch-Stieglitz, Jean; Portilho-Ramos, Rodrigo Costa; Sawakuchi, Andr� Oliveira; Schulz, Michael; Schwenk, Tilmann; Tiedemann, Ralf; Vahlenkamp, Maximilian; Zhang, Yancheng (2017): Synchronous and proportional deglacial changes in Atlantic meridional overturning and northeast Brazilian precipitation. Paleoceanography, https://doi.org/10.1002/2017PA003084
+    Comment: outlier at 198 cm removed
+    DataSource: Voigt, Ines; Cruz, Anna Paula Soares; Mulitza, Stefan; Chiessi, Cristiano Mazur; Mackensen, Andreas; Lippold, J�rg; Antz, Benny; Zabel, Matthias; Zhang, Yancheng; Barbosa, Catia F; Tisserand, Amandine (2017): (Supplementary Table 1) Stable isotopes of sediment core GeoB16202-2. PANGAEA, https://doi.org/10.1594/PANGAEA.875792; Mulitza, Stefan; Chiessi, Cristiano Mazur; Schefu�, Enno; Lippold, J�rg; Wichmann, David; Antz, Benny; Mackensen, Andreas; Paul, Andr�; Prange, Matthias; Rehfeld, Kira; Werner, Martin; Bickert, Torsten; Frank, Norbert; Kuhnert, Henning; Lynch-Stieglitz, Jean; Portilho-Ramos, Rodrigo Costa; Sawakuchi, Andr� Oliveira; Schulz, Michael; Schwenk, Tilmann; Tiedemann, Ralf; Vahlenkamp, Maximilian; Zhang, Yancheng (2017): Age model of sediment core GeoB16202-2. PANGAEA, https://doi.org/10.1594/PANGAEA.877639,
+    Reference: Voigt, I et al. (2017): Variability in mid-depth ventilation of the western Atlantic Ocean during the last deglaciation. Paleoceanography, 32(9), 948-965, https://doi.org/10.1002/2017PA003095; age model Mulitza, Stefan; Schefu�, Enno; Chiessi, Cristiano Mazur; Lippold, J�rg; Wichmann, David; Antz, Benny; Mackensen, Andreas; Paul, Andr�; Prange, Matthias; Rehfeld, Kira; Werner, Martin; Bickert, Torsten; Frank, Norbert; Kuhnert, Henning; Lynch-Stieglitz, Jean; Portilho-Ramos, Rodrigo Costa; Sawakuchi, Andr� Oliveira; Schulz, Michael; Schwenk, Tilmann; Tiedemann, Ralf; Vahlenkamp, Maximilian; Zhang, Yancheng (2017): Synchronous and proportional deglacial changes in Atlantic meridional overturning and northeast Brazilian precipitation. Paleoceanography, https://doi.org/10.1002/2017PA003084
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: Number of shells=1;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3 ;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(127), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

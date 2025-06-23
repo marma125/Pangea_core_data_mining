@@ -1,0 +1,25 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD97-2151,,0.03,C-14,,,1437,66,66,,,,938,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,0.35,C-14,,,1897,56,56,,,,1353,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,0.71,C-14,,,2575,56,56,,,,2143,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,0.91,C-14,,,2986,67,67,,,,2743,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,1.27,C-14,,,3869,65,65,,,,3697,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,1.71,C-14,,,4404,57,57,,,,4499,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,2.11,C-14,,,5323,67,67,,,,5648,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,2.51,C-14,,,6810,66,66,,,,7276,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,3.11,C-14,,,9329,72,72,,,,9927,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,3.635,MIS 2.0,,,,,,,,,12050,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,5.755,MIS 2.2,,,,,,,,,17850,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,10.855,MIS 3.13,,,,,,,,,43880,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,13.13,MIS 4.0,,,,,,,,,58960,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,14.21,MIS 4.22,,,,,,,,,64090,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,15.56,Toba ash layer,,,,,,,,,71000,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,16.01,MIS 5.0,,,,,,,,,73910,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,16.61,MIS 5.1,,,,,,,,,79250,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,17.97,MIS 5.31,,,,,,,,,96210,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,18.65,MIS 5.33,,,,,,,,,103290,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,19.49,MIS 5.4,,,,,,,,,110790,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,20.97,MIS 5.51,,,,,,,,,122560,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,21.33,MIS 5.53,,,,,,,,,125190,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,21.97,MIS 6.0,,,,,,,,,129840,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804
+MD97-2151,,23.21,MIS 6.2,,,,,,,,,135100,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.759804

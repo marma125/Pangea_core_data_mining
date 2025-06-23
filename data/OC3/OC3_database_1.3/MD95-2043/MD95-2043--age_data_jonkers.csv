@@ -1,0 +1,22 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD95-2043,,0.14,,,Globigerina bulloides,1980,60,60,400,100,100,1489,279,203,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,0.54,,,Globigerina bulloides,3216,37,37,400,100,100,2954,257,204,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,0.96,,,Globigerina bulloides,4275,41,41,400,100,100,4287,493,312,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,1.78,,,Globigerina bulloides,5652,42,42,400,100,100,6046,236,292,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,2.38,,,Globigerina bulloides,6870,50,50,400,100,100,7381,190,206,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,2.98,,,Neogloboquadrina pachyderma,8530,47,47,400,100,100,9076,337,412,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,3.48,,,Globigerina bulloides,9200,60,60,400,100,100,9864,307,307,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,4.18,,,Neogloboquadrina pachyderma,9970,50,50,400,100,100,10917,282,327,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,4.87,,,Neogloboquadrina pachyderma,10560,60,60,400,100,100,11787,588,473,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,5.12,,,Neogloboquadrina pachyderma,10750,60,60,400,100,100,12192,368,426,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,5.88,,,Neogloboquadrina pachyderma,11590,60,60,400,100,100,13037,241,246,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,5.95,,,Globigerina bulloides,11880,80,80,400,100,100,13316,235,224,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,6.82,,,Globigerina bulloides,12790,90,90,400,100,100,14525,549,470,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,7.08,,,Neogloboquadrina pachyderma,13100,90,90,400,100,100,15062,533,629,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,7.58,,,Neogloboquadrina pachyderma,14350,110,110,400,100,100,16917,480,472,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,8.02,,,Neogloboquadrina pachyderma,15440,90,90,400,100,100,18274,319,321,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,8.58,,,Neogloboquadrina pachyderma,18260,120,120,400,100,100,21617,435,472,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,9.58,,,Neogloboquadrina pachyderma,22450,160,160,400,100,100,26290,492,393,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,10.44,,,Globigerina bulloides,24840,280,280,400,100,100,28458,625,609,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,10.77,,,Neogloboquadrina pachyderma,26220,240,240,400,100,100,30052,650,634,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759
+MD95-2043,,13.24,,,Neogloboquadrina pachyderma,32600,400,400,400,100,100,36138,1191,968,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.735759

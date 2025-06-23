@@ -1,0 +1,13 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD06-2986,,0.035,,,mixed,1390,20,20,479.6,50.4,50.4,833,97,106,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,0.95,,,mixed,8885,45,45,460.6,59.6,59.6,9429,111,155,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,1.28,,,mixed,11240,50,50,778.6,63.3,63.3,12353,248,285,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,1.39,,,mixed,11955,50,50,706.1,74.5,74.5,13121,177,213,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,1.68,,,mixed,15080,70,70,915,95,95,17241,343,368,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,2.22,,,mixed,21040,120,120,1011.1,109.8,109.8,24092,388,404,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,2.52,,,mixed,23950,160,160,1189.3,105,105,27070,393,484,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,4.04,,,mixed,34710,550,550,1068.7,124.1,124.1,37890,1387,1419,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.700142?format=html
+MD06-2986,,7.0300002098,,,,,,,,,,61000,2920,2920,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+MD06-2986,,8.9899997711,,,,,,,,,,87000,2700,2700,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+MD06-2986,,11.2100000381,,,,,,,,,,117000,5240,5240,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+MD06-2986,,11.6899995804,,,,,,,,,,132500,4300,4300,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

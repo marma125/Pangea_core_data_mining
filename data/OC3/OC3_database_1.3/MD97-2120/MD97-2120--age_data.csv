@@ -1,0 +1,31 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD97-2120,,0.225,14C AMS dates,,,1951,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,0.365,14C AMS dates,,,3557,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,0.985,14C AMS dates,,,7764,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,1.805,14C AMS dates,,,11112,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,2.025,14C AMS dates,,,12472,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,2.305,14C AMS dates,,,13942,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,2.525,14C AMS dates,,,14345,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,2.84,14C AMS dates,,,16701,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,4.71,Kawakawa tephra,,,26170,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,5.25,14C AMS dates,,,29570,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,5.73,14C AMS dates,,,33010,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,6.33,14C AMS dates,,,35260,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,6.832,"benthic d18O tuned to benthic d18O of core MD95-2042 (Shackleton et al., 2000)",,,40017,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,7.372,"benthic d18O tuned to benthic d18O of core MD95-2042 (Shackleton et al., 2000)",,,44829,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,7.752,"benthic d18O tuned to benthic d18O of core MD95-2042 (Shackleton et al., 2000)",,,47539,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,8.312,"benthic d18O tuned to benthic d18O of core MD95-2042 (Shackleton et al., 2000)",,,55978,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,10.612,"benthic d18O tuned to benthic d18O of core MD95-2042 (Shackleton et al., 2000)",,,72127,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,14.512,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,105139,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,16.512,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,135282,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,19.912,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,161061,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,20.712,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,168711,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,22.412,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,180911,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,24.912,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,220315,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,25.612,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,233342,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,27.412,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,245548,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,29.112,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,262591,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,32.112,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,281734,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,33.512,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,298832,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,34.912,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,315915,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136
+MD97-2120,,36.212,"Mg/Ca-SST tuned to Vostok deuterium (Petit et al,1999), age of Shackleton,2000",,,337804,,,,,,,,,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.208136

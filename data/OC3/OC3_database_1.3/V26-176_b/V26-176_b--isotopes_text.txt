@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: V26-176_b
+    Species: Cibicidoides wuellerstorfi/Cibicidoides kullenbergi #1
+    Longitude: -72.373
+    Latitude: 36.048
+    WaterDepth: 3942.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Keigwin (WHOI)
+    E-Paper: Curry, William B; Duplessy, Jean-Claude; Labeyrie, Laurent D; Shackleton, Nicholas J (1988): Changes in the distribution of d13C of deep water Sigma-CO2 between the last glaciation and the Holocene. Paleoceanography, 3(3), 317-341, https://doi.org/10.1029/PA003i003p00317
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.52278, age model: PANGAEA, https://doi.org/10.1594/PANGAEA.186283)
+    Reference: Curry, William B; Duplessy, Jean-Claude; Labeyrie, Laurent D; Shackleton, Nicholas J (1988):(Appendix 1) Stable carbon and oxygen isotope ratios of Cibicidoides spp. from sediment core V26-176. PANGAEA, https://doi.org/10.1594/PANGAEA.52278; age model (CLIMAP Project Members (2004): Radiocarbon age determinations on sediment core V26-176. PANGAEA, https://doi.org/10.1594/PANGAEA.186283)
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3,4;automated alignment to Atlantic stacks, method described in Lee et al. (2019) ; AMS, bacon, pdv
+    dimensions(sizes): Length(38), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

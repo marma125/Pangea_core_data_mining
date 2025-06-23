@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SO75_3_26KL
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -9.503
+    Latitude: 37.822
+    WaterDepth: 1099.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston Corer
+    Record Type: sb
+    Laboratory: Bremen, Erlangen, Kiel
+    E-Paper: In supplement to: Willamowski, C (1999): Verteilungsmuster von Spurenmetallen im glazialen Nordatlantik: Rekonstruktion der N�hrstoffbilanz anhand von Cadmiumkonzentrationen in kalkschaligen Foraminiferen. GEOMAR Report, 79, 107 pp, https://doi.org/10.3289/GEOMAR_Report_79, In supplement to: Zahn, R et al. (1997): Thermohaline instability in the North Atlantic during meltwater events: Stable isotope and ice-rafted detritus records from core SO75-26KL, Portuguese margin. Paleoceanography, 12(5), 696-710, https://doi.org/10.1029/97PA00581
+    Comment: NaN
+    DataSource: PANGAEA, Zahn, Rainer; Schoenfeld, Joachim; Kudrass, Hermann-Rudolph; Park, M-H; Erlenkeuser, Helmut; Grootes, Pieter Meiert (1997): (Table 1) Age determination of sediment core SO75-26KL. PANGAEA, https://doi.org/10.1594/PANGAEA.734073,
+    Reference: In supplement to: Willamowski, C (1999): Verteilungsmuster von Spurenmetallen im glazialen Nordatlantik: Rekonstruktion der N�hrstoffbilanz anhand von Cadmiumkonzentrationen in kalkschaligen Foraminiferen. GEOMAR Report, 79, 107 pp, https://doi.org/10.3289/GEOMAR_Report_79, In supplement to: Zahn, R et al. (1997): Thermohaline instability in the North Atlantic during meltwater events: Stable isotope and ice-rafted detritus records from core SO75-26KL, Portuguese margin. Paleoceanography, 12(5), 696-710, https://doi.org/10.1029/97PA00581
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschl�ger
+    Optional: Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(186), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: MD97-2106
+    Species: Cibicidoides wuellerstorfi
+    Longitude: 146.285
+    Latitude: -45.1482
+    WaterDepth: 3310.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Piston corer
+    Record Type: sb
+    Laboratory: Australian National University
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: Laboratory
+    Reference: Moy, A. D., Howard, W. R., and Gagan, M. K.: Late Quaternary palaeoceanography of the Circumpolar Deep Water from the South Tasman Rise, J. Quaternary Sci., 21, 763-777, doi:10.1002/jqs.1067, 2006.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Helen Bostock
+    Optional: na
+    dimensions(sizes): Length(291), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,6 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+,OS 33894,0.5,c14ams,OS 33894,Neogloboquadrina dutertrei,9760,40,40,167,106,106,10213,153,153,,,,"Age, 14C calibrated, CALIB 4.4 (Stuiver et al., 2003)",,,https://doi.pangaea.de/10.1594/PANGAEA.833146
+,,0.85,c14ams,,Bulk CaCO3,12130,180,180,167,106,106,13363,203,203,,,,"Age, 14C calibrated, CALIB 4.4 (Stuiver et al., 2003)",,,https://doi.pangaea.de/10.1594/PANGAEA.833146
+,OS 33191,1.2,c14ams,OS 33191,Neogloboquadrina dutertrei,14700,65,65,167,106,106,16827,272,272,,,,"Age, 14C calibrated, CALIB 4.4 (Stuiver et al., 2003)",,,https://doi.pangaea.de/10.1594/PANGAEA.833146
+,,1.65,c14ams,,Bulk CaCO3,17170,350,350,167,106,106,19670,509,509,,,,"Age, 14C calibrated, CALIB 4.4 (Stuiver et al., 2003)",,,https://doi.pangaea.de/10.1594/PANGAEA.833146
+,OS 33895,1.8,c14ams,OS 33895,Neogloboquadrina dutertrei,19150,70,70,167,106,106,21948,365,365,,,,"Age, 14C calibrated, CALIB 4.4 (Stuiver et al., 2003)",,,https://doi.pangaea.de/10.1594/PANGAEA.833146

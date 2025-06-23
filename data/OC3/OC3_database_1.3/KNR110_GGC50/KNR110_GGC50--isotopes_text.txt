@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR110_GGC50
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -43.21
+    Latitude: 4.87
+    WaterDepth: 3995.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: WHOI
+    E-Paper: Curry, William B; Duplessy, Jean-Claude; Labeyrie, Laurent D; Shackleton, Nicholas J (1988): Changes in the distribution of d13C of deep water Sigma-CO2 between the last glaciation and the Holocene. Paleoceanography, 3(3), 317-341, doi:10.1029/PA003i003p00317
+    Comment: NaN
+    DataSource: doi:10.1594/PANGAEA.357156,
+    Reference: Curry, William B; Duplessy, Jean-Claude; Labeyrie, Laurent D; Shackleton, Nicholas J (1988): Changes in the distribution of d13C of deep water Sigma-CO2 between the last glaciation and the Holocene. Paleoceanography, 3(3), 317-341, doi:10.1029/PA003i003p00317
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: na;Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=4;age type=automated alignment to Atlantic stacks, method described in Lee et al. (2019), 14C AMS, bacon, pdv
+    dimensions(sizes): Length(85), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

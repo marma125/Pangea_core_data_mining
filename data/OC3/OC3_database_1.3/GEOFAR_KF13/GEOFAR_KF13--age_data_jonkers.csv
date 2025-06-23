@@ -1,0 +1,12 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GEOFAR_KF13,,0.22,,,G. Ruber,6990,80,80,456.2,50.7,50.7,7451,100,107,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,0.3,,,G. Ruber,8210,80,80,331.5,50.8,50.8,8671,256,81,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,0.4,,,G. Ruber,9010,90,90,332.9,51.2,51.2,9615,83,69,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,0.73,,,G. Bulloides,12230,130,130,474.5,38.9,38.9,13576,141,109,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,1,,,G. Bulloides,13030,140,140,512.8,39.4,39.4,14783,309,387,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,1.1,,,G. Bulloides,13520,160,160,563.1,39.7,39.7,15488,229,214,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,1.3,,,G. Bulloides,14160,160,160,600,44.4,44.4,16339,225,200,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,1.7,,,G. Bulloides,16160,210,210,745.1,43.7,43.7,18683,146,154,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,2,,,G. Bulloides,18690,290,290,778.5,47.9,47.9,21693,264,289,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,2.2,,,G. Bulloides,20200,340,340,782.5,45.8,45.8,23372,326,342,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf
+GEOFAR_KF13,,2.4,,,G. Bulloides,21730,430,430,876,50.6,50.6,25145,397,504,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://oceanrep.geomar.de/30473/1/GEOMAR-Report_73.pdf

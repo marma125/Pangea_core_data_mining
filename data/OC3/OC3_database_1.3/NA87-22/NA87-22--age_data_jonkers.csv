@@ -1,0 +1,26 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+NA87-22,,0.01,,GifA 96281,Neogloboquadrina pachyderma d.,935,45,45,635.4,51.7,51.7,363,142,363,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,0.01,,GifA 96283,Globigerina bulloides,730,50,50,622.4,51.5,51.5,138,144,138,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,0.205,,GifA 96284,Neogloboquadrina pachyderma d.,1280,50,50,540.9,51.2,51.2,679,211,129,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,0.505,,GifA 96285,Neogloboquadrina pachyderma d.,2570,50,50,497.7,55.4,55.4,2055,250,179,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,0.805,,GifA 96286,Neogloboquadrina pachyderma d.,3230,50,50,499.4,50.6,50.6,2846,149,103,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,0.955,,92002,Neogloboquadrina pachyderma d.,3520,90,90,495.4,50.7,50.7,3202,247,272,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,1.505,,GifA 96289,Globigerina bulloides,6290,70,70,559.3,51.6,51.6,6531,195,210,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,1.805,,GifA 96290,Globigerina bulloides,7630,70,70,611,53,53,7841,154,160,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,2.005,,92010,Globigerina bulloides,8300,90,90,476.2,55.2,55.2,8670,308,246,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,2.005,,92173,Neogloboquadrina pachyderma d.,8280,110,110,476.2,55.4,55.4,8656,327,250,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,2.255,,GifA 96291,Globigerina bulloides,8790,80,80,514.7,55.9,55.9,9256,210,229,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,2.505,,92011,Globigerina bulloides,10010,90,90,438.8,243.7,243.7,10906,838,672,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,2.705,,92017,Globigerina bulloides,10870,140,140,833.8,237,237,11684,861,895,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,2.855,,92003,Neogloboquadrina pachyderma s.,11320,90,90,937.2,249.7,249.7,12113,609,788,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.055,,92012,Globigerina bulloides,11690,120,120,959.4,256.8,256.8,12569,635,766,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.155,,92186,Globigerina bulloides,12920,120,120,834.1,251.3,251.3,14132,930,695,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.255,,92014,Globigerina bulloides,12380,120,120,906.7,257.6,257.6,13326,608,572,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.455,,92174,Neogloboquadrina pachyderma s.,14580,130,130,962.2,251.1,251.1,16475,845,783,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.555,,92004,Neogloboquadrina pachyderma s.,15660,120,120,1103.4,251.1,251.1,17718,685,698,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.705,,92175,Neogloboquadrina pachyderma s.,15800,140,140,1109.7,250.2,250.2,17886,677,694,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,3.805,,92052,Neogloboquadrina pachyderma s.,16700,140,140,1056.2,248.1,248.1,18953,651,623,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,4.005,,92006,Neogloboquadrina pachyderma s.,17590,140,140,1063.6,247.4,247.4,19951,682,699,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,4.205,,92176,Neogloboquadrina pachyderma s.,18110,180,180,1055,246.7,246.7,20608,823,739,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,4.405,,92005,Neogloboquadrina pachyderma s.,19310,270,270,1103.6,246,246,22015,852,893,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755
+NA87-22,,4.555,,92183,Neogloboquadrina pachyderma s.,20160,230,230,1080,246.6,246.6,23033,796,674,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.org/10.1594/PANGAEA.829755

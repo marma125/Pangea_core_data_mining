@@ -1,0 +1,12 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GEOFAR_KF13,,0.225,,,G.ruber,6990,80,80,500,100,100,7339,131,107,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,0.305,,,G.ruber,8210,80,80,500,100,100,8458,133,111,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,0.405,,,G.ruber,9010,90,90,500,100,100,9439,112,164,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,0.735,,,G.bulloides,12230,130,130,500,200,200,13501,253,205,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,1.005,,,G.bulloides,13030,140,140,500,200,200,14574,380,431,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,1.105,,,G.bulloides,13520,160,160,500,200,200,15369,400,365,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,1.305,,,G.bulloides,14160,160,160,500,200,200,16272,348,381,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,1.705,,,G.bulloides,16160,210,210,500,200,200,18710,245,131,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,2.005,,,G.bulloides,18690,290,290,500,200,200,21741,511,392,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,2.205,,,G.bulloides,20200,340,340,500,200,200,23444,369,441,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GEOFAR_KF13,,2.405,,,G.bulloides,21730,430,430,500,200,200,25214,566,510,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

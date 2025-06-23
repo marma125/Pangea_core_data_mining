@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR207-2_GGC6
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -43.23
+    Latitude: 29.21
+    WaterDepth: 3018.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: LDEO
+    E-Paper: Middleton, J. L., S. Mukhopadhyay, C. H. Langmuir, J. F. McManus, and P. J. Huybers (2018), Millennial-scale variations in dustiness recorded in Mid-Atlantic sediments from 0 to 70 ka, Earth and Planetary Science Letters, 482, 12-22, https://doi.org/10.1016/j.epsl.2017.10.034.
+    Comment: NaN
+    DataSource: supplementary materials of the paper; https://doi.org/10.1016/j.epsl.2017.10.034
+    Reference: Middleton, J. L., S. Mukhopadhyay, C. H. Langmuir, J. F. McManus, and P. J. Huybers (2018), Millennial-scale variations in dustiness recorded in Mid-Atlantic sediments from 0 to 70 ka, Earth and Planetary Science Letters, 482, 12-22, https://doi.org/10.1016/j.epsl.2017.10.034.
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=several;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(112), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

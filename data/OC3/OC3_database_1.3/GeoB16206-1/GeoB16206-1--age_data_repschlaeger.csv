@@ -1,0 +1,13 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB16206-1,,0.06,,Poz-50178,G. sacculifer,1180,30,30,409,51,51,712,183,146,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,0.7,,Poz-52812,G. sacculifer,7610,40,40,398,51,51,8047,124,108,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,1.35,,Poz-52740,G. sacculifer,8210,50,50,348,51,51,8718,266,234,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,2,,Poz-50179,G. sacculifer,9690,60,60,350,58,58,10535,213,262,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,3.6,,Poz-52741,G. sacculifer,11630,50,50,577,24,24,12918,144,143,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,4,,Poz-50180,G. sacculifer,12840,70,70,436,27,27,14498,428,361,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,5,,Poz-52742,G. sacculifer,13490,70,70,551,28,28,15470,268,251,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,6,,Poz-50182,G. sacculifer,14630,80,80,674,32,32,16920,309,336,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,6.65,,Poz-52744,G. sacculifer,16060,80,80,740,33,33,18591,185,207,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,7.05,,Poz-52813,G. sacculifer,20390,100,100,777,41,41,23638,324,326,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,7.35,,Poz-52814,G. sacculifer,21840,100,100,881,42,42,25312,288,302,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z
+GeoB16206-1,,8,,Poz-52815,G. sacculifer,25790,150,150,770,75,75,29069,406,377,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://www.nature.com/articles/s41598-017-01629-z

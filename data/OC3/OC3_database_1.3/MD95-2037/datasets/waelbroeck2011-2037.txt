@@ -1,0 +1,434 @@
+﻿# Atlantic Deglacial Benthic Foraminifer Stable Isotope Data 
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:16437
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/waelbroeck2011/waelbroeck2011-2037.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Paleoceanography
+#--------------------
+# Contribution_Date
+#	Date: 2014-05-14
+#--------------------
+# Title
+#	Study_Name: Atlantic Deglacial Benthic Foraminifer Stable Isotope Data  
+#--------------------
+# Investigators
+#       Investigators: Waelbroeck, C.; Skinner, L.C.; Labeyrie, L.; Duplessy, J.-C.; Michel, E.; Vazquez Riveiros, N.; Gherardi, J.-M.; Dewilde, F.
+#--------------------
+# Description_and_Notes
+#	Description: Waelbroeck et al. 2011 stable isotope data (d18O and d13C) measured on benthic foraminifers for 8 cores in the Atlantic Ocean.
+# 
+#	MD95-2037, 37°05.23' N,  32°01.87' W,  2159 m
+#	Benthic isotopes:
+# 	Labeyrie, L., C. Waelbroeck, E. Cortijo, E. Michel, and J.-C. Duplessy (2005), Changes in deep water hydrology during the Last Deglaciation, C. R. Geoscience, 337, 919-927.
+#	
+#	Age model:
+#	Gherardi, J.-M., L. Labeyrie, S. Nave, R. Francois, J. F. McManus, and E. Cortijo (2009), Glacial-interglacial circulation changes inferred from 231Pa/230Th sedimentary record in the North Atlantic region, Paleoceanography, 24, doi:10.1029/2008PA001696.
+#
+# 
+#--------------------
+# Publication 
+#       Authors: C. Waelbroeck, L.C. Skinner, L. Labeyrie, J.-C. Duplessy, E. Michel, N. Vazquez Riveiros, J.-M. Gherardi, and F. Dewilde
+#       Published_Date_or_Year: 2011-08-19     
+#       Published_Title: The timing of deglacial circulation changes in the Atlantic
+#       Journal_Name: Paleoceanography
+#       Volume: 26
+#       Edition: 
+#       Issue: 3
+#       Pages: 
+#       DOI: 10.1029/2010PA002007
+#       Online_Resource: http://onlinelibrary.wiley.com/doi/10.1029/2010PA002007/abstract
+#       Full_Citation: 
+#       Abstract: Well-dated benthic foraminifer oxygen isotopic records (d18O) from different water depths and locations within the Atlantic Ocean exhibit distinct patterns and significant differences in timing over the last deglaciation. This has two implications: on the one hand, it confirms that benthic d18O cannot be used as a global correlation tool with millennial-scale precision, but on the other hand, the combination of benthic isotopic records with independent dating provides a wealth of information on past circulation changes. Comparing new South Atlantic benthic isotopic data with published benthic isotopic records, we show that (1) circulation changes first affected benthic d18O in the 1000-2200 m range, with marked decreases in benthic d18O taking place at ~17.5 cal. kyr B.P. (ka) due to the southward propagation of brine waters generated in the Nordic Seas during Heinrich Stadial 1 (HS1) cold period; (2) the arrival of d18O-depleted deglacial meltwater took place later at deeper North Atlantic sites; (3) hydrographic changes recorded in North Atlantic cores below 3000 m during HS1 do not correspond to simple alternations between northern- and southern-sourced water but likely reflect instead the incursion of brine-generated deep water of northern as well as southern origin; and (4) South Atlantic waters at ~44°S and ~3800 m depth remained isolated from better-ventilated northern-sourced water masses until after the resumption of North Atlantic Deep Water (NADW) formation at the onset of the Bølling-Allerod, which led to the propagation of NADW into the South Atlantic.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: European Union 
+#       Grant: EPICA‐MIS (STREP‐003868)
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: ANR France
+#       Grant: PICC project
+#------------------
+# Site_Information 
+#       Site_Name: MD95-2037
+#       Location: Ocean>Atlantic Ocean
+#	Country:  
+#	Northernmost_Latitude: 37.0872
+# 	Southernmost_Latitude: 37.0872
+# 	Easternmost_Longitude: -32.0312
+# 	Westernmost_Longitude: -32.0312
+# 	Elevation: -2159 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: Waelbroeck2011MD95-2037
+#	Earliest_Year: 25170
+#	Most_Recent_Year: 3230
+#	Time_Unit: Cal. Year BP
+#	Core_Length: m
+#	Notes: 
+#------------------
+# Chronology: 
+# 
+#
+# Table S1. AMS 14C ages measured on planktonic foraminifera and corresponding calendar ages from published age models
+# 
+# Core	Lab number		"Depth, cm"		Species	"14C age, y"	"error, y"	"Calendar age, y"	"error, y"	Reference
+# 		upper		lower						
+# 										
+# ENAM93-21		30			ash layer	9100	80	10250		"[Rasmussen et al., 1998]"
+# 		46.3			correlation to GRIP			11600		
+# 		72.5			correlation to GRIP			12600		
+# 		157.5			correlation to GRIP			14500		
+# 		192.5			correlation to GRIP			16500		
+# 	AAR-1644	245			N. pachyderma s.	18650	200	20900		
+# 		270			correlation to GRIP			21600		
+# 		313.8			correlation to GRIP			24500		
+# 		327.5			correlation to GRIP			25100		
+# 		342.5			correlation to GRIP			25700		
+# 		352.5			correlation to GRIP			26100		
+# 		407			correlation to GRIP			28800		
+# 		417.5			correlation to GRIP			29200		
+# 		435			correlation to GRIP			29900		
+# 		452.5			correlation to GRIP			30300		
+# 										
+# NA87-22	GifA 96281	0		2	N. pachyderma d.	730	50	535	42	"[Waelbroeck et al., 2001, 2006]"
+# 	GifA 96283	0		2	G. bulloides	935	45	535	42	
+# 	GifA 96284	20		21	N. pachyderma d.	1280	50	827	54	
+# 	GifA 96285	50		51	N. pachyderma d.	2570	50	2036	230	
+# 	GifA 96286	80		81	N. pachyderma d.	3230	50	3115	106	
+# 	92002	95		96	N. pachyderma d.	3520	90	3653	306	
+# 	GifA 96289	150		151	G. bulloides	6290	70	6613	155	
+# 	GifA 96290	180		181	G. bulloides	7630	70	7942	170	
+# 	92010	200		201	G. bulloides	8280	110	8741	125	
+# 	92173	200		201	N. pachyderma d.	8300	90	8741	125	
+# 	GifA 96291	225		226	G. bulloides	8790	80	9387	294	
+# 	92011	250		251	G. bulloides	10010	90	10404	118	
+# 	92017	270		271	G. bulloides	10870	140	11363	392	
+# 	92003	285		286	N. pachyderma s.	11320	90	12407	133	
+# 	92012	305		306	G. bulloides	11690	120	13504	401	
+# 	92186	315		316	G. bulloides	12920	120	14021	435	
+# 	92014	325		326	G. bulloides	12380	120	14167	1245	
+# 	92174	345		346	N. pachyderma s.	14580	130	15031	329	
+# 	92004	355		356	N. pachyderma s.	15660	120	17265	609	
+# 	92175	370		371	N. pachyderma s.	15800	140	17884	312	
+# 	92052	380		381	N. pachyderma s.	16700	140	18760	334	
+# 	92006	400		401	N. pachyderma s.	17590	140	20031	484	
+# 	92176	420		421	N. pachyderma s.	18110	180	20877	523	
+# 	92005	440		441	N. pachyderma s.	19310	270	22038	359	
+# 	92183	455		456	N. pachyderma s.	20160	230	22735	463	
+# 										
+# MD95-2037	KIA12728	1		2	G. inflata	3465	30	3234	111	"[Gherardi et al., 2009]"
+# 	KIA12729	40		41	G. inflata	5505	30	6205	326	
+# 	KIA12730	100		101	G. inflata	9590	50	10001	432	
+# 	KIA12731	151		152	G. inflata	10515	50	11854	268	
+# 	KIA12732	190		191	G. inflata	10925	50	12546	215	
+# 	KIA12733	260		261	G. inflata	11760	50	13343	125	
+# 	KIA12734	330		331	G. inflata	13690	80	15494	407	
+# 	KIA12735	390		391	G. inflata	16640	100	19519	223	
+# 	KIA12736	451		452	G. inflata	21120	150	25173	482	
+# 										
+# MD35003-4	KIA4693	3			mixed planktics	380	30	0		"[Rühlemann et al., 1999]"
+# 	KIA5085	98			G. ruber pink	5300	50	5650		
+# 	KIA4223	110			G. ruber white	5920	40	6310		
+# 	KIA5084	163			mixed planktics	8480	60	9020		
+# 	KIA4224	190			G. ruber white	9150	50	9840		
+# 	KIA4225	225			G. ruber white	10800	90	12300		
+# 	KIA4226	257.5			G. ruber white	12220	70	13780		
+# 	KIA4227	290			G. ruber white	14210	90	16560		
+# 	KIA4228	310			G. ruber white	16140	100	18600		
+# 	KIA4229	420			G. ruber white	23230	210	26870		
+# 	KIA4230	450			G. ruber white	25060	260	28910		
+# 	KIA4115	463			mixed planktics	27030	 -220/+210	31060		
+# 										
+# GeoB1711	KIA2590	28			G. inflata   	4520	50	4716	72	"[Vidal et al., 1999 ; Waelbroeck et al., 2006]"
+# 	KIA2589	43			G. inflata   	7070	40	7540	36	
+# 	KIA2588	103			G. inflata   	12150	50	13588	124	
+# 	KIA557	108			G. inflata   	12680	70	14522	478	
+# 	KIA4109	138			G. bulloides	14060	60	16283	232	
+# 	KIA556	183			G. inflata   	17140	130	19827	337	
+# 	KIA555	243			G. inflata   	18740	130	21668	361	
+# 	KIA4110	288			G. bulloides	29130	240	33559	500	
+# 	KIA554	333			G. inflata   	35370	1090	40408	1200	
+# 										
+# CH69-K09	GifA 95041	0		1	N. pachyderma d.	1150	60	554	161	"[Waelbroeck et al., 2001]"
+# 	GifA 95321	20		21	N. pachyderma d.	2240	40	2025	200	
+# 	GifA 95322	20		21	G. inflata   	2275	40	2025	200	
+# 	GifA 95323	33		34	G. inflata   	3130	45	3082	213	
+# 	GifA 95324	52		53	G. bulloides	4770	70	4859	223	
+# 	GifA 95325	85		86	G. bulloides	6660	50	7023	194	
+# 	GifA 95327	130		131	G. inflata   	8840	60	9251	120	
+# 	GifA 95328	175		176	G. inflata   	9690	70	10271	471	
+# 	GifA 95329	215		216	G. inflata   	11140	70	11951	358	
+# 	GifA 95330	230		231	G. inflata   	12330	80	13488	390	
+# 	GifA 95042	280		281	N. pachyderma s.	13630	110	14599	633	
+# 	GifA 95043	300		301	N. pachyderma s.	14970	120	16212	707	
+# 	GifA 95044	320		321	G. bulloides	18020	140	19131	697	
+# 										
+# MD99-2334K	Gif 102207	154		155	G. bulloides	13360	110	14438	572a	"[Skinner et al., 2003]"
+# 	Gif 102223	172		173	G. bulloides	14290	130	15293	864	
+# 	Gif 102208	186		187	G. bulloides	14320	110	15956	238	
+# 	Gif 102209	186		187	N. pachyderma s.	14450	120	15956	397	
+# 	Gif 102210	226		227	N. pachyderma s.	15450	140	17848	163	
+# 	Gif 102211	246		247	G. bulloides	16580	120	18795	138	
+# 	Gif 102212	278		279	G. bulloides	18180	140	20309	465	
+# 	Gif 102213	314		315	G. bulloides	19570	150	22276	169	
+# 	Gif 102214	346		347	G. bulloides	21560	190	24165	383	
+# 	Gif 102215	346		347	N. pachyderma s.	21470	180	24165	285	
+# 	Gif 102216	370		371	G. bulloides	23100	220	26141	239	
+# 	Gif 102217	390		391	G. bulloides	24880	220	27788	252	
+# 	Gif 102218	414		415	G. bulloides	26710	200	29767	211	
+# 	Gif 102219	414		415	N. pachyderma s.	27110	200	29767	499	
+# 	Gif 102220	422		423	G. bulloides	27510	310	30428	324	
+# 	Gif 102221	450		451	G. bulloides	30040	360	32741	367	
+# 										
+# KNR31 GPC-5	AA2482    	0		2	G. sacculifera	1260	55	808b	64b	"[Keigwin and Jones, 1994]"
+# 	WH261     	29		31	mixed planktics	1890	140	1440	148	
+# 	AA4190    	58		60	mixed planktics	3010	55	2781	54	
+# 	AA1806    	64		66	G. ruber	2940	65	2724	75	
+# 	AA4226    	84		86	mixed planktics	3560	60	3449	73	
+# 	AA2483    	100		104	G. sacculifera	4540	10	4772	33	
+# 	AA3430    	102		104	G. ruber	4710	140	4995	189	
+# 	AA4227    	112		114	mixed planktics	4920	60	5239	96	
+# 	AA1808    	154		156	G. ruber	7770	90	8238	95	
+# 	AA1806    	174		176	G. ruber	9210	150	9988	206	
+# 	AA1804    	200		204	N. pachyderma d.	11150	310	12610	398	
+# 	AA3405    	282		284	mixed planktics	12800	130	14372	299	
+# 	OS-1838   	282		284	mixed planktics	12500	45	13919	70	
+# 	AA3409    	388		390	mixed planktics	14800	200	17479	281	
+# 	AA3406    	540		542	mixed planktics	15500	140	18315	252	
+# 	AA3407    	650		652	mixed planktics	16200	390	19039	347	
+# 	AA3408    	730		732	mixed planktics	17000	140	19709	200	
+# 	AA4228    	849		853	mixed planktics	17500	130	20292	179	
+# 	OS-312    	849		853	mixed planktics	17750	160	20683	326	
+# 	AA4229    	1050		1054	mixed planktics	18400	160	21504	239	
+# 	AA4998    	1300		1304	mixed planktics	20000	160	23466	269	
+# 	AA4012    	1449		1452	mixed planktics	20600	180	24115	228	
+# 	AA4611    	1724		1729	mixed planktics	23000	210	27294	351	
+# 	AA4793    	1771		1775	mixed planktics	22900	200	27217	362	
+# 	AA4744    	1835		1840	mixed planktics	24600	300	28995	347	
+# 	AA5009    	1898		1902	mixed planktics	26600	300	30889	224	
+# 	AA4746    	1988		1994	mixed planktics	32000	500	35986	561	
+# 	AA5010    	2038		2042	mixed planktics	34800	780	39551	952	
+# 	AA5000    	2098		2102	mixed planktics	38300	1090	42460	791	
+# 	OS-307    	2098		2102	mixed planktics	36500	420	41280	378	
+# 	AA4997    	2165		2169	mixed planktics	42400	1790	45437	1549	
+# 										
+# MD07-3076Q	2329	1		2	G.bulloides	1985	30	1042	413	"[Skinner et al., 2010]"
+# 	2330	1		2	G.inflata	2475	30	1042	413	
+# 	SUERC-25165	5		6	G.bulloides	2362	35	1458	438	
+# 	SUERC-25166	9		10	G.bulloides	2945	37	1991	542	
+# 	SUERC-25167	15		16	G.bulloides	3725	37	2986	666	
+# 	2331	21		22	G.bulloides	4905	35	4329	737	
+# 	SUERC-25170	25		26	G.bulloides	5687	37	5370	656	
+# 	SUERC-25171	31		32	G.bulloides	6506	37	6319	557	
+# 	SUERC-25172	35		36	G.bulloides	6732	36	6806	634	
+# 	2332	41		42	G.bulloides	8390	40	8079	670	
+# 	3838	45		46	G.inflata	9520	40	9074	654	
+# 	3819	45		46	G.inflata	9510	50	9074	654	
+# 	3818	45		46	G.bulloides	9070	50	9074	654	
+# 	2333	49		50	G.bulloides	9560	40	9769	694	
+# 	12329	53		54	G.bulloides	9790	50	10347	745	
+# 	12330	53		54	G.inflata	10060	50	10347	745	
+# 	2335	55		56	G.bulloides	10300	45	10694	719	
+# 	3823	59		60	G.bulloides	10470	50	11134	673	
+# 	3905	59		60	G.inflata	10570	60	11134	673	
+# 	3824	59		60	G.inflata	10670	50	11134	673	
+# 	12335	61		62	G.bulloides	10600	50	11389	644	
+# 	12336	61		62	G.inflata	10730	50	11389	644	
+# 	12337	63		64	G.bulloides	10790	50	11644	750	
+# 	12338	63		64	G.inflata	10820	50	11644	750	
+# 	2336	67		68	G.bulloides	11400	50	12222	782	
+# 	2337	73		74	G.bulloides	11835	50	12894	716	
+# 	2414	77		78	G.bulloides	12760	60	13241	713	
+# 	2416	85		86	G.bulloides	13360	60	14097	858	
+# 	2417	89		90	G.bulloides	13300	60	14491	900	
+# 	2418	91		92	G.bulloides	13430	60	14653	913	
+# 	3825	95		96	G.bulloides	13520	110	14792	964	
+# 	3827	99		100	G.inflata	13440	60	15139	1212	
+# 	3906	99		100	G.inflata	13380	60	15139	1212	
+# 	5207	99		100	G.inflata	13380	70	15139	1212	
+# 	5209	99		100	G.inflata	13450	60	15139	1212	
+# 	5210	99		100	G.inflata	13260	60	15139	1212	
+# 	3812	109		110	G.inflata	15360	70	16574	1228	
+# 	5214	109		110	G.inflata	15360	60	16574	1228	
+# 	5216	109		110	N. pachyderma s.	15560	80	16574	1228	
+# 	5206	113		114	N. pachyderma s.	15650	180	17106	1160	
+# 	5207	117		118	N. pachyderma s.	16510	210	17569	1156	
+# 	SUERC-25631	119		120	G.bulloides	16698	50	17801	1105	
+# 	5209	121		122	N. pachyderma s.	17030	200	18009	1045	
+# 	3816	125		126	N. pachyderma s.	17400	120	18380	998	
+# 	2424	133		134	N. pachyderma s.	18220	100	19028	881	
+# 	2425	137		138	N. pachyderma s.	18070	130	19398	915	
+# 	2426	145		146	N. pachyderma s.	19060	130	20509	1207	
+# 	2427	161		162	N. pachyderma s.	20580	130	22870	1145	
+# 	3830	173		174	G.inflata	21730	100	24722	864	
+# 	2429	187		188	G.inflata	22440	160	26227	574	
+# 	3831	197		198	G.inflata	23390	110	27384	513	
+# 	2430	207		208	G.inflata	24520	200	28472	630	
+# 	SUERC-25640	219		220	N. pachyderma s.	25407	85	29468	727	
+# 	3833	225		226	G.inflata	25970	130	29931	619	
+# 	2432	241		242	N. pachyderma s.	26550	250	30810	706	
+# 	SUERC-25642	265		266	N. pachyderma s.	28540	89	32106	807	
+# 	SUERC-25644	275		276	N. pachyderma s.	28827	91	32639	754	
+# 	2433	301		302	N. pachyderma s.	30140	370	34167	466	
+# 	3836	301		302	G.inflata	30250	180	34167	466	
+# 
+# "a Resulting errors are computed as the maximum between the error on the computed calibrated age and the offset between the calibrated age and GISP2 age [Meese et al., 1997]"
+# "b Calendar ages have been computed using the Calib6.0 software [Stuiver and Reimer, 1993] and calibration data set marine09.14C [Reimer et al., 2009], assuming no additionnal"
+#   reservoir age correction.
+# 
+# References
+# "Gherardi, J.-M., et al. (2009), Glacial-interglacial circulation changes inferred from 231Pa/230Th sedimentary record in the North Atlantic region, Paleoceanography, 24, "
+#       doi:10.1029/2008PA001696.
+# "Keigwin, L. D., and Jones, G. A. (1994). Western North Atlantic evidence for millenial-scale changes in ocean circulation and climate. Journal of Geophysiscal Research, 99, "
+#       12397-12410.
+# "Meese, D., et al. (1997), The Greenland Ice Sheet Project 2 depth-age scale: methods and results, Journal of Geophysical Research, 102(C12), 26411-26423."
+# "Rasmussen, T. L., et al. (1998), Cyclic sedimentation on the Faeroe Drift 53-10 ka BP related to climatic variations, in Geological processes on continental margins: "
+# "      Sedimentation, mass-wasting and stability, edited by M. S. Stoker, Evans, D. and Cramp, A., pp. 255-267, Geological Society, Special Publications, London."
+# "Reimer, P. J., et al. (2009), IntCal09 and Marine09 Radiocarbon Age Calibration Curves, 0–50,000 Years cal BP, Radicarbon, 51, 1111-1150."
+# "Rühlemann, C., et al. (1999), Warming of the tropical Atlantic Ocean and slowdown of the thermohaline circulation during the last deglaciation, Nature, 402, 511-514."
+# "Skinner, L., et al. (2003), Millennial-scale variability of deep-water temperature and d18Odw indicating deep-water source variations in the Northeast Atlantic, 0-34 cal. ka BP, "
+# "      Geochemistry Geophysics Geosystems, 4(12), doi:10.1029/2003GC000585. "
+# "Skinner, L. C., et al. (2010), Ventilation of the deep Southern Ocean and deglacial CO2 rise, Science, 328, 1147-1151."
+# "Stuiver, M., and Reimer, P. J. (1993), Extended 14C data base and revised CALIB 3.0 14C age calibration program. Radiocarbon 35, 215-230."
+# "Vidal, L., et al. (1999), Link between the North and South Atlantic during the Heinrich events of the last glacial period, Climate Dynamics, 15, 909-919."
+# "Waelbroeck, C., et al. (2001), The timing of the last deglaciation in North Atlantic climate records, Nature, 412, 724-727."
+# "Waelbroeck, C., et al. (2006), Distant origin of circulation changes in the Indian Ocean during the last deglaciation, Earth and Planetary Science Letters, 243, 244-251."
+# 
+# 	
+#----------------	
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+##depth_cm	depth, , , cm, , , , ,N
+##age_calkaBP	age, , , calendar Kyears before present, , , , ,N
+##d18Ocibic	delta O18 PDB (Cibicides sp.), , , per mil PDB, , , , ,N
+##d13Ccibic	delta C13 PDB (Cibicides sp.), , , per mil PDB, , , , ,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:  
+#
+# d18O corrected +0.64
+
+depth_cm	age_calkaBP	d18Ocibic	d13Ccibic
+1	3.23	3.07	1.13
+10	3.91	2.84	1.13
+20	4.68	2.95	1.08
+30	5.45	3.05	1.15
+40	6.2	3.02	1.18
+50	6.94	3.09	1.05
+62	7.77	2.82	1.04
+70	8.3	3.14	1.06
+80	8.91	3.11	0.50
+80	8.91	2.87	0.73
+80	8.91	2.88	0.73
+90	9.48	3.29	0.99
+91	9.532	3.12	1.12
+100	10	3.14	1.01
+101	10.047	3.15	1.04
+110	10.47	3.20	0.91
+111	10.511	3.08	1.03
+120	10.88	3.21	0.96
+120	10.88	3.17	0.97
+121	10.91129032	3.01	1.00
+125	11.03645161	3.27	0.58
+130	11.19290323	3.02	0.89
+131	11.22419355	2.71	0.87
+135	11.34935484	2.80	1.26
+135	11.34935484	3.19	0.68
+140	11.50580645	3.25	0.56
+141	11.53709677	3.05	1.11
+145	11.66225806	3.11	1.11
+150	11.81870968	3.18	0.93
+150	11.81870968	3.39	0.55
+151	11.85	3.08	0.78
+155	11.94333333	3.20	0.51
+155	11.94333333	3.29	1.06
+160	12.06	3.21	0.90
+160	12.06	3.40	0.57
+170	12.21	2.91	1.27
+180	12.36	3.19	0.34
+185	12.435	3.14	1.05
+190	12.51	3.23	0.88
+195	12.585	3.50	0.67
+200	12.66	3.40	0.44
+210	12.77	3.30	0.26
+220	12.86	3.67	0.44
+230	12.96	3.92	0.96
+231	12.972	3.92	0.38
+235	13.02	3.89	1.01
+240	13.07	3.90	0.47
+245	13.13	3.91	0.43
+250	13.2	4.11	0.43
+255	13.27	3.76	0.76
+265	13.43	3.81	0.90
+270	13.52	3.77	0.91
+275	13.62	3.93	0.68
+275	13.62	3.72	0.98
+280	13.73	3.79	1.03
+285	13.85	3.82	0.97
+290	13.98	3.99	0.89
+291	14.008	3.80	0.76
+295	14.12	3.90	1.03
+301	14.31	3.76	0.66
+301	14.31	3.76	0.99
+305	14.45	4.08	0.57
+310	14.63	3.67	0.72
+312	14.706	3.91	0.87
+315	14.82	4.06	0.71
+320	15.03	3.97	1.08
+321	15.076	3.85	0.69
+325	15.26	3.86	0.84
+330	15.49	3.93	0.81
+331	15.542	4.04	0.60
+331	15.542	3.90	0.57
+335	15.75	3.70	0.90
+340	16.02	3.97	0.70
+341	16.076	4.08	0.59
+345	16.3	3.86	0.32
+345	16.3	4.33	0.12
+350	16.6	4.44	0.53
+350	16.6	4.45	0.21
+351	16.662	4.54	0.32
+355	16.91	4.64	0.25
+360	17.24	4.79	0.55
+361	17.31	4.68	0.52
+365	17.59	4.83	0.59
+370	17.95	5.14	1.15
+375	18.32	5.11	1.12
+380	18.71	5.13	1.13
+381	18.79	5.01	1.10
+385	19.11	5.00	1.12
+390	19.52	5.23	0.92
+391	19.604	4.93	0.85
+395	19.94	5.10	1.08
+400	20.38	5.16	0.88
+401	20.47	5.01	1.00
+410	21.28	5.12	1.15
+415	21.74	4.95	1.08
+420	22.21	5.01	1.03
+425	22.69	4.99	1.23
+430	23.17	5.15	1.10
+435	23.65	4.92	1.01
+440	24.13	4.95	0.88
+440	24.13	4.74	0.81
+445	24.6	4.97	1.16
+445	24.6	4.93	1.01
+451	25.17	4.87	0.66
+451	25.17	4.66	0.87

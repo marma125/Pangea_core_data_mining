@@ -1,0 +1,23 @@
+Site,Sample Label,age_model_depth (m),age_model (y BP),age_model_sigma_plus(y BP),age_model_sigma_minus(y BP),upper_97.5_percent(y BP),lower_97.5_percent(y BP),age_flag,age_model_note,age_model_collection,quality control
+BOFS26_6k,,0.01,2760,6420,170,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.03,4240,7470,1600,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.05,5630,8690,2900,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.07,7150,9740,4310,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.09,8690,10850,5580,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.11,10130,12070,7150,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.13,11420,13020,8460,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.15,12360,13820,10030,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.17,13290,14670,11300,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.19,14240,15580,12650,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.21,15200,16390,13700,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.23,16220,17400,14800,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.25,17410,19000,15930,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.27,18440,20720,16910,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.29,19500,22100,17840,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.31,20610,23640,18700,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.33,21750,25130,19460,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.35,22890,26380,20340,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.37,24190,27730,21270,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.39,25550,29160,22100,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.41,26880,30920,23090,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1
+BOFS26_6k,,0.43,28130,32290,24080,,,4,Age model from Repschlaeger et al. (2021),Automated alignment to Atlantic stacks. Method described in Lee et al. (2019),1

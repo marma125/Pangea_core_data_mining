@@ -1,0 +1,75 @@
+05-01-18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+
+# Description_Notes_and_Keywords
+#        Description: Cores in study with location name and age model basis: RR0503 87TC/JPC Bay of Plenty tephrachronology; RR0503 79JPC Bay of Plenty tephrachronology; RR0503 83TC/JPC Bay of Plenty tephrachronology; H214  Bay of Plenty tephrachronology; RR0503 125JPC Bay of Plenty tephrachronology; RR0503 41JPC Bay of Plenty tephrachronology; RS147-GC07 South Tasman Rise 14C AMS; Z2112  Z2112   14C AMS
+
+# Chronology_Information 
+# Chronology: 
+# Based on radiocarbon dating on tephras
+# --		--		wtd mean	--	wtd mean	depth of bottom of visible ash in core (cm) 	
+# Tephra name	14C years	+/- 1 sigma 14C	Cal yrs BP (Tom)	+/- 1 sigma years	Cal kyrs BP (IntCal 2013)	87 TC	 87 JPC	79JPC	83 TC	83 JPC	125 JPC	core H214 	
+# Tuhua	NaN  NaN	6947	NaN	6.947	96	NaN	31	57	NaN	NaN	NaN	
+# Whakatane	4830	20	5499	60	5.499	NaN  NaN	NaN	NaN	NaN	NaN	NaN	
+# Mamaku	7250	20	8009	70	8.009	NaN  NaN	NaN	72	NaN	81	77.5	
+# Rotoma 	8530	10	9296	220	9.296	111	NaN  46	NaN	NaN	NaN	96.5	
+# Waiohau	12417	279	13998	110	13.998	160	NaN  81	134	26	NaN	156	
+# Rerewhakaaitu	14700	110	17906	147	17.906	NaN  NaN	NaN	NaN	66	163	205.5	
+# Kawakawa	21299	?	25650	40	25.65	NaN  157	330	NaN	164	347	NaN	
+#
+# reference for age calculations: Sikes, E. L., and T. P. Guilderson (2016), Southwest Pacific Ocean surface reservoir ages since the last glaciation: Circulation insights from multiple-core studies, Paleoceanography, 31, 298-310.	NaN  NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+# depth of ashes in cores reference: Shane, P. A., E. L. Sikes, and T. P. Guilderson (2006), Tephra beds in deep-sea cores off northern New Zealand: implications for the history of Taupo Volcanic Zone, Mayor Island, and White Island volcanoes, Journal of Volcanic and Geothermal Research, 154(4), 276-290.	NaN  NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+# RS147-GC07	chronology data is in:Sikes, E. L., W. R. Howard, C. R. Samson, T. S. Mahan, L. G. Robertson, and J. K. Volkman (2009), Southern Ocean seasonal temperature and Subtropical Front movement on the South Tasman Rise in the Late Quaternary, Paleoceanography, 24(PA2201), PA2201, doi:2210.1029/2008PA001659.002009.	NaN  NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	
+
+
+
+
+
+
+BACON output from Jonkers et al. 2020:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: H214
+    Parameter: Age
+    Longitude: 177.439
+    Latitude: -36.9225
+    Water Depth: 2045.0
+    Proxy Category: Age
+    Device: NA
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Basin: Pacific Ocean
+    Filename: H214.age
+    Optional: 
+    bacon_K: 41
+    bacon_d_min: 32.2
+    bacon_d_max: 241.9
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 66.065
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 3.0
+    bacon_t_b: 4.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 4015.68
+    bacon_th0p: 4041.02
+    bacon_burnin: 0
+    bacon_ssize: 2000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(19), Label_Characters(8), Type_Characters(3), Comment_Characters(62), bacon_out_nrow(4011), bacon_out_ncol(44), Bacon Length(209)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters,Length), |S1 Type(Type_Characters,Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters,Length), float32 bacon_data(bacon_out_nrow,bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 95% Quantile(Bacon Length)
+    groups: 

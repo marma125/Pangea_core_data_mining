@@ -1,0 +1,6 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+RAPiD-17-5-P,,7.505,,,,8823,39,39,611.8,53.4,53.4,9180,220,166,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+RAPiD-17-5-P,,8.625,,,,,,,,,,10347,45,45,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+RAPiD-17-5-P,,9.545,,,,,,,,,,12171,57,57,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+RAPiD-17-5-P,,9.9149999619,,,,,,,,,,18000,400,400,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+

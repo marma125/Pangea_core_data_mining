@@ -1,0 +1,15 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD95-2040,,1.525,,,G. bulloides,11000,100,100,598.3,37,37,12271,327,434,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,2.215,,,N. pachyderma,13530,80,80,609.3,47.9,47.9,15450,302,286,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,2.395,,,N. pachyderma,13770,70,70,647.8,51.9,51.9,15740,294,344,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,2.785,,,N. pachyderma,14450,90,90,688.7,50.9,50.9,16637,348,339,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,2.815,,,N. pachyderma,14600,80,80,731.7,51.5,51.5,16791,324,345,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,2.905,,,N. pachyderma,14910,130,130,773.4,51.1,51.1,17196,399,446,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,4.885,,,N. pachyderma,20810,220,220,852.6,64.5,64.5,24009,549,559,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,5.125,,,N. pachyderma,21050,140,140,853.6,53.2,53.2,24270,448,389,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,5.725,,,N. pachyderma,22600,190,190,925.7,64.6,64.6,25943,411,356,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,8.665,,,N. pachyderma,32890,490,490,772.1,80.2,80.2,36084,1416,1111,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://dx.doi.org/10.1016/S0025-3227(03)00046-X
+MD95-2040,,12.6499996185,,,,,,,,,,74500,1520,1520,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+MD95-2040,,15.1700000763,,,,,,,,,,117000,4860,4860,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+MD95-2040,,15.4099998474,,,,,,,,,,130000,3160,3160,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+MD95-2040,,15.7399997711,,,,,,,,,,137000,2520,2520,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

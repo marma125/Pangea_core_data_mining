@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: MD13-3455G
+    Species: Cibicides lobatulus
+    Longitude: -2.515
+    Latitude: 35.439
+    WaterDepth: 319.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: na
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.914701
+    Reference: Fentimen, R., Feenstra, E., R�ggeberg, A., Vennemann, T., Hajdas, I., Adatte, T., van Rooij, D., and Foubert, A.: Cold-Water Coral Mound Archive Provides Unique Insights Into Intermediate Water Mass Dynamics in the Alboran Sea During the Last Deglaciation, Front. Mar. Sci., 7, 243, doi:10.3389/fmars.2020.00354, 2020.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(97), Character(2)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

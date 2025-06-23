@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR197-10-17GGC
+    Species: Cibicidoides spp.
+    Longitude: -48.54
+    Latitude: 36.41
+    WaterDepth: 5010.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: WHOI
+    E-Paper: Keigwin, L. D., and S. A. Swift (2017), Carbon isotope evidence for a northern source of deep water in the glacial western North Atlantic, Proceedings of the National Academy of Sciences, 114(11), 2831-2835, DOI: 10.1073/pnas.1614693114.
+    Comment: NaN
+    DataSource: supplementary tables of the original publication; DOI: 10.1073/pnas.1614693114.
+    Reference: Keigwin, L. D., and S. A. Swift (2017), Carbon isotope evidence for a northern source of deep water in the glacial western North Atlantic, Proceedings of the National Academy of Sciences, 114(11), 2831-2835, DOI: 10.1073/pnas.1614693114.
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschl�ger; Ning Zhao
+    Optional: Number of shells=NaN;min mesh size=150;max mesh size=NaN;OC3 age flag=NaN;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(87), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

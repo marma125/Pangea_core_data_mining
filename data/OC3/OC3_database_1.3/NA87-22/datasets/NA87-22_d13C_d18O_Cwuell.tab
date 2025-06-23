@@ -1,0 +1,64 @@
+/* DATA DESCRIPTION:
+Citation:	Duplessy, Jean-Claude (1997): Stable isotope of sediment core NA87-22. PANGAEA, https://doi.org/10.1594/PANGAEA.54411
+Keyword(s):	GLAMAP
+Related to:	Duplessy, Jean-Claude; Labeyrie, Laurent D; Arnold, Maurice; Paterne, Martine; Duprat, Josette M; van Weering, Tjeerd C E (1992): Changes of surface salinity of the North Atlantic ocean during the last deglaciation. Nature, 358(6386), 485-488, https://doi.org/10.1038/358485a0
+Coverage:	LATITUDE: 55.500000 * LONGITUDE: -14.583333
+	MINIMUM DEPTH, sediment/rock: 0.02000 m * MAXIMUM DEPTH, sediment/rock: 6.40000 m
+Event(s):	NA87-22 * LATITUDE: 55.500000 * LONGITUDE: -14.583333 * ELEVATION: -2161.0 m * LOCATION: North Atlantic * METHOD/DEVICE: Gravity corer (GC)
+Parameter(s):	Event label (Event)
+	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Cibicidoides wuellerstorfi, δ18O [‰ PDB] (C. wuellerstorfi δ18O) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr)
+	Cibicidoides wuellerstorfi, δ13C [‰ PDB] (C. wuellerstorfi δ13C) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	98 data points
+*/
+Event	Depth [m]	C. wuellerstorfi δ18O [‰ PDB]	C. wuellerstorfi δ13C [‰ PDB]
+NA87-22	0.02000	2.470	1.010
+NA87-22	0.10000	2.630	1.090
+NA87-22	0.20000	2.570	1.120
+NA87-22	0.30000	2.410	0.990
+NA87-22	0.50000	2.500	1.010
+NA87-22	0.70000	2.640	1.120
+NA87-22	0.80000	2.690	1.210
+NA87-22	0.90000	2.590	1.150
+NA87-22	1.00000	2.450	0.990
+NA87-22	1.10000	2.600	1.080
+NA87-22	1.30000	2.570	1.140
+NA87-22	1.50000	2.640	1.130
+NA87-22	1.60000	2.630	1.240
+NA87-22	1.70000	2.660	1.010
+NA87-22	1.80000	2.600	1.050
+NA87-22	1.90000	2.700	0.800
+NA87-22	2.00000	2.640	1.110
+NA87-22	2.10000	2.820	0.930
+NA87-22	2.20000	2.790	0.790
+NA87-22	2.60000	2.900	0.870
+NA87-22	2.70000	2.890	0.960
+NA87-22	2.80000	3.230	0.690
+NA87-22	2.90000	3.400	0.860
+NA87-22	3.00000	3.480	0.830
+NA87-22	3.10000	3.570	0.760
+NA87-22	3.20000	3.630	0.830
+NA87-22	3.30000	3.420	0.450
+NA87-22	3.45000	3.790	0.300
+NA87-22	3.55000	3.920	0.300
+NA87-22	3.60000	4.210	0.340
+NA87-22	3.70000	4.450	0.660
+NA87-22	3.80000	4.450	0.730
+NA87-22	3.90000	4.460	0.690
+NA87-22	4.00000	4.440	0.860
+NA87-22	4.10000	4.440	0.930
+NA87-22	4.20000	4.460	0.770
+NA87-22	4.30000	4.360	0.870
+NA87-22	4.40000	4.440	0.940
+NA87-22	4.60000	4.350	1.080
+NA87-22	5.00000	4.330	0.850
+NA87-22	5.10000	4.120	0.810
+NA87-22	5.20000	4.080	0.960
+NA87-22	5.60000	3.950	0.950
+NA87-22	5.80000	3.990	1.050
+NA87-22	5.90000	4.200	1.050
+NA87-22	6.00000	4.030	0.720
+NA87-22	6.10000	3.950	0.890
+NA87-22	6.20000	4.200	0.930
+NA87-22	6.40000	3.970	0.970

@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS2082-1
+    Species: Cibicidoides spp.
+    Longitude: 11.738
+    Latitude: -43.22
+    WaterDepth: 4610.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: AWI
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.50113
+    Reference: Andreas Mackensen, Hannes Grobe, Hans-Wolfgang Hubberten, and Gerhard Kuhn: Benthic foraminiferal assemblages and the d13C-signal in the Atlantic sector of the Southern Ocean: Glacial-to-interglacial contrasts, Carbon cycling in the glacial ocean: Constraints on the ocean_s role in global change (R. Zahn, M. Kaminski, L. Labeyrie, T. Pedersen, eds. ) NATO ASI series, Springer, Berlin, I 17, 105-144, 1994.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(134), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

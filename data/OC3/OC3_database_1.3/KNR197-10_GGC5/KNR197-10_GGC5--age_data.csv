@@ -1,0 +1,8 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+KNR197-10_GGC5,,0.005,,,,2480,20,20,339,57,57,2148,166,158,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished
+KNR197-10_GGC5,,0.165,,,,4200,20,20,358,52,52,4263,153,170,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished
+KNR197-10_GGC5,,0.405,,,,10150,35,35,324,52,52,11247,148,108,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished
+KNR197-10_GGC5,,0.675,,,,11700,40,40,525,38,38,13041,108,160,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished
+KNR197-10_GGC5,,0.765,,,,11750,45,45,525,38,38,13096,129,114,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished
+KNR197-10_GGC5,,0.885,,,,13800,55,55,569,45,45,15905,232,228,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished
+KNR197-10_GGC5,,1.125,,,,16450,70,70,663,43,43,19044,228,199,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,N. Zhao unpublished

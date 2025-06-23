@@ -1,0 +1,77 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+BACON meta data (Francesco Muschitiello):
+
+K	6
+d_min	4
+d_max	36
+d.by	1
+acc.shape	1.5
+acc.mean	832.75
+mem.strength	4
+mem.mean	0.7
+cc	1
+cc1	IntCal13
+cc2	Marine13
+cc3	SHCal13
+cc4	ConstCal
+postbomb	0
+t_a	3
+t_b	4
+normal	0
+suggest	1
+th0	9347.84
+th0p	9360.51
+burnin	0
+ssize	2000
+yr_min	-1000
+yr_max	100000
+
+
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB12616-4
+    Parameter: Age
+    Longitude: 40.394
+    Latitude: -6.979
+    Water Depth: 1449.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: Table in thesis
+    Reference: Romahn, S.: Western Indian Ocean circulation and climate variability on different time scales: A study based on stable oxygen and carbon isotopes, benthic foraminiferal assemblages and Mg/Ca paleothermometry, Bremen, Univ., Diss., 2014, 153 pp., 2014.
+    Use Flag: 0
+    Importer: Stefan Mulitza
+    Filename: GeoB12616-4.age
+    Optional: na
+    bacon_K: 70
+    bacon_d_min: 2.0
+    bacon_d_max: 142.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 1048.22
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 8102.31
+    bacon_th0p: 9563.59
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1300.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(15), Label_Characters(8), Type_Characters(3), Comment_Characters(85), bacon_out_nrow(1000), bacon_out_ncol(73), Bacon Length(140)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

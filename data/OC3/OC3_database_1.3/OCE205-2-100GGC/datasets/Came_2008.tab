@@ -1,0 +1,54 @@
+/* DATA DESCRIPTION:
+Citation:	Came, Rosemarie E; Oppo, Delia W; Curry, William B; Lynch-Stieglitz, Jean (2014): (Table 1) Age determination of sediment cores OCE205-2-100GGGC and KNR166-2-31. PANGAEA, https://doi.org/10.1594/PANGAEA.832435, 
+	Supplement to: Came, RE et al. (2008): Deglacial variability in the surface return flow of the Atlantic meridional overturning circulation. Paleoceanography, 23(1), PA1217, https://doi.org/10.1029/2007PA001450
+Abstract:	Benthic foraminiferal Cd/Ca from a Florida Current sediment core documents the history of the northward penetration of southern source waters within the surface return flow of the Atlantic meridional overturning circulation (AMOC). Cd seawater estimates (CdW) indicate that intermediate-depth southern source waters crossed the equator and contributed to the Florida Current during the Bølling-Allerød warm period of the last deglaciation, consistent with evidence of only a modest AMOC reduction compared to today. The CdW estimates also provide the first paleoceanographic evidence of a reduction in the influence of intermediate-depth southern source waters within the Florida Current during the Younger Dryas, a deglacial cold event characterized by a weak North Atlantic AMOC. Our results reveal a close correspondence between the northward penetration of intermediate-depth southern source waters and the influence of North Atlantic Deep Water, suggesting a possible link between intermediate-depth southern source waters and the strength of the Atlantic AMOC.
+Further details:	Hughen, Konrad A; Southon, John R; Lehmann, Scott J; Bertrand, Chanda J H; Turnbull, J (2006): Marine-derived 14C calibration and activity record for the past 50,000 years updated from the Cariaco Basin. Quaternary Science Reviews, 25(23-24), 3216-3227, https://doi.org/10.1016/j.quascirev.2006.03.014
+	Stuiver, Minze; Reimer, Paula J (1993): Extended 14C data base and revised CALIB 3.0 14C age calibration program. Radiocarbon, 35(1), 215-230, https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1561
+Project(s):	Integrated Ocean Drilling Program / International Ocean Discovery Program (IODP) (URI: http://www.iodp.org/)
+Coverage:	MEDIAN LATITUDE: 25.143170 * MEDIAN LONGITUDE: -80.664580 * SOUTH-BOUND LATITUDE: 24.219670 * WEST-BOUND LONGITUDE: -83.295830 * NORTH-BOUND LATITUDE: 26.066670 * EAST-BOUND LONGITUDE: -78.033330
+	DATE/TIME START: 2002-01-11T00:00:00 * DATE/TIME END: 2002-01-11T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.005 m * MAXIMUM DEPTH, sediment/rock: 1.600 m
+Event(s):	KNR166-2-31 (KNR166-2-31JPC) (URI: http://www.ngdc.noaa.gov/geosamples/cruise.jsp?cru=KN166-02&shp=Knorr) * LATITUDE: 24.219670 * LONGITUDE: -83.295830 * DATE/TIME: 2002-01-11T00:00:00 * ELEVATION: -751.0 m * Recovery: 7.51 m * LOCATION: Florida Strait * CAMPAIGN: KNR166-2 (KN166-2) (URI: https://doi.org/10.7284/900174) * BASIS: Knorr * METHOD/DEVICE: Piston corer (PC)
+	OCE205-2-100GGC (OCE205-2-100GGGC) * LATITUDE: 26.066670 * LONGITUDE: -78.033330 * ELEVATION: -1057.0 m * LOCATION: North Atlantic * METHOD/DEVICE: Gravity corer (GC) * COMMENT: R/V Oceanus cruise 205-2
+Comment:	Accelerator mass spectrometer (AMS) radiocarbon dates were converted to calendar age using the online calibration program Calib 5.02 (Stuiver and Reimer, 1993), the Marine04 calibration data set (Hughen et al., 2004), and a reservoir correction of 400 years.
+Parameter(s):	Event label (Event)
+	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Age, dated material (Dated material) * PI: Came, Rosemarie E
+	Laboratory code/label (Lab label) * PI: Came, Rosemarie E * COMMENT: NOSAMS is National Ocean Sciences Accelerator Mass Spectrometer Facility
+	Age, dated [ka] (Age dated) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+	Age, dated standard deviation [±] (Age dated std dev) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+	Calendar age, minimum/young [ka BP] (Cal age min) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C calibrated * COMMENT: 1 sigma
+	Calendar age, maximum/old [ka BP] (Cal age max) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C calibrated * COMMENT: 1 sigma
+	Calendar age [ka BP] (Cal age) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C calibrated
+	Calendar age, minimum/young [ka BP] (Cal age min) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C calibrated * COMMENT: 2 sigma
+	Calendar age, maximum/old [ka BP] (Cal age max) * PI: Came, Rosemarie E * METHOD/DEVICE: Age, 14C calibrated * COMMENT: 2 sigma
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	209 data points
+*/
+Event	Depth [m]	Dated material	Lab label (NOSAMS is National Ocean Scie...)	Age dated [ka] (Age, 14C AMS)	Age dated std dev [±] (Age, 14C AMS)	Cal age min [ka BP] (1 sigma, Age, 14C calibrated)	Cal age max [ka BP] (1 sigma, Age, 14C calibrated)	Cal age [ka BP] (Age, 14C calibrated)	Cal age min [ka BP] (2 sigma, Age, 14C calibrated)	Cal age max [ka BP] (2 sigma, Age, 14C calibrated)
+OCE205-2-100GGC	0.070	Globigerinoides sacculifer	OS-181	1.04	0.030	0.567	0.581	0.613	0.544	0.663
+OCE205-2-100GGC	0.070					0.594	0.648			
+OCE205-2-100GGC	0.170	Globigerinoides sacculifer	OS-27756	2.25	0.040	1.807	1.911	1.856	1.737	1.964
+OCE205-2-100GGC	0.310	Globigerinoides sacculifer	OS-27757	3.15	0.040	2.864	2.993	2.936	2.810	3.070
+OCE205-2-100GGC	0.630	Globigerinoides sacculifer	OS-27758	5.15	0.045	5.472	5.566	5.515	5.402	5.611
+OCE205-2-100GGC	0.730	Globigerinoides sacculifer	OS-27759	5.77	0.040	6.165	6.257	6.200	6.085	6.285
+OCE205-2-100GGC	0.800	Globigerinoides sacculifer	OS-27834	6.85	0.045	7.323	7.413	7.368	7.268	7.450
+OCE205-2-100GGC	0.800	Globigerinoides sacculifer	OS-180	6.47	0.055	6.884	7.049	6.970	6.824	7.140
+OCE205-2-100GGC	0.920	Globigerinoides sacculifer	OS-27835	8.44	0.085	8.959	9.197	9.059	8.775	9.294
+OCE205-2-100GGC	1.000	Globigerinoides sacculifer	OS-178	8.87	0.055	9.464	9.574	9.525	9.427	9.668
+OCE205-2-100GGC	1.090	Globigerinoides sacculifer	OS-27836	10.40	0.055	11.294	11.433	11.468	11.243	11.707
+OCE205-2-100GGC	1.090					11.478	11.624			
+OCE205-2-100GGC	1.160	Globigerinoides sacculifer	OS-27837	11.75	0.110	13.118	13.303	13.218	13.020	13.415
+OCE205-2-100GGC	1.200	Globigerinoides sacculifer	OS-176	12.00	0.045	13.347	13.483	13.427	13.310	13.586
+OCE205-2-100GGC	1.600	Globigerinoides sacculifer	OS-174	23.80	0.110			27.800		
+KNR166-2-31	0.005	Globigerinoides sacculifer	OS-39424	1.64	0.040	1.166	1.254	1.204	1.100	1.283
+KNR166-2-31	0.280	Globigerinoides sacculifer	OS-50184	4.38	0.045	4.437	4.582	4.526	4.401	4.690
+KNR166-2-31	0.640	Globigerinoides sacculifer	OS-42460	7.31	0.050	7.708	7.831	7.773	7.663	7.899
+KNR166-2-31	0.720	Globigerinoides sacculifer	OS-52098	9.11	0.050	10.209	10.296	10.264	10.195	10.407
+KNR166-2-31	0.860	Globigerinoides sacculifer	OS-55948	10.40	0.055	11.294	11.433	11.468	11.243	11.707
+KNR166-2-31	0.960	Globigerinoides sacculifer	OS-50345	11.00	0.055	12.408	12.445	12.655	12.380	12.526
+KNR166-2-31	1.120	Globigerinoides sacculifer	OS-42461	12.05	0.075	13.401	13.598	13.500	13.322	13.684
+KNR166-2-31	1.280	Globigerinoides sacculifer	OS-55931	11.80	0.050	13.213	13.302	13.259	13.159	13.363
+KNR166-2-31	1.500	Globigerinoides sacculifer and G. ruber	OS-55949	13.75	0.080	15.626	16.032	15.842	15.440	16.267
+KNR166-2-31	1.600	Globigerinoides ruber	OS-42462	16.65	0.160	19.198	19.537	19.397	19.048	19.612
+KNR166-2-31	1.600								19.656	19.806

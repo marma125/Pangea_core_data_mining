@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: ODP-172-1059
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -75.419
+    Latitude: 31.674
+    WaterDepth: 2985.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: IODP
+    Record Type: sb
+    Laboratory: University of Bergen
+    E-Paper: Hagen, S., and L. D. Keigwin (2002), Sea-surface temperature variability and deep water reorganisation in the subtropical North Atlantic during Isotope Stage 2-4, Marine Geology, 189(1-2), 145-162, 10.1016/s0025-3227(02)00327-4.
+    Comment: NaN
+    DataSource: Hagen, S., and L. D. Keigwin (2017), Stable isotope record of foraminifera from ODP Site 172--172-1059. https://doi.pangaea.de/10.1594/PANGAEA.881629
+    Reference: Hagen, S., and L. D. Keigwin (2002), Sea-surface temperature variability and deep water reorganisation in the subtropical North Atlantic during Isotope Stage 2-4, Marine Geology, 189(1-2), 145-162, 10.1016/s0025-3227(02)00327-4.
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: Number of shells=2 to 5;Mesh size min=150;Mesh size max=NaN;OC3 age flag=3,5;age type=14C AMS,manual alignment, bacon, pdv
+    dimensions(sizes): Length(44), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

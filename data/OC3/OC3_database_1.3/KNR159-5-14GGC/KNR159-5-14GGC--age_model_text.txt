@@ -1,0 +1,46 @@
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: KNR159-5-14GGC
+    Parameter: Age
+    Longitude: -46.5
+    Latitude: -26.68
+    Water Depth: 441.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: NOAA, http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/
+    Reference: Lund, D. C., Tessin, A. C., Hoffman, J. L., and Schmittner, A.: Southwest Atlantic water mass evolution during the last deglaciation, Paleoceanography, 30, 477-494, doi:10.1002/2014PA002657, 2015.
+    Use Flag: 0
+    Importer: na
+    Filename: KNR159-5-14GGC.age
+    Optional: na
+    bacon_K: 39
+    bacon_d_min: 3.0
+    bacon_d_max: 200.5
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 109.409
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1642.38
+    bacon_th0p: 1603.22
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(11), Label_Characters(14), Type_Characters(3), Comment_Characters(71), bacon_out_nrow(1000), bacon_out_ncol(42), Bacon Length(197)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW0408-26JC,,0.01,,,,12295,30,30,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,0.455,,,,12855,40,40,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,1.51,,,,13195,30,30,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,1.805,,,,13230,45,45,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,2.905,,,,13840,40,40,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,4.805,,,,15165,40,40,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,5,,,,15235,35,35,,,,,,,,,,,,,10.1126/science.1252000
+EW0408-26JC,,8.91,,,,15705,35,35,,,,,,,,,,,,,10.1126/science.1252000

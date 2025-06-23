@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SCS90-36
+    Species: Cibicidoides wuellerstorfi
+    Longitude: 111.494
+    Latitude: 17.995
+    WaterDepth: 2050.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.738491
+    Reference: Huang, C.-Y., Wu, S.-F., Zhao, M., Chen, M.-T., Wang, C.-H., Tu, X., and Yuan, P. B.: Surface ocean and monsoon climate variability in the South China Sea since the last glaciation, Marine Micropaleontology, 32, 71-94, doi:10.1016/S0377-8398(97)00014-5, 1997.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(26), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

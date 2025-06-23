@@ -1,0 +1,92 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS1243-1
+    Parameter: Age
+    Longitude: -6.553
+    Latitude: 69.372
+    Water Depth: 2177.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: PS1243-1.age
+    Optional: 
+    bacon_K: 50
+    bacon_d_min: 1.5
+    bacon_d_max: 82.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 309.876
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 9.0
+    bacon_t_b: 10.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1666.28
+    bacon_th0p: 1664.88
+    bacon_burnin: 0
+    bacon_ssize: 10000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(16), Label_Characters(9), Type_Characters(5), Comment_Characters(26), bacon_out_nrow(4486), bacon_out_ncol(53), Bacon Length(80)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS1243-1
+    Parameter: Age
+    Longitude: -6.553
+    Latitude: 69.372
+    Water Depth: 2711.0
+    Proxy Category: Age
+    Device: Gravity corer (Kiel type) (SL)
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: Repschlager (pers. comm.), depth of Vedde ash mentioned in paper
+    Reference: Bauch, H.: A multiproxy reconstruction of the evolution of deep and surface waters in the subarctic Nordic seas over the last 30,000yr, Quaternary Science Reviews, 20, 659-678, doi:10.1016/S0277-3791(00)00098-6, 2001.
+    Use Flag: 0
+    Importer: na
+    Filename: PS1243-1.age
+    Optional: na
+    bacon_K: 27
+    bacon_d_min: 1.5
+    bacon_d_max: 82.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 312.497
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1634.22
+    bacon_th0p: 1672.26
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(15), Label_Characters(9), Type_Characters(3), Comment_Characters(110), bacon_out_nrow(1000), bacon_out_ncol(30), Bacon Length(80)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

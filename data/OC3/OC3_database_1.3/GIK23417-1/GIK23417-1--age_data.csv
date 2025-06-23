@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK,,0.325,,,,9100,,,,,,9800,,,,,,deduced from C14 analog age of 9.10 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,0.55,,,,10400,,,,,,12400,,,,,,deduced from C14 analog age of 10.40 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,0.9,,,,13600,,,,,,17100,,,,,,deduced from C14 analog age of 13.60 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,0.975,,,,14800,,,,,,18300,,,,,,deduced from C14 analog age of 14.80 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,1.75,,,,26000,,,,,,29500,,,,,,deduced from C14 analog age of 26.00 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,4.4,,,,,,,,,,55450,,,,,,d18O;event 3.3; after Martinson et al. (1987),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,4.625,,,,,,,,,,65220,,,,,,d18O;event 4.22; after Martinson et al. (1987),,,https://doi.pangaea.de/10.1594/PANGAEA.186501
+,,5.625,,,,,,,,,,79250,,,,,,d18O;event 5.1; after Martinson et al. (1987),,,https://doi.pangaea.de/10.1594/PANGAEA.186501

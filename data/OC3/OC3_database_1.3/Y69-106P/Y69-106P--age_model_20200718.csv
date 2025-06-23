@@ -1,0 +1,14 @@
+Site,Sample Label,age_model_depth (m),age_model (y BP),age_model_sigma_plus(y BP),age_model_sigma_minus(y BP),upper_95_percent(y BP),lower_95_percent(y BP),age_flag,age_model_note,age_model_collection,quality control
+Y69-106P,,0.0,0.0,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.05,5500.0,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.1,11000.0,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.15,12666.6666667,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.2,14333.3333333,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.25,16000.0,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.3,17666.6666667,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.4,21000.0,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.45,22666.6666667,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.5,24333.3333333,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.55,26000.0,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.6,27666.6666667,,,,,4,Age model calculated by Alan Mix,d18O aligment,1
+Y69-106P,,0.65,29333.3333333,,,,,4,Age model calculated by Alan Mix,d18O aligment,1

@@ -1,0 +1,12 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK17051,,0.3,,,G. bulloides,3430.0000667572,59.9999986589,59.9999986589,556.4,50.5,50.5,2996,78,107,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,0.5,,,G. bulloides,4860,80,80,573.9,51.4,51.4,4855,104,31,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,0.9,,,G. bulloides,6690,90,90,664.4,50.5,50.5,6867,89,109,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,1.5,,,G. bulloides,11260,150,150,919.2,222.2,222.2,12191,334,365,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,1.5,,,N. pachyderma sinistral,9980,130,130,530.6,124.2,124.2,10719,349,199,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,1.8,,,G. bulloides,12690,140,140,889.4,226.5,226.5,13623,154,170,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,1.8,,,N. pachyderma sinistral,12930,170,170,856.7,226.1,226.1,13932,233,196,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,2.1,,,N. pachyderma sinistral,18300,350,350,1088.9,222.1,222.1,20769,390,354,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,10.2312/reports-ifg.2001.13
+GIK17051,,4.375,,,,,,,,,,71000,1639.9993896484,1639.9993896484,IntCal13,,,,,,10.2312/reports-ifg.2001.13
+GIK17051,,5.15,,,,,,,,,,86500,1940.0024414063,1940.0024414063,IntCal13,,,,,,10.2312/reports-ifg.2001.13
+GIK17051,,6.25,,,,,,,,,,96500,3300.0030517578,3300.0030517578,IntCal13,,,,,,10.2312/reports-ifg.2001.13

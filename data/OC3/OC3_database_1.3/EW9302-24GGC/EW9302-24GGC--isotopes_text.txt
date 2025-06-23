@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: EW9302-24GGC
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -21.67
+    Latitude: 62.0
+    WaterDepth: 1629.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Nan
+    E-Paper: http://onlinelibrary.wiley.com/doi/10.1002/2014PA002667/full
+    Comment: NaN
+    DataSource: NOAA
+    Reference: Oppo, D.W., W.B. Curry, and J.F. McManus. 2015. What do benthic d13C and d18O data tell us about Atlantic circulation during Heinrich Stadial 1?. Paleoceanography, 30. doi: 10.1002/2014PA002667
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschlaeger
+    Optional: Number of shells=NaN;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3,4;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(52), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

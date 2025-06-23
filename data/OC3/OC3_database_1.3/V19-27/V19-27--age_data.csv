@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+V19-27,,0,,OS-33390,N. dutertrei,1340,25,25,784.9,51.8,51.8,581,72,70,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.841354
+V19-27,,0.49,,OS-33391,N. dutertrei,5710,30,30,687.8,50.5,50.5,5779,129,134,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.841354
+V19-27,,0.9,,OS-33422,N. dutertrei,14200,65,65,826.2,44.8,44.8,16085,234,257,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.841354
+V19-27,,1.5,,OS-33423,N. dutertrei,26300,140,140,1108.4,53.8,53.8,29231,381,383,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://doi.pangaea.de/10.1594/PANGAEA.841354
+V19-27,,2.1600000858,,,,,,,,,,68500,3340,3340,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V19-27,,2.4700000286,,,,,,,,,,88000,2680,2680,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V19-27,,2.6500000954,,,,,,,,,,109000,2600,2600,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V19-27,,3.0099999905,,,,,,,,,,122000,5560,5560,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+V19-27,,3.2100000381,,,,,,,,,,132500,4300,4300,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

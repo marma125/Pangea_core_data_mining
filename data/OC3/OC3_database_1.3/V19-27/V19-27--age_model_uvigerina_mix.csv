@@ -1,0 +1,8 @@
+Site,Sample Label,age_model_depth (m),age_model (y BP),age_model_sigma_plus(y BP),age_model_sigma_minus(y BP),upper_95_percent(y BP),lower_95_percent(y BP),age_flag,age_model_note,age_model_collection,quality control
+V19-27,,0.085,1280.8219178,,,,,4,Age model calculated by Alan Mix,,1
+V19-27,,0.205,3089.0410959,,,,,4,Age model calculated by Alan Mix,,1
+V19-27,,0.405,6102.739726,,,,,4,Age model calculated by Alan Mix,,1
+V19-27,,0.795,13321.4285714,,,,,4,Age model calculated by Alan Mix,,1
+V19-27,,1.015,21178.5714286,,,,,4,Age model calculated by Alan Mix,,1
+V19-27,,1.205,27964.2857143,,,,,4,Age model calculated by Alan Mix,,1
+V19-27,,1.395,34750,,,,,4,Age model calculated by Alan Mix,,1

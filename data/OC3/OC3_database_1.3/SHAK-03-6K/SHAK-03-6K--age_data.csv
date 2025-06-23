@@ -1,0 +1,12 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+SHAK-03-6K,,0.99,,,Globigerina bulloides,10592,150,150,494,177,177,11690,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,1.15,,,Globigerina bulloides,11547,150,150,563,277,277,12840,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,1.25,,,Globigerina bulloides,12234,150,150,307,235,235,13750,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,1.325,,,Globigerina bulloides,12744,150,150,278,168,168,14649,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,1.61,,,Globigerina bulloides,14008,150,150,981,200,200,15600,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,1.865,,,Globigerina bulloides,14713,150,150,414,219,219,17420,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,2.225,,,Globigerina bulloides,17313,150,150,509,230,230,20262,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,2.43,,,Globigerina bulloides,18496,150,150,517,228,228,21783,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,2.6,,,Globigerina bulloides,20065,150,150,636,232,232,23410,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,2.645,,,Globigerina bulloides,20601,150,150,368,246,246,24298,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+SHAK-03-6K,,2.73,,,Globigerina bulloides,21613,150,150,215,296,296,25725,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638

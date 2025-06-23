@@ -1,0 +1,28 @@
+/* DATA DESCRIPTION:
+Citation:	Sarnthein, Michael; Duplessy, Jean-Claude (2004): Age model of sediment core NA87-22. PANGAEA, https://doi.org/10.1594/PANGAEA.134590
+Related to:	Sarnthein, Michael; Winn, Kyaw; Jung, Simon J A; Duplessy, Jean-Claude; Labeyrie, Laurent D; Erlenkeuser, Helmut; Ganssen, Gerald M (1994): Changes in east Atlantic deepwater circulation over the last 30,000 years: Eight time slice reconstructions. Paleoceanography, 9(2), 209-267, https://doi.org/10.1029/93PA03301
+Project(s):	Institute for Geosciences, Christian Albrechts University, Kiel (GIK/IfG) (URI: http://www.ifg.uni-kiel.de/)
+Coverage:	LATITUDE: 55.500000 * LONGITUDE: -14.583333
+	MINIMUM DEPTH, sediment/rock: 0.00 m * MAXIMUM DEPTH, sediment/rock: 6.40 m
+Event(s):	NA87-22 * LATITUDE: 55.500000 * LONGITUDE: -14.583333 * ELEVATION: -2161.0 m * LOCATION: North Atlantic * METHOD/DEVICE: Gravity corer (GC)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Age model [ka] (Age model) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr)
+	Age, comment (Comm) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	27 data points
+*/
+Depth [m]	Age model [ka]	Comm
+0.00	0.00	assumption of no sediment loss
+0.95	3.33	deduced from mesured C14 age of 3.12 ka; after Bard et al. (1990)
+2.00	8.63	deduced from mesured C14 age of 7.88 ka; after Bard et al. (1990)
+2.50	10.82	deduced from mesured C14 age of 9.61 ka; after Bard et al. (1990)
+2.70	12.47	deduced from mesured C14 age of 10.47 ka; after Bard et al. (1990)
+2.85	12.92	deduced from mesured C14 age of 10.92 ka; after Bard et al. (1990)
+3.05	13.29	deduced from mesured C14 age of 11.29 ka; after Bard et al. (1990)
+3.25	13.98	deduced from mesured C14 age of 11.98 ka; after Bard et al. (1990)
+3.55	18.76	deduced from mesured C14 age of 15.26 ka; after Bard et al. (1990)
+3.80	19.80	deduced from mesured C14 age of 16.30 ka; after Bard et al. (1990)
+4.00	20.69	deduced from mesured C14 age of 17.19 ka; after Bard et al. (1990)
+4.40	22.41	deduced from mesured C14 age of 18.91 ka; after Bard et al. (1990)
+5.10	29.50	deduced from C14 analog age of 26.00 ka; after Bard et al. (1990)
+6.40	42.67	

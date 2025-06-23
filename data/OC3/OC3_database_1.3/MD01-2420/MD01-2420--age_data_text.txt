@@ -1,0 +1,35 @@
+05-01-18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+December 12 2018
+
+Table 2/ Age control points of MD01-2420 core.				
+Control points	Depth	Calendar age	-1σ	+1σ
+	(cm)	(yr B.P.)		
+Correlation with nearby MD01-2421	0.0	1127		
+14C of G. inflata	71.3	2655	282	217
+14C of G. inflata	235.8	8244	237	184
+14C of G. inflata	300.4	10271	250	289
+14C of G. inflata	341.6	11875	436	349
+14C of G. bulloides	356.2	12511	271	250
+14C of G. bulloides & G. inflata	373.1	13042	146	146
+14C of G. inflata	384.1	13523	211	207
+14C of G. bulloides & G. inflata	391.4	13999	578	578
+14C of G. bulloides & G. inflata	405.9	15175	332	332
+14C of G. bulloides & G. inflata	420.4	15511	238	238
+14C of G. bulloides & G. inflata	432.5	16103	219	219
+14C of G. bulloides & G. inflata	452.9	17274	207	207
+14C of G. bulloides & G. inflata	491.7	19228	179	179
+14C of G. bulloides & G. inflata	505.4	19908	187	187
+14C of G. inflata	601.1	22949	307	245
+AT tephra	845.0	30009	189	189
+				
+*1 Radiocarbon age calibration: Marine13, Calib 7.0, ΔR=100±200 yr				
+*2 AT tephra age by Smith et al. (2013, QSR 67, 121-137)				
+
+
+14C age data was published by Sagawa et al. (2006) and Okazaki et al. (2012)
+
+References
+Sagawa, T., K. Toyoda, and T. Oba, Sea surface temperature record off central Japan since the Last Glacial Maximum using planktonic foraminiferal Mg/Ca thermometry, Journal of Quaternary Science, 21, 63-73, 2006.
+Okazaki, Y., T. Sagawa, H. Asahi, K. Horikawa and J. Onodera, Ventilation changes in the western North Pacific since the last glacial period, Climate of the Past 8, 17-24, 2012.
+

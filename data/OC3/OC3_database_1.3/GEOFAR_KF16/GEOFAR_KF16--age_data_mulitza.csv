@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GEOFAR_KF16,,0.075,,,,2015.0000000000002,30.0,30.0,387.0,50.2,50.2,1502.0,189.0,119.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,0.235,,,,3660.0,35.0,35.0,381.0,50.7,50.7,3505.0,176.0,125.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,0.3975,,,,5455.0,35.0,35.0,422.0,53.1,53.1,5777.0,132.0,173.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,0.69,,,,8715.0,40.0,40.0,444.0,50.6,50.6,9254.0,183.0,226.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,0.87,,,,9765.0,45.0,45.0,361.0,53.6,53.6,10648.0,419.0,235.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,1.0575,,,,10075.0,50.0,50.0,459.0,56.099999999999994,56.099999999999994,10965.0,227.0,232.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,1.36,,,,9835.0,55.0,55.0,490.0,53.5,53.5,10542.0,208.0,255.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GEOFAR_KF16,,1.56,,,,10290.0,55.0,55.0,534.0,53.699999999999996,53.699999999999996,11129.0,257.0,337.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

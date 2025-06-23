@@ -1,0 +1,7 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD09-3256,,0.3119048,,,Globigerina ruber,10554,100,100,324,145,145,11961,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+MD09-3256,,0.36,,,Globigerina ruber,11162,100,100,535,226,226,12599,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+MD09-3256,,0.415,,,Globigerina ruber,12691,100,100,438,170,170,14148,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+MD09-3256,,0.4271429,,,Globigerina ruber,12987,100,100,485,133,133,14757,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+MD09-3256,,0.6109912,,,Globigerina ruber,16096,100,100,1171,207,207,18129,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638
+MD09-3256,,0.68,,,Globigerina ruber,18544,100,100,1010,181,181,21170,200,200,,,,,,,https://doi.pangaea.de/10.1594/PANGAEA.925638

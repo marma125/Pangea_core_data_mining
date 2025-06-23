@@ -1,0 +1,11 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+KNR159-5-20JPC,,0.055,,,,2935,20,20,,,,2670,254,254,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,0.105,,,,4155,25,25,,,,4224,273,273,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,0.255,,,,7515,25,25,,,,7974,205,205,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,0.355,,,,10640,25,25,,,,12005,385,385,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,0.805,,,,10840,320,320,,,,12171,518,518,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,1.155,,,,12780,170,170,,,,14520,440,440,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,1.205,,,,14340,250,250,,,,16891,458,458,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,1.355,,,,16270,370,370,,,,19175,471,471,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,1.705,,,,17270,80,80,,,,20335,262,262,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt
+KNR159-5-20JPC,,1.74,,,,17740,160,160,,,,20933,343,343,,,,,,,https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lund2015/lund2015jpc20.txt

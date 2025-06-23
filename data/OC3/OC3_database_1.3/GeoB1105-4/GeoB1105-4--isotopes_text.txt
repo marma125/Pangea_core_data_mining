@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB1105-4
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -12.428
+    Latitude: -1.665
+    WaterDepth: 3225.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: NaN
+    Reference: Bickert, T., Mackensen, A. (2004) Last Glacial to Holocene changes in South Atlantic deep water circulation. In: Wefer, G., Mulitza, S., Rathmeyer, V. (eds), The South Atlantic during the Late Quaternary. Springer, Berlin, pp. 671-695.
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: Number of shells=2 to 5;min mesh size=250;max mesh size=NaN;OC3 age flag=3;age type=14C AMS, bacon, pdv
+    dimensions(sizes): Length(296), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

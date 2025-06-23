@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK11944-1
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -8.061
+    Latitude: 35.651
+    WaterDepth: 1765.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Sphincter corer (SPC)
+    Record Type: sb
+    Laboratory: CARBO KIEL Mass Spectrometer Finnigan MAT 251, C-14 Laboratory, Christian-Albrechts-University, Kiel, Germany
+    E-Paper: Weinelt, Mara (1993): Veraenderungen der Oberflaechenzirkulation im Europaeischen Nordmeer waehrend der letzten 60.000 Jahre - Hinweise aus stabilen Isotopen. Berichte aus dem Sonderforschungsbereich 313, Christian-Albrechts-Universitaet, Kiel, 41, 106 pp, https://doi.org/10.2312/reports-sfb313.1993.41
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.97104
+    Reference: Weinelt, Mara; Sarnthein, Michael (2003): Stable isotope analysis on sediment core GIK11944-2. PANGAEA, https://doi.org/10.1594/PANGAEA.97104
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Janne Repschlaeger
+    Optional: number of specimens=NaN;mesh size min=NaN;mesh size max=NaN;age flag=4;age model type=automated alignment to Atlantic stacks, method described in Lee et al. (2019)
+    dimensions(sizes): Length(108), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

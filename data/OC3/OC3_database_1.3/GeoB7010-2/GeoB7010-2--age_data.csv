@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GeoB7010-2,,0.0500000007,,,G. sacculifer,,,,,,,2500,740,740,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+GeoB7010-2,Poz-46048,0.4199999869,,,G. sacculifer,6570.0001716614,39.9999991059,39.9999991059,443,50.3,50.3,7018,215,219,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,
+GeoB7010-2,Poz-46047,0.8600000143,,,G. sacculifer,10850.0003814697,59.9999986589,59.9999986589,516,51.7,51.7,12182,394,351,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,
+GeoB7010-2,Poz-46046,1.2599999905,,,G. sacculifer,15020.0004577637,79.9999982119,79.9999982119,704,62.8,62.8,17451,356,348,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,
+GeoB7010-2,Poz-46045,1.3400000334,,,G. sacculifer,16229.9995422363,100.0000014901,100.0000014901,777,47,47,18735,215,412,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,
+GeoB7010-2,Poz-46044,1.8999999762,,,G. sacculifer,24329.9999237061,209.9999934435,209.9999934435,845,56.6,56.6,27626,418,354,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,
+GeoB7010-2,Poz-46043,2.5,,,G. sacculifer,32319.9996948242,519.9999809265,519.9999809265,800,74.1,74.1,35887,1082,1098,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,
+GeoB7010-2,Poz-46042,3.4500000477,,,G. sacculifer,43500,2000,2000,797,134.5,134.5,46057,4980,3239,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,www.clim-past.net/10/843/2014/,

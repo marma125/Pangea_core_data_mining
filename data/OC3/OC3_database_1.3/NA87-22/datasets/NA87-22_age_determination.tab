@@ -1,0 +1,24 @@
+/* DATA DESCRIPTION:
+Citation:	Bard, Edouard; Duplessy, Jean-Claude; Sarnthein, Michael (2006): Age determination of sediment core NA87-22. PANGAEA, https://doi.org/10.1594/PANGAEA.407090
+Coverage:	LATITUDE: 55.500000 * LONGITUDE: -14.583333
+	MINIMUM DEPTH, sediment/rock: 0.95 m * MAXIMUM DEPTH, sediment/rock: 4.40 m
+Event(s):	NA87-22 * LATITUDE: 55.500000 * LONGITUDE: -14.583333 * ELEVATION: -2161.0 m * LOCATION: North Atlantic * METHOD/DEVICE: Gravity corer (GC)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth) * GEOCODE
+	Age, dated [ka] (Age dated) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+	Age, dated standard deviation [±] (Age dated std dev) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+	Age, dated material (Dated material) * PI: Duplessy, Jean-Claude (duplessy@lsce.cnrs-gif.fr) * METHOD/DEVICE: Age, 14C AMS (URI: https://doi.org/10.1146/annurev.ns.30.120180.002253)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0)
+Size:	33 data points
+*/
+Depth [m]	Age dated [ka]	Age dated std dev [±]	Dated material
+0.95	3.12	0.09	measured on N. pachy. dex.
+2.00	7.88	0.11	measured on G. bulloides
+2.50	9.61	0.09	measured on G. bulloides
+2.70	10.47	0.14	measured on G. bulloides
+2.85	10.92	0.09	measured on N. pachy. sin.
+3.05	11.29	0.12	measured on G. bulloides
+3.25	11.98	0.12	measured on G. bulloides
+3.55	15.26	0.12	measured on N. pachy. sin.
+3.80	16.30	0.14	measured on N. pachy. sin.
+4.00	17.19	0.14	measured on N. pachy. sin.
+4.40	18.91	0.27	measured on N. pachy. sin.

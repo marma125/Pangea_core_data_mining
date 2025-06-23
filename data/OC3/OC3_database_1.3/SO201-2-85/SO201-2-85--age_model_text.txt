@@ -1,0 +1,88 @@
+		:Core = "SO201_2_85" ;
+		:Parameter = "Age" ;
+		:Longitude = 170.413f ;
+		:Latitude = 57.505f ;
+		:Water\ Depth = 975.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Pacific Ocean" ;
+		:Filename = "SO201_2_85.age" ;
+		:Optional = "" ;
+		:bacon_K = 100 ;
+		:bacon_d_min = 26.f ;
+		:bacon_d_max = 1291.5f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 94.1555f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 6.f ;
+		:bacon_t_b = 7.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 9854.87f ;
+		:bacon_th0p = 9932.04f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SO201-2-85
+    Parameter: Age
+    Longitude: 170.413
+    Latitude: 57.505
+    Water Depth: 975.0
+    Proxy Category: Age
+    Device: Piston corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.830220
+    Reference: Max, L., Lembke-Jene, L., Riethdorf, J.-R., Tiedemann, R., N�rnberg, D., K�hn, H., and Mackensen, A.: Pulses of enhanced North Pacific Intermediate Water ventilation from the Okhotsk Sea and Bering Sea during the last deglaciation, Clim. Past, 10, 591-605, doi:10.5194/cp-10-591-2014, 2014.
+    Use Flag: 0
+    Importer: na
+    Filename: SO201-2-85.age
+    Optional: na
+    bacon_K: 22
+    bacon_d_min: 26.5
+    bacon_d_max: 155.5
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 95.6938
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 9924.75
+    bacon_th0p: 10010.6
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(7), Label_Characters(9), Type_Characters(3), Comment_Characters(101), bacon_out_nrow(1000), bacon_out_ncol(25), Bacon Length(129)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

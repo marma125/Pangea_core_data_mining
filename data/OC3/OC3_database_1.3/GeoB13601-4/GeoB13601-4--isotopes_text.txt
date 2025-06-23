@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB13601-4
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -18.005
+    Latitude: 12.434
+    WaterDepth: 2997.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: 0.02 m (Poz-35102): > modern
+    DataSource: Laboratory
+    Reference: Just, J., Dekkers, M. J., Dobeneck, T. von, van Hoesel, A., and Bickert, T.: Signatures and significance of aeolian, fluvial, bacterial and diagenetic magnetic mineral fractions in Late Quaternary marine sediments off Gambia, NW Africa, Geochemistry, Geophysics, Geosystems, 13, 191, doi:10.1029/2012GC004146, 2012. d13C: N. Syring (2011)
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Torsten Bickert
+    Optional: na
+    dimensions(sizes): Length(164), Character(36)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

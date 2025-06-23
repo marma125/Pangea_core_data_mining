@@ -1,0 +1,88 @@
+		:Core = "GIK23258_2" ;
+		:Parameter = "Age" ;
+		:Longitude = 13.9685f ;
+		:Latitude = 74.9981f ;
+		:Water\ Depth = 1768.f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Arctic Ocean" ;
+		:Filename = "GIK23258_2.age" ;
+		:Optional = "" ;
+		:bacon_K = 74 ;
+		:bacon_d_min = 25.f ;
+		:bacon_d_max = 394.f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 32.893f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 3.f ;
+		:bacon_t_b = 4.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 739.677f ;
+		:bacon_th0p = 771.731f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GIK23258_2
+    Parameter: Age
+    Longitude: 13.969
+    Latitude: 74.998
+    Water Depth: 1768.0
+    Proxy Category: Age
+    Device: Kasten corer (KAL)
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.114681
+    Reference: Sarnthein, M., Kreveld, S., Erlenkeuser, H., Grootes, P. M., Kucera, M., Pflaumann, U., and Schulz, M.: Centennial-to-millennial-scale periodicities of Holocene climate and sediment injections off the western Barents shelf, 75�N, Boreas, 32, 447-461, doi:10.1111/j.1502-3885.2003.tb01227.x, 2003.
+    Use Flag: 0
+    Importer: na
+    Filename: GIK23258_2.age
+    Optional: na
+    bacon_K: 73
+    bacon_d_min: 25.0
+    bacon_d_max: 394.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 32.893
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 771.01
+    bacon_th0p: 780.284
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(15), Label_Characters(8), Type_Characters(3), Comment_Characters(87), bacon_out_nrow(1000), bacon_out_ncol(76), Bacon Length(369)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

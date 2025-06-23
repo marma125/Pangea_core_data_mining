@@ -1,0 +1,92 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: V26-176_b
+    Parameter: Age
+    Longitude: -72.373
+    Latitude: 36.048
+    Water Depth: 3942.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: V26-176_b.age
+    Optional: 
+    bacon_K: 112
+    bacon_d_min: 0.0
+    bacon_d_max: 560.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 57.5518
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal13
+    bacon_cc2: Marine13
+    bacon_cc3: SHCal13
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 3.0
+    bacon_t_b: 4.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 697.404
+    bacon_th0p: 1591.75
+    bacon_burnin: 0
+    bacon_ssize: 2000
+    bacon_yr_min: -5360.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(43), Label_Characters(3), Type_Characters(6), Comment_Characters(77), bacon_out_nrow(2000), bacon_out_ncol(115), Bacon Length(560)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: V26-176_b
+    Parameter: Age
+    Longitude: -72.38
+    Latitude: 36.05
+    Water Depth: 3942.0
+    Proxy Category: Age
+    Device: Piston corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.186283
+    Reference: CLIMAP Project Members: Radiocarbon age determinations on sediment core V26-176_b, PANGAEA - Data Publisher for Earth & Environmental Science, https://doi.org/10.1594/PANGAEA.186283, 2004.
+    Use Flag: 0
+    Importer: na
+    Filename: V26-176_b.age
+    Optional: na
+    bacon_K: 55
+    bacon_d_min: 10.0
+    bacon_d_max: 560.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 44.1275
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 2987.57
+    bacon_th0p: 2760.74
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1200.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(7), Label_Characters(4), Type_Characters(3), Comment_Characters(71), bacon_out_nrow(1000), bacon_out_ncol(58), Bacon Length(550)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

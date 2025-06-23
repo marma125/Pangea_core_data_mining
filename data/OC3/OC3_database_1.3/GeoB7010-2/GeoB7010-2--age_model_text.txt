@@ -1,0 +1,46 @@
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB7010-2
+    Parameter: Age
+    Longitude: -53.205
+    Latitude: 8.57
+    Water Depth: 2549.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.831639
+    Reference: Govin, A., Chiessi, C. M., Zabel, M., Sawakuchi, A. O., Heslop, D., H�rner, T., Zhang, Y., and Mulitza, S.: Terrigenous input off northern South America driven by changes in Amazonian climate and the North Brazil Current retroflection during the last 250 ka, Clim. Past, 10, 843-862, doi:10.5194/cp-10-843-2014, 2014.
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB7010-2.age
+    Optional: na
+    bacon_K: 68
+    bacon_d_min: 5.0
+    bacon_d_max: 345.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 126.09
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1851.47
+    bacon_th0p: 2722.77
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1200.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(8), Label_Characters(9), Type_Characters(3), Comment_Characters(73), bacon_out_nrow(1000), bacon_out_ncol(71), Bacon Length(340)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

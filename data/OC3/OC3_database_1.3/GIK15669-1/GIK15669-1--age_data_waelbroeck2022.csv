@@ -1,0 +1,5 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK15669-1,,0.15,,KI2548.011,,4460,50,50,530,100,100,4326,187,157,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GIK15669-1,,0.45,,KI2548.021,,12370,150,150,530,200,200,13622,363,326,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GIK15669-1,,0.78,,KI2548.031,,16630,330,330,530,200,200,19219,383,460,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,
+GIK15669-1,,1.25,,KI2548.041,,22820,630,630,530,200,200,26385,721,577,IntCal20 + res age temporal component,,,From Waelbroeck et al. 2019 compilation (2022 update),,,

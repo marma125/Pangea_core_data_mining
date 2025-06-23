@@ -1,0 +1,14 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+SO42-74KL,,0.075,,,G. ruber,1230,60,60,456.4,51.8,51.8,725,182,164,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,0.35,,,G. ruber,3350,100,100,425.6,50.5,50.5,3084,276,285,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,0.55,,,G. ruber,5540,90,90,493.6,52,52,5787,205,194,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,0.7,,,G. ruber,7850,90,90,436.7,53.3,53.3,8225,174,204,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,0.8,,,G. ruber,8700,120,120,426.2,56.3,56.3,9255,281,438,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,0.975,,,G. ruber,10580,120,120,465,58.7,58.7,11705,664,459,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.15,,,G. ruber,11780,130,130,508.8,27,27,13130,262,302,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.275,,,G. ruber,13060,150,150,516.4,29.7,29.7,14738,528,580,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.425,,,G. ruber,14200,170,170,588.4,37.6,37.6,16445,536,495,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.6,,,G. ruber,15880,170,170,737.9,30.4,30.4,18383,366,394,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.65,,,G. ruber,16260,170,170,706.1,29.9,29.9,18821,398,368,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.8,,,G. ruber,17130,180,180,698.7,29,29,19835,473,442,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html
+SO42-74KL,,1.975,,,G. ruber,20580,260,260,794.4,60.1,60.1,23813,622,671,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://www.nature.com/nature/journal/v364/n6435/abs/364322a0.html

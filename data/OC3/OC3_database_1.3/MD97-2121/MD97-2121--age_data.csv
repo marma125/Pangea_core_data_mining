@@ -1,0 +1,33 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD97-2121,,19-20,AMS-P,,,1032,60,60,,,,604,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,35-36,AMS-P,,,1139,60,60,,,,695,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,40-41,AMS-P,,,1748,56,56,,,,1300,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,54-55,Taupo,,,1800,,,,,,1718,calculated by Sikes and Gulderson,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,58-59,AMS-P,,,2203,56,56,,,,1800,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,106-107,Waimihia,,,3280,20,20,,,,3511,calculated using intCal13,,,,,Tephra date 3511,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,110-111,AMS-P,,,3241,56,56,,,,3058,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,190-191,Whakatane,,,4830,20,20,,,,5500,calculated by Sikes and Gulderson,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,196-197,AMS-P,,,5379,57,57,,,,5750,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,270-271,Tuhua,,,6130,30,30,,,,7019,calculated using intCal13,,,,,Tephra date 7019,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,310-311,AMS-P,,,8286,60,60,,,,8832,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,342-343,Rotoma,,,8530,10,10,,,,9300,calculated by Sikes and Gulderson,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,408-409,Poronui,,,9810,50,50,,,,11226,calculated using intCal13,,,,,Tephra date 11226,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,420-421,AMS-P,,,10818,70,70,,,,12303,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,480-481,AMS-P,,,12265,96,96,,,,13723,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,510-511,Waiohau,,,11850,60,60,,,,14000,calculated by Sikes and Gulderson,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,514-515,AMS-P,,,12664,60,60,,,,14176,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,514-515,AMS-B,,,13448,65,65,,,,15622,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,670-671,Rerewhakaaitu,,,14700,110,110,,,,17910,calculated by Sikes and Gulderson,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,748-749,AMS-P,,,17550,110,110,,,,20683,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,748-749,AMS-B,,,18060,150,150,,,,21352,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,872-873,AMS-P,,,19920,100,100,,,,23512,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,983-984,Kawakawa,,,22590,230,230,,,,25650,calculated by Sikes and Gulderson,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,984-985,AMS-P,,,22450,130,130,,,,26254,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,984-985,AMS-B,,,24200,140,140,,,,27858,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1041-1042,AMS-P,,,24050,130,130,,,,27748,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1126-1127,AMS-P,,,26250,150,150,,,,30071,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1154-1155,AMS-P,,,28250,170,170,,,,31563,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1234-1235,AMS-P,,,31090,250,250,,,,34615,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1309-1310,AMS-P,,,33590,550,550,,,,37389,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1353-1354,AMS-P,,,31890,350,350,,,,35376,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013
+MD97-2121,,1439-1440,AMS-P,,,38710,410,410,,,,42417,calculated using marine 2013,,,,,,,From Elisabeth Sikes personal communication,https://doi.org/10.1016/j.palaeo.2007.08.013

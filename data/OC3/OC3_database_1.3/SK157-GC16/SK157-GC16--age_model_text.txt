@@ -1,0 +1,103 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+
+November 29 2019
+
+Lorraine Liesicki calculated age model with BACON. Juan Muglia added age model to the folder. 
+
+Data used for the age model:
+
+## Ran on Thu Oct 10 10:37:43 2019 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal13, 0;
+Cal 2 : Marine13;
+Cal 3 : SHCal13, 0;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : 113305 , 3370, 25, 1,  0,  200,  3,  4,  2;
+Det 1 : 113306 , 8610, 35, 19,  0,  200,  3,  4,  2;
+Det 2 : 113307 , 13150, 45, 31,  0,  200,  3,  4,  2;
+Det 3 : 113308 , 18550, 80, 51,  0,  200,  3,  4,  2;
+Det 4 : 113309 , 22100, 85, 63,  0,  200,  3,  4,  2;
+Det 5 : 113310 , 27400, 120, 81,  0,  200,  3,  4,  2;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax
+Bacon 0: FixT, 161,  -69,  1e+06,  3343,  3404,  2.8,  1.2,  1.5,  0.004, 1, 81.5;
+
+BACON settings:
+
+1 #d.min
+81 #d.max
+1 #d.by
+0 #depths.file
+ #slump
+200 #acc.mean
+0.2 #acc.shape
+0.7 #mem.mean
+4 #mem.strength
+NA #boundary
+NA #hiatus.depths
+10000 #hiatus.max
+10000 #hiatus.max
+0 #BCAD
+2 #cc
+0 #postbomb
+IntCal13 #cc1
+Marine13 #cc2
+SHCal13 #cc3
+ConstCal #cc4
+cm #depth.unit
+0 #normal
+3 #t.a
+4 #t.b
+0 #delta.R
+200 #d.STD
+0.95 #prob
+yr#age.unit
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SK157-GC16
+    Parameter: Age
+    Longitude: 90.3
+    Latitude: 8.76667
+    Water Depth: 2910.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: SK157-GC16.age
+    Optional: 
+    bacon_K: 16
+    bacon_d_min: 1.0
+    bacon_d_max: 81.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 308.704
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3378.97
+    bacon_th0p: 3385.2
+    bacon_burnin: 801
+    bacon_ssize: 2000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(6), Label_Characters(12), Type_Characters(3), Comment_Characters(78), bacon_out_nrow(1801), bacon_out_ncol(19), Bacon Length(80)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

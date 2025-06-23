@@ -1,0 +1,9 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+Y69-106P,,0.03,,,,4450,110,110,603.9,54.8,54.8,4248,531,354,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://ir.library.oregonstate.edu/xmlui/handle/1957/14491
+Y69-106P,,0.125,,,,9030,155,155,651.6,61.7,61.7,9335,436,522,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://ir.library.oregonstate.edu/xmlui/handle/1957/14491
+Y69-106P,,0.325,,,,19400,800,800,1037.8,61.9,61.9,22244,1920,1800,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://ir.library.oregonstate.edu/xmlui/handle/1957/14491
+Y69-106P,,0.8500000238,,,,,,,,,,59500,2340,2340,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+Y69-106P,,1.2000000477,,,,,,,,,,71500,2420,2420,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+Y69-106P,,2,,,,,,,,,,103500,3280,3280,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+Y69-106P,,2.0999999046,,,,,,,,,,117000,5240,5240,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,
+Y69-106P,,2.4500000477,,,,,,,,,,131500,4340,4340,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,

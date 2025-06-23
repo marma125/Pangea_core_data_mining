@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: PS2561-2
+    Species: Fontbotia wuellerstorfi
+    Longitude: 28.5417
+    Latitude: -41.8583
+    WaterDepth: 4465.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: AWI
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: Schmiedl (pers. comm.)
+    Reference: Krueger, S., Leuschner, D. C., Ehrmann, W., Schmiedl, G., Mackensen, A., and Diekmann, B.: Ocean circulation patterns and dust supply into the South Atlantic during the last glacial cycle revealed by statistical analysis of kaolinite/chlorite ratios, Marine Geology, 253, 82-91, doi:10.1016/j.margeo.2008.04.015, 2008.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(118), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

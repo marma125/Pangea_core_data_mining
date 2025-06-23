@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: TR163-25T
+    Species: Cibicides wuellerstorfi
+    Longitude: -88.45
+    Latitude: -1.65
+    WaterDepth: 2650.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Trigger corer
+    Record Type: sb
+    Laboratory: NaN
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: PANGAEA, https://doi.org/10.1594/PANGAEA.891182
+    Reference: Hoogakker, B. A. A., Lu, Z., Umling, N., Jones, L., Zhou, X., Rickaby, R. E. M., Thunell, R., Cartapanis, O., and Galbraith, E.: Glacial expansion of oxygen-depleted seawater in the eastern tropical Pacific, Nature, 562, 410-413, doi:10.1038/s41586-018-0589-x, 2018.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(47), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

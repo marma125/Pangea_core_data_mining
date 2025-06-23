@@ -1,0 +1,89 @@
+		:Core = "FR1-97-GC12" ;
+		:Parameter = "Age" ;
+		:Longitude = 154.028f ;
+		:Latitude = -23.6694f ;
+		:Water\ Depth = 990.5f ;
+		:Proxy\ Category = "Age" ;
+		:Device = "NA" ;
+		:Laboratory = "" ;
+		:E-Paper = "" ;
+		:Comment = "" ;
+		:Data\ Source = "" ;
+		:Reference = "" ;
+		:Use\ Flag = 0 ;
+		:Importer = "" ;
+		:Basin = "Pacific Ocean" ;
+		:Filename = "FR1-97-GC12.age" ;
+		:Optional = "" ;
+		:bacon_K = 66 ;
+		:bacon_d_min = 20.f ;
+		:bacon_d_max = 350.f ;
+		:bacon_d_by = 1.f ;
+		:bacon_acc_shape = 1.5f ;
+		:bacon_acc_mean = 74.3365f ;
+		:bacon_mem_strength = 4.f ;
+		:bacon_mem_mean = 0.7f ;
+		:bacon_cc = 1 ;
+		:bacon_cc1 = "IntCal13" ;
+		:bacon_cc2 = "Marine13" ;
+		:bacon_cc3 = "SHCal13" ;
+		:bacon_cc4 = "ConstCal" ;
+		:bacon_postbomb = 0 ;
+		:bacon_t_a = 3.f ;
+		:bacon_t_b = 4.f ;
+		:bacon_normal = 0 ;
+		:bacon_suggest = 1 ;
+		:bacon_th0 = 3928.14f ;
+		:bacon_th0p = 4294.68f ;
+		:bacon_burnin = 0 ;
+		:bacon_ssize = 2000 ;
+		:bacon_yr_min = -1000.f ;
+		:bacon_yr_max = 100000.f ;
+
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: FR1-97-GC12
+    Parameter: Age
+    Longitude: 154.028
+    Latitude: -23.669
+    Water Depth: 991.0
+    Proxy Category: Age
+    Device: Gravity corer (GC)
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.832097
+    Reference: Bostock, H. C., Opdyke, B. N., Gagan, M. K., and Fifield, L. K.: Carbon isotope evidence for changes in Antarctic Intermediate Water circulation and ocean ventilation in the southwest Pacific during the last deglaciation, Paleoceanography, 19, doi:10.1029/2004PA001047, 2004.
+    Use Flag: 0
+    Importer: na
+    Filename: FR1-97-GC12.age
+    Optional: na
+    bacon_K: 69
+    bacon_d_min: 5.0
+    bacon_d_max: 350.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 78.1563
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 4
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1260.48
+    bacon_th0p: 877.407
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1300.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(10), Label_Characters(9), Type_Characters(3), Comment_Characters(68), bacon_out_nrow(1000), bacon_out_ncol(72), Bacon Length(345)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

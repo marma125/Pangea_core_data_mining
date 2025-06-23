@@ -1,0 +1,22 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+V23-81,,0.015,,,G. inflata,2070,90,90,481.7,51,51,1490,217,187,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,0.075,,,G. inflata,1820,90,90,491.9,50.5,50.5,1225,247,243,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,0.62,,,G. inflata,6260,150,150,526.6,54.4,54.4,6555,382,339,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.355,,,G. inflata,9490,200,200,487.5,65,65,10086,564,538,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.435,,,N. pachyderma,10120,180,180,504.5,213.1,213.1,10981,953,743,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.435,,,G. inflata,10450,200,200,793.2,264,264,11082,1067,882,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.475,,,G. inflata,10260,190,190,419.6,161.8,161.8,11343,1022,775,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.545,,,N. pachyderma,11300,140,140,913.8,253,253,12095,645,829,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.645,,,G. inflata,11500,200,200,980.6,256.5,256.5,12253,766,906,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.89,,,N. pachyderma,11850,200,200,929.1,263.7,263.7,12799,678,810,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.945,,,N. pachyderma,12660,240,240,844.7,263,263,13813,1148,775,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,1.985,,,N. pachyderma,12720,220,220,895.3,261.5,261.5,13808,1103,750,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,2.065,,,G. inflata,13240,310,310,829,259,259,14621,1208,1123,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,2.155,,,N. pachyderma,14060,210,210,946.6,260.9,260.9,15712,1081,1126,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,2.345,,,N. pachyderma,15600,190,190,1106.7,259.2,259.2,17633,805,834,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,2.935,,,N. pachyderma,17140,240,240,1093.3,255.7,255.7,19400,819,741,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,3.355,,,N. pachyderma,18790,280,280,1110.4,255.5,255.5,21402,934,877,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,3.845,,,N. pachyderma,24800,870,870,1250.1,262.4,262.4,27824,1862,1738,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,4.185,,,N. pachyderma,29400,960,960,1062.1,262.5,262.5,32496,1862,1585,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,4.495,,,N. pachyderma,32540,1240,1240,1065,265.8,265.8,35882,2940,2283,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf
+V23-81,,4.995,,,N. pachyderma,35640,1810,1810,1106.8,274.7,274.7,39113,3554,3428,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,https://www.nature.com/articles/343612a0.pdf

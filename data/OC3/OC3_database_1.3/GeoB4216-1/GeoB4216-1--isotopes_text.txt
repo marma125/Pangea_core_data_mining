@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB4216-1
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -12.4
+    Latitude: 30.63
+    WaterDepth: 2324.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: NaN
+    DataSource: Freudenthal, Tim; Meggers, Helge; Henderiks, Jorijntje; Kuhlmann, Holger; Moreno, Ana; Wefer, Gerold (2002): Age model, stable isotope record, CaCO3 and TOC of sediment core GeoB4216-1. PANGAEA, https://doi.org/10.1594/PANGAEA.57856
+    Reference: Freudenthal, T et al. (2002): Upwelling intensity and filament activity off Morocco during the last 250,000 years. Deep Sea Research Part II: Topical Studies in Oceanography, 49(17), 3655-3674, https://doi.org/10.1016/S0967-0645(02)00101-7
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Ning Zhao
+    Optional: na;Number of shells=3 to 6;min mesh size=NaN;max mesh size=NaN;OC3 age flag=3,4,5;age type=14C AMS, automated alignment to Atlantic stacks, method described in Lee et al. (2019), bacon
+    dimensions(sizes): Length(213), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,77 @@
+05/01/18. Please add comments on updates after the header. You may correct anything that is wrong. Include the date and author of the updates
+
+
+BACON meta data (by Francesco Muschitiello):
+
+
+K	110
+d_min	20
+d_max	572
+d.by	1
+acc.shape	1.5
+acc.mean	58.849
+mem.strength	4
+mem.mean	0.7
+cc	1
+cc1	IntCal13
+cc2	Marine13
+cc3	SHCal13
+cc4	ConstCal
+postbomb	0
+t_a	3
+t_b	4
+normal	0
+suggest	1
+th0	1398.31
+th0p	1364.11
+burnin	0
+ssize	2000
+yr_min	-1000
+yr_max	100000
+
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB12615-4
+    Parameter: Age
+    Longitude: 39.841
+    Latitude: -7.138
+    Water Depth: 446.0
+    Proxy Category: Age
+    Device: Gravity corer
+    Laboratory: na
+    E-Paper: na
+    Comment: na
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.829471
+    Reference: Romahn, S., Mackensen, A., Groeneveld, J., and P�tzold, J.: Deglacial intermediate water reorganization: new evidence from the Indian Ocean, Clim. Past, 10, 293-303, doi:10.5194/cp-10-293-2014, 2014.
+    Use Flag: 0
+    Importer: na
+    Filename: GeoB12615-4.age
+    Optional: na
+    bacon_K: 55
+    bacon_d_min: 20.0
+    bacon_d_max: 572.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 57.905
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 1327.13
+    bacon_th0p: 1356.64
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -1000.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(16), Label_Characters(9), Type_Characters(3), Comment_Characters(141), bacon_out_nrow(1000), bacon_out_ncol(58), Bacon Length(552)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

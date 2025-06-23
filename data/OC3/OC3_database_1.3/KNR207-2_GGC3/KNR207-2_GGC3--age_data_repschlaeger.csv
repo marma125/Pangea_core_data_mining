@@ -1,0 +1,7 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+KNR207-2_GGC3,,0.055,,OS-118321  ,,5610,20,20,336,50,50,6059,129,134,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/j.epsl.2017.10.034
+KNR207-2_GGC3,,0.21,,OS-118320  ,,10600,30,30,416,51,51,11873,230,254,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/j.epsl.2017.10.034
+KNR207-2_GGC3,,0.37,,OS-118323  ,,17650,50,50,595,27,27,20571,197,201,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/j.epsl.2017.10.034
+KNR207-2_GGC3,,0.41,,OS-118326  ,,24500,75,75,674,27,27,27863,197,180,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/j.epsl.2017.10.034
+KNR207-2_GGC3,,0.51,,OS-118325  ,,30800,110,110,659,31,31,34171,299,272,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/j.epsl.2017.10.034
+KNR207-2_GGC3,,0.65,,OS-118324  ,,38700,220,220,811,34,34,42168,349,344,IntCal13,,,Age model from Repschlaeger et al. (2021),BACON.IntCal13,,https://doi.org/10.1016/j.epsl.2017.10.034

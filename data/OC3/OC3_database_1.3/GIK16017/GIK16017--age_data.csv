@@ -1,0 +1,22 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+GIK16017,,1.255,,,,9100,,,,,,9800,,,,,,deduced from C14 analog age of 9.1 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.134287
+GIK16017,,1.605,,,,10400,,,,,,12400,,,,,,deduced from C14 analog age of 10.4 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.134287
+GIK16017,,2.205,,,,13600,,,,,,17100,,,,,,deduced from C14 analog age of 13.6 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.134287
+GIK16017,,2.355,,,,14800,,,,,,18300,,,,,,deduced from C14 analog age of 14.8 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.134287
+GIK16017,,3.405,,,,26000,,,,,,29500,,,,,,deduced from C14 analog age of 26.0 ka; after Bard et al. (1990),,,https://doi.pangaea.de/10.1594/PANGAEA.134287
+GIK16017,,0.13,,,,3600,,,,,,3.91,,,,,,"conventional 14C dating, Winn et al. 1991",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,0.375,,,,7200,,,,,,8.05,,,,,,"conventional 14C dating, Winn et al. 1991",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,0.8,,,,11470,,,,,,13.47,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,1.2,,,,13700,,,,,,17.2,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,1.255,,,,9100,,,,,,9.8,,,,,,"AMS 14C analogue base on C.wuell. d18O, cor. after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,1.6,,,,16060,,,,,,19.56,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,1.605,,,,,,,,,,11.6,,,,,,"Top Younger Dryas GISP2 based on C.wuell. d18O, cor. after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.165,,,,15360,,,,,,18.86,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.165,,,,15700,,,,,,19.2,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.165,,,,17800,,,,,,21.3,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.205,,,,13600,,,,,,17.1,,,,,,AMS 14C analogue corrected after Bard et al. 1990,,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.25,,,,20060,,,,,,23.56,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.355,,,,14800,,,,,,18.3,,,,,,"AMS 14C analogue base on C.wuell. d18O, cor. after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,2.8,,,,25490,,,,,,28.99,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,3.1,,,,29520,,,,,,33.02,,,,,,"conventional 14C dating, corrected after Bard et al. 1990",,,https://doi.pangaea.de/10.1594/PANGAEA.59662
+GIK16017,,3.405,,,,26000,,,,,,29.5,,,,,,AMS 14C analogue corrected after Bard et al. 1990,,,https://doi.pangaea.de/10.1594/PANGAEA.59662

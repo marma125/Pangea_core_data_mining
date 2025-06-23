@@ -1,0 +1,22 @@
+BACON output from Repschlaeger et al. 2021:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: BOFS26_6k
+    Parameter: Age
+    Longitude: -19.84
+    Latitude: 24.45
+    Water Depth: 3680.0
+    Proxy Category: Age
+    Device: Kasten corer (KAL)
+    Laboratory: 
+    E-Paper: 
+    Comment: 
+    Data Source: 
+    Reference: 
+    Use Flag: 0
+    Importer: 
+    Filename: BOFS26_6k.age
+    Optional: 
+    dimensions(sizes): Length(22), Label_Characters(3), Type_Characters(3), Comment_Characters(103)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length)
+    groups: 

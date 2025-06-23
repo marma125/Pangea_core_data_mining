@@ -1,0 +1,4 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+EW9504_09PC,CAMS 30138,0.09,,,,2170,50,50,392,51.9,51.9,1703,164,151,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://onlinelibrary.wiley.com/doi/10.1029/1999PA000375/epdf
+EW9504_09PC,CAMS 30139,1.05,,,,11010,60,60,549.3,53.7,53.7,12352,247,285,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://onlinelibrary.wiley.com/doi/10.1029/1999PA000375/epdf
+EW9504_09PC,CAMS 30140,2.49,,,,22990,150,150,883.1,43.2,43.2,26329,434,359,IntCal13,,,From Jonkers et al. 2020 compilation paper,,,http://onlinelibrary.wiley.com/doi/10.1029/1999PA000375/epdf

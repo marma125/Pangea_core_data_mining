@@ -1,0 +1,10 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+RAPiD-17-5-P,,7.51,14C,,G. bulloides,8823,39,39,430,100,100,9326,154,77,IntCal13 + res age temporal component,,,From Waelbroeck et al. 2019 compilation,,,https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009PA001833
+RAPiD-17-5-P,,8.625,Saksunarvatn ash ,,,,,,,,,10297,45,45,,,,From Waelbroeck et al. 2019 compilation,Blockley-QSR14,,https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009PA001833
+RAPiD-17-5-P,,9.195,Tied to NGRIP delta18O ,,,,,,,,,11410,50,50,,,,From Waelbroeck et al. 2019 compilation,error extrapolated from Wolff-QSR10,,https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009PA001833
+RAPiD-17-5-P,,9.275,Tied to NGRIP delta18O ,,,,,,,,,11653,50,50,,,,From Waelbroeck et al. 2019 compilation,Wolff et al., 2010 (Table2),
+RAPiD-17-5-P,,9.545,Vedde ash ,,,,,,,,,12121,57,57,,,,From Waelbroeck et al. 2019 compilation,Blockley-QSR14,,
+RAPiD-17-5-P,,9.565,Tied to NGRIP delta18O ,,,,,,,,,12710,250,250,,,,From Waelbroeck et al. 2019 compilation,Rassmussen et al., 2014 (Table2),
+RAPiD-17-5-P,,9.625,Tied to NGRIP delta18O ,,,,,,,,,13110,250,250,,,,From Waelbroeck et al. 2019 compilation,error extrapolated from Rasmussen-QSR2014,,
+RAPiD-17-5-P,,9.765,Tied to NGRIP delta18O ,,,,,,,,,14642,100,100,,,,From Waelbroeck et al. 2019 compilation,Wolff et al., 2010 (Table2),
+RAPiD-17-5-P,,10.725,Tied to NGRIP delta18O ,,,,,,,,,23330,300,300,,,,From Waelbroeck et al. 2019 compilation,Wolff et al., 2010 (Table2),

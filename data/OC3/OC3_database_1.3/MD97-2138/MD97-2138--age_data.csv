@@ -1,0 +1,7 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+MD97-2138,GifA-101001,0.01,,,G. ruber (white),3350,60,60,,,,3208,,,,,,,,,https://doi.org/10.1029/2006PA001269
+MD97-2138,GifA-101002,0.65,,,G. ruber (white),9210,90,90,,,,9830,,,,,,,,,https://doi.org/10.1029/2006PA001269
+MD97-2138,GifA-101003,1.01,,,G. ruber (white),11790,110,110,,,,13177,,,,,,,,,https://doi.org/10.1029/2006PA001269
+MD97-2138,GifA-101004,1.65,,,G. ruber (white),15630,140,140,,,,18090,,,,,,,,,https://doi.org/10.1029/2006PA001269
+MD97-2138,GifA-101005,2.2,,,G. ruber (white),19420,150,150,,,,22451,,,,,,,,,https://doi.org/10.1029/2006PA001269
+MD97-2138,GifA-101006,2.8,,,G. ruber (white),25030,230,230,,,,28930,,,,,,,,,https://doi.org/10.1029/2006PA001269

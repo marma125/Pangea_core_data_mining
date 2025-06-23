@@ -1,0 +1,11 @@
+Site,Sample label,sample_depth,technique,lab. code,species/material,radiocarbon_age (y),radiocarbon_age_error_plus (y),radiocarbon_age_error_minus (y),reservoir_age (y),reservoir_age_error_plus (y),reservoir_age_error_minus (y),calendar_age (yBP),calendar_age_error_plus (yBP),calendar_age_error_minus (yBP),calibration curve,alignment target,alignment proxy,note1,note2,original reference,data doi
+WIND-28K,,0.005,,,,8632.0,29.0,29.0,435.0,52.699999999999996,52.699999999999996,9161.0,239.0,152.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.205,,,,7714.0,28.0,28.0,460.0,51.1,51.1,8077.999999999999,101.00000000000091,111.99999999999909,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.325,,,,9589.0,31.0,31.0,402.0,60.699999999999996,60.699999999999996,10363.0,191.0,132.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.405,,,,10866.0,42.0,42.0,545.0,50.4,50.4,12175.0,299.0,336.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.485,,,,12117.0,40.0,40.0,576.0,36.4,36.4,13404.0,161.0,97.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.565,,,,13351.0,49.0,49.0,614.0,40.800000000000004,40.800000000000004,15186.0,209.0,207.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.645,,,,15011.0,61.0,61.0,783.0,55.1,55.1,17263.0,252.0,221.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.805,,,,17688.0,76.0,76.0,803.0,54.6,54.6,20396.0,238.0,263.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,0.965,,,,20047.0,104.0,104.0,799.0,53.3,53.3,23232.0,490.0,286.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,
+WIND-28K,,1.205,,,,25645.0,203.0,203.0,939.0,68.6,68.6,28939.0,542.0,494.0,IntCal20,,,From Mulitza et al. 2022 ESSD compilation,,,

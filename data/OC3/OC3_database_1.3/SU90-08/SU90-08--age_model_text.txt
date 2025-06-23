@@ -1,0 +1,47 @@
+BACON output from Stefan Mulitza:
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: SU90-08
+    Parameter: Age
+    Longitude: -30.408
+    Latitude: 43.353
+    Water Depth: 3080.0
+    Proxy Category: Age
+    Device: Piston corer (PC)
+    Laboratory: na
+    E-Paper: na
+    Comment: Added 0.4 ka to radiocarbon ages from Grousset et al. (1993) to reverse reservoir correction
+
+    Data Source: PANGAEA, https://doi.org/10.1594/PANGAEA.857864, paper supplement
+    Reference: Grousset, F. E., Labeyrie, L., Sinko, J. A., Cremer, M., Bond, G., Duprat, J., Cortijo, E., and Huon, S.: Patterns of Ice-Rafted Detritus in the Glacial North Atlantic (40-55�N), Paleoceanography, 8, 175-192, doi:10.1029/92PA02923, 1993., Elliot, M., Labeyrie, L., Bond, G., Cortijo, E., Turon, J.-L., Tisnerat, N., and Duplessy, J.-C.: Millennial-scale iceberg discharges in the Irminger Basin during the Last Glacial Period: Relationship with the Heinrich events and environmental settings, Paleoceanography, 13, 433-446, doi:10.1029/98PA01792, 1998., Missiaen, L., Wacker, L., Lougheed, B. C., Skinner, L., Hajdas, I., Nouet, J., Pichat, S., and Waelbroeck, C.: Radiocarbon Dating of Small-sized Foraminifer Samples: Insights into Marine sediment Mixing, Radiocarbon, 62, 313-333, doi:10.1017/RDC.2020.13, 2020.
+    Use Flag: 0
+    Importer: na
+    Filename: SU90-08.age
+    Optional: na
+    bacon_K: 41
+    bacon_d_min: 3.0
+    bacon_d_max: 210.0
+    bacon_d_by: 1.0
+    bacon_acc_shape: 1.5
+    bacon_acc_mean: 162.313
+    bacon_mem_strength: 4.0
+    bacon_mem_mean: 0.7
+    bacon_cc: 1
+    bacon_cc1: IntCal20
+    bacon_cc2: Marine20
+    bacon_cc3: SHCal20
+    bacon_cc4: ConstCal
+    bacon_postbomb: 0
+    bacon_t_a: 10.0
+    bacon_t_b: 11.0
+    bacon_normal: 0
+    bacon_suggest: 1
+    bacon_th0: 3074.04
+    bacon_th0p: 3190.91
+    bacon_burnin: 0
+    bacon_ssize: 1000
+    bacon_yr_min: -50.0
+    bacon_yr_max: 100000.0
+    dimensions(sizes): Length(72), Label_Characters(13), Type_Characters(3), Comment_Characters(102), bacon_out_nrow(1000), bacon_out_ncol(44), Bacon Length(207)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), |S1 Label(Label_Characters, Length), |S1 Type(Type_Characters, Length), float64 Age dated(Length), float64 Age +Error(Length), float64 Age -Error(Length), float64 Reservoir Age(Length), float64 Reservoir Age Error(Length), float64 Cal Age(Length), float64 Cal Age Min(Length), float64 Cal Age Max(Length), int32 Use Flag(Length), |S1 Comment(Comment_Characters, Length), float32 bacon_data(bacon_out_nrow, bacon_out_ncol), float64 Bacon Depth(Bacon Length), float64 Bacon Mean Age(Bacon Length), float64 Bacon 2.5% Quantile(Bacon Length), float64 Bacon Median(Bacon Length), float64 Bacon 97.5% Quantile(Bacon Length)
+    groups: 

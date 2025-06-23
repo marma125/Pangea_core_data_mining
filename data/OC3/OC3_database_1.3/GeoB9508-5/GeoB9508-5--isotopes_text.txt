@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB9508_5
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -17.948
+    Latitude: 15.498
+    WaterDepth: 2384.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: NAN
+    Record Type: NAN
+    Laboratory: NAN
+    E-Paper: NAN
+    Comment: Parameter: ParameterAnalyticalError: NA, 0.07;
+    DataSource: https://doi.pangaea.de/10.1594/PANGAEA.726776
+    Reference: Mulitza, S., Prange, M., Stuut, J.-B., Zabel, M., von Dobeneck, T., Itambi, A. C., Nizou, J., Schulz, M. and Wefer, G.: Sahel megadroughts triggered by glacial slowdowns of Atlantic meridional overturning, Paleoceanography, 23(4), n/a-n/a, doi:10.1029/2008pa001637, 2008.
+    Oxygen Use Flag: 0.0
+    Carbon Use Flag: 0.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NAN
+    C-Correction Justification: NAN
+    Importer: PALMOD2PDV
+    Optional: na;Number of shells=1-10;min mesh size=NaN; max mesh size=NaN;OC3 age flag=3,4 ;age type=14C AMS, bacon , palmod2pdv
+    dimensions(sizes): Length(345), Character(3)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 

@@ -1,0 +1,26 @@
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    Core: GeoB7010-2
+    Species: Cibicidoides wuellerstorfi
+    Longitude: -53.205
+    Latitude: 8.57
+    WaterDepth: 2549.0
+    Proxy Category: Foraminiferal Isotopes
+    Device: Gravity corer
+    Record Type: sb
+    Laboratory: Bremen
+    E-Paper: NaN
+    Comment: 19 outliers have been removed, mainly due to small sample size, see Kuhr (2011)
+    DataSource: Laboratory
+    Reference: Kuhr, J.: Sp�tquart�re Niederschlagsver�nderungen im Amazonasbecken: Einfluss von Sonneneinstrahlung und Ozeanzirkulation, Masterarbeit, Fachbereich Geowissenschaften, Universit�t Bremen, Bremen, 58 pp., 2011., Govin, A., Chiessi, C. M., Zabel, M., Sawakuchi, A. O., Heslop, D., H�rner, T., Zhang, Y., and Mulitza, S.: Terrigenous input off northern South America driven by changes in Amazonian climate and the North Brazil Current retroflection during the last 250 ka, Clim. Past, 10, 843-862, doi:10.5194/cp-10-843-2014, 2014.
+    Oxygen Use Flag: 1.0
+    Carbon Use Flag: 1.0
+    O-Correction: 0.0
+    C-Correction: 0.0
+    O-Correction Justification: NaN
+    C-Correction Justification: NaN
+    Importer: Stefan Mulitza
+    Optional: na
+    dimensions(sizes): Length(168), Character(29)
+    variables(dimensions): float64 Depth(Length), float64 Sample Thickness(Length), float64 Age(Length), float64 d13C(Length), float64 d18O(Length), float64 d13C Err(Length), float64 d18O Err(Length), float64 d13C Corr(Length), float64 d18O Corr(Length), float64 Use Flag(Length), |S1 Comment(Length, Character)
+    groups: 
